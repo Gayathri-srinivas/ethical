@@ -1,0 +1,867 @@
+{
+  "Book": [
+    {
+      "BookName": "Hosea",
+      "Chapter": [
+        {
+          "Chapterid": "1",
+          "Verse": [
+            {
+              "Verseid": "00000001",
+              "Verse": "The word of the Lord that came to Hosea son of Beeri during the reigns of Uzziah, Jotham, Ahaz and Hezekiah, kings of Judah, and during the reign of Jeroboam son of Jehoash king of Israel:"
+            },
+            {
+              "Verseid": "00000002",
+              "Verse": "When the Lord began to speak through Hosea, the Lord said to him, “Go, marry a promiscuous woman and have children with her, for like an adulterous wife this land is guilty of unfaithfulness to the Lord.”"
+            },
+            {
+              "Verseid": "00000003",
+              "Verse": "So he married Gomer daughter of Diblaim, and she conceived and bore him a son."
+            },
+            {
+              "Verseid": "00000004",
+              "Verse": "Then the Lord said to Hosea, “Call him Jezreel, because I will soon punish the house of Jehu for the massacre at Jezreel, and I will put an end to the kingdom of Israel."
+            },
+            {
+              "Verseid": "00000005",
+              "Verse": "In that day I will break Israel`s bow in the Valley of Jezreel.”"
+            },
+            {
+              "Verseid": "00000006",
+              "Verse": "Gomer conceived again and gave birth to a daughter. Then the Lord said to Hosea, “Call her Lo-Ruhamah (which means “not loved”), for I will no longer show love to Israel, that I should at all forgive them."
+            },
+            {
+              "Verseid": "00000007",
+              "Verse": "Yet I will show love to Judah; and I will save them—not by bow, sword or battle, or by horses and horsemen, but I, the Lord their God, will save them.”"
+            },
+            {
+              "Verseid": "00000008",
+              "Verse": "After she had weaned Lo-Ruhamah, Gomer had another son."
+            },
+            {
+              "Verseid": "00000009",
+              "Verse": "Then the Lord said, “Call him Lo-Ammi (which means “not my people”), for you are not my people, and I am not your God."
+            },
+            {
+              "Verseid": "00000010",
+              "Verse": "“Yet the Israelites will be like the sand on the seashore, which cannot be measured or counted. In the place where it was said to them, ‘You are not my people,` they will be called ‘children of the living God.`"
+            },
+            {
+              "Verseid": "00000011",
+              "Verse": "The people of Judah and the people of Israel will come together; they will appoint one leader and will come up out of the land, for great will be the day of Jezreel."
+            }
+          ]
+        },
+        {
+          "Chapterid": "2",
+          "Verse": [
+            {
+              "Verseid": "00000001",
+              "Verse": "“Say of your brothers, ‘My people,` and of your sisters, ‘My loved one.`"
+            },
+            {
+              "Verseid": "00000002",
+              "Verse": "“Rebuke your mother, rebuke her, for she is not my wife, and I am not her husband. Let her remove the adulterous look from her face and the unfaithfulness from between her breasts."
+            },
+            {
+              "Verseid": "00000003",
+              "Verse": "Otherwise I will strip her naked and make her as bare as on the day she was born; I will make her like a desert, turn her into a parched land, and slay her with thirst."
+            },
+            {
+              "Verseid": "00000004",
+              "Verse": "I will not show my love to her children, because they are the children of adultery."
+            },
+            {
+              "Verseid": "00000005",
+              "Verse": "Their mother has been unfaithful and has conceived them in disgrace. She said, ‘I will go after my lovers, who give me my food and my water, my wool and my linen, my olive oil and my drink.`"
+            },
+            {
+              "Verseid": "00000006",
+              "Verse": "Therefore I will block her path with thornbushes; I will wall her in so that she cannot find her way."
+            },
+            {
+              "Verseid": "00000007",
+              "Verse": "She will chase after her lovers but not catch them; she will look for them but not find them. Then she will say, ‘I will go back to my husband as at first, for then I was better off than now.`"
+            },
+            {
+              "Verseid": "00000008",
+              "Verse": "She has not acknowledged that I was the one who gave her the grain, the new wine and oil, who lavished on her the silver and gold— which they used for Baal."
+            },
+            {
+              "Verseid": "00000009",
+              "Verse": "“Therefore I will take away my grain when it ripens, and my new wine when it is ready. I will take back my wool and my linen, intended to cover her naked body."
+            },
+            {
+              "Verseid": "00000010",
+              "Verse": "So now I will expose her lewdness before the eyes of her lovers; no one will take her out of my hands."
+            },
+            {
+              "Verseid": "00000011",
+              "Verse": "I will stop all her celebrations: her yearly festivals, her New Moons, her Sabbath days—all her appointed festivals."
+            },
+            {
+              "Verseid": "00000012",
+              "Verse": "I will ruin her vines and her fig trees, which she said were her pay from her lovers; I will make them a thicket, and wild animals will devour them."
+            },
+            {
+              "Verseid": "00000013",
+              "Verse": "I will punish her for the days she burned incense to the Baals; she decked herself with rings and jewelry, and went after her lovers, but me she forgot,” declares the Lord."
+            },
+            {
+              "Verseid": "00000014",
+              "Verse": "“Therefore I am now going to allure her; I will lead her into the wilderness and speak tenderly to her."
+            },
+            {
+              "Verseid": "00000015",
+              "Verse": "There I will give her back her vineyards, and will make the Valley of Achor a door of hope. There she will respond as in the days of her youth, as in the day she came up out of Egypt."
+            },
+            {
+              "Verseid": "00000016",
+              "Verse": "“In that day,” declares the Lord, “you will call me ‘my husband`; you will no longer call me ‘my master.`"
+            },
+            {
+              "Verseid": "00000017",
+              "Verse": "I will remove the names of the Baals from her lips; no longer will their names be invoked."
+            },
+            {
+              "Verseid": "00000018",
+              "Verse": "In that day I will make a covenant for them with the beasts of the field, the birds in the sky and the creatures that move along the ground. Bow and sword and battle I will abolish from the land, so that all may lie down in safety."
+            },
+            {
+              "Verseid": "00000019",
+              "Verse": "I will betroth you to me forever; I will betroth you in righteousness and justice, in love and compassion."
+            },
+            {
+              "Verseid": "00000020",
+              "Verse": "I will betroth you in faithfulness, and you will acknowledge the Lord."
+            },
+            {
+              "Verseid": "00000021",
+              "Verse": "“In that day I will respond,” declares the Lord— “I will respond to the skies, and they will respond to the earth;"
+            },
+            {
+              "Verseid": "00000022",
+              "Verse": "and the earth will respond to the grain, the new wine and the olive oil, and they will respond to Jezreel."
+            },
+            {
+              "Verseid": "00000023",
+              "Verse": "I will plant her for myself in the land; I will show my love to the one I called ‘Not my loved one.` I will say to those called ‘Not my people,` ‘You are my people`; and they will say, ‘You are my God.`”"
+            }
+          ]
+        },
+        {
+          "Chapterid": "3",
+          "Verse": [
+            {
+              "Verseid": "00000001",
+              "Verse": "The Lord said to me, “Go, show your love to your wife again, though she is loved by another man and is an adulteress. Love her as the Lord loves the Israelites, though they turn to other gods and love the sacred raisin cakes.”"
+            },
+            {
+              "Verseid": "00000002",
+              "Verse": "So I bought her for fifteen shekels of silver and about a homer and a lethek of barley."
+            },
+            {
+              "Verseid": "00000003",
+              "Verse": "Then I told her, “You are to live with me many days; you must not be a prostitute or be intimate with any man, and I will behave the same way toward you.”"
+            },
+            {
+              "Verseid": "00000004",
+              "Verse": "For the Israelites will live many days without king or prince, without sacrifice or sacred stones, without ephod or household gods."
+            },
+            {
+              "Verseid": "00000005",
+              "Verse": "Afterward the Israelites will return and seek the Lord their God and David their king. They will come trembling to the Lord and to his blessings in the last days."
+            }
+          ]
+        },
+        {
+          "Chapterid": "4",
+          "Verse": [
+            {
+              "Verseid": "00000001",
+              "Verse": "Hear the word of the Lord, you Israelites, because the Lord has a charge to bring against you who live in the land: “There is no faithfulness, no love, no acknowledgment of God in the land."
+            },
+            {
+              "Verseid": "00000002",
+              "Verse": "There is only cursing, lying and murder, stealing and adultery; they break all bounds, and bloodshed follows bloodshed."
+            },
+            {
+              "Verseid": "00000003",
+              "Verse": "Because of this the land dries up, and all who live in it waste away; the beasts of the field, the birds in the sky and the fish in the sea are swept away."
+            },
+            {
+              "Verseid": "00000004",
+              "Verse": "“But let no one bring a charge, let no one accuse another, for your people are like those who bring charges against a priest."
+            },
+            {
+              "Verseid": "00000005",
+              "Verse": "You stumble day and night, and the prophets stumble with you. So I will destroy your mother—"
+            },
+            {
+              "Verseid": "00000006",
+              "Verse": "my people are destroyed from lack of knowledge. “Because you have rejected knowledge, I also reject you as my priests; because you have ignored the law of your God, I also will ignore your children."
+            },
+            {
+              "Verseid": "00000007",
+              "Verse": "The more priests there were, the more they sinned against me; they exchanged their glorious God for something disgraceful."
+            },
+            {
+              "Verseid": "00000008",
+              "Verse": "They feed on the sins of my people and relish their wickedness."
+            },
+            {
+              "Verseid": "00000009",
+              "Verse": "And it will be: Like people, like priests. I will punish both of them for their ways and repay them for their deeds."
+            },
+            {
+              "Verseid": "00000010",
+              "Verse": "“They will eat but not have enough; they will engage in prostitution but not flourish, because they have deserted the Lord to give themselves"
+            },
+            {
+              "Verseid": "00000011",
+              "Verse": "to prostitution; old wine and new wine take away their understanding."
+            },
+            {
+              "Verseid": "00000012",
+              "Verse": "My people consult a wooden idol, and a diviner`s rod speaks to them. A spirit of prostitution leads them astray; they are unfaithful to their God."
+            },
+            {
+              "Verseid": "00000013",
+              "Verse": "They sacrifice on the mountaintops and burn offerings on the hills, under oak, poplar and terebinth, where the shade is pleasant. Therefore your daughters turn to prostitution and your daughters-in-law to adultery."
+            },
+            {
+              "Verseid": "00000014",
+              "Verse": "“I will not punish your daughters when they turn to prostitution, nor your daughters-in-law when they commit adultery, because the men themselves consort with harlots and sacrifice with shrine prostitutes— a people without understanding will come to ruin!"
+            },
+            {
+              "Verseid": "00000015",
+              "Verse": "“Though you, Israel, commit adultery, do not let Judah become guilty. “Do not go to Gilgal; do not go up to Beth Aven. And do not swear, ‘As surely as the Lord lives!`"
+            },
+            {
+              "Verseid": "00000016",
+              "Verse": "The Israelites are stubborn, like a stubborn heifer. How then can the Lord pasture them like lambs in a meadow?"
+            },
+            {
+              "Verseid": "00000017",
+              "Verse": "Ephraim is joined to idols; leave him alone!"
+            },
+            {
+              "Verseid": "00000018",
+              "Verse": "Even when their drinks are gone, they continue their prostitution; their rulers dearly love shameful ways."
+            },
+            {
+              "Verseid": "00000019",
+              "Verse": "A whirlwind will sweep them away, and their sacrifices will bring them shame."
+            }
+          ]
+        },
+        {
+          "Chapterid": "5",
+          "Verse": [
+            {
+              "Verseid": "00000001",
+              "Verse": "“Hear this, you priests! Pay attention, you Israelites! Listen, royal house! This judgment is against you: You have been a snare at Mizpah, a net spread out on Tabor."
+            },
+            {
+              "Verseid": "00000002",
+              "Verse": "The rebels are knee-deep in slaughter. I will discipline all of them."
+            },
+            {
+              "Verseid": "00000003",
+              "Verse": "I know all about Ephraim; Israel is not hidden from me. Ephraim, you have now turned to prostitution; Israel is corrupt."
+            },
+            {
+              "Verseid": "00000004",
+              "Verse": "“Their deeds do not permit them to return to their God. A spirit of prostitution is in their heart; they do not acknowledge the Lord."
+            },
+            {
+              "Verseid": "00000005",
+              "Verse": "Israel`s arrogance testifies against them; the Israelites, even Ephraim, stumble in their sin; Judah also stumbles with them."
+            },
+            {
+              "Verseid": "00000006",
+              "Verse": "When they go with their flocks and herds to seek the Lord, they will not find him; he has withdrawn himself from them."
+            },
+            {
+              "Verseid": "00000007",
+              "Verse": "They are unfaithful to the Lord; they give birth to illegitimate children. When they celebrate their New Moon feasts, he will devour their fields."
+            },
+            {
+              "Verseid": "00000008",
+              "Verse": "“Sound the trumpet in Gibeah, the horn in Ramah. Raise the battle cry in Beth Aven; lead on, Benjamin."
+            },
+            {
+              "Verseid": "00000009",
+              "Verse": "Ephraim will be laid waste on the day of reckoning. Among the tribes of Israel I proclaim what is certain."
+            },
+            {
+              "Verseid": "00000010",
+              "Verse": "Judah`s leaders are like those who move boundary stones. I will pour out my wrath on them like a flood of water."
+            },
+            {
+              "Verseid": "00000011",
+              "Verse": "Ephraim is oppressed, trampled in judgment, intent on pursuing idols."
+            },
+            {
+              "Verseid": "00000012",
+              "Verse": "I am like a moth to Ephraim, like rot to the people of Judah."
+            },
+            {
+              "Verseid": "00000013",
+              "Verse": "“When Ephraim saw his sickness, and Judah his sores, then Ephraim turned to Assyria, and sent to the great king for help. But he is not able to cure you, not able to heal your sores."
+            },
+            {
+              "Verseid": "00000014",
+              "Verse": "For I will be like a lion to Ephraim, like a great lion to Judah. I will tear them to pieces and go away; I will carry them off, with no one to rescue them."
+            },
+            {
+              "Verseid": "00000015",
+              "Verse": "Then I will return to my lair until they have borne their guilt and seek my face— in their misery they will earnestly seek me.”"
+            }
+          ]
+        },
+        {
+          "Chapterid": "6",
+          "Verse": [
+            {
+              "Verseid": "00000001",
+              "Verse": "“Come, let us return to the Lord. He has torn us to pieces but he will heal us; he has injured us but he will bind up our wounds."
+            },
+            {
+              "Verseid": "00000002",
+              "Verse": "After two days he will revive us; on the third day he will restore us, that we may live in his presence."
+            },
+            {
+              "Verseid": "00000003",
+              "Verse": "Let us acknowledge the Lord; let us press on to acknowledge him. As surely as the sun rises, he will appear; he will come to us like the winter rains, like the spring rains that water the earth.”"
+            },
+            {
+              "Verseid": "00000004",
+              "Verse": "“What can I do with you, Ephraim? What can I do with you, Judah? Your love is like the morning mist, like the early dew that disappears."
+            },
+            {
+              "Verseid": "00000005",
+              "Verse": "Therefore I cut you in pieces with my prophets, I killed you with the words of my mouth— then my judgments go forth like the sun."
+            },
+            {
+              "Verseid": "00000006",
+              "Verse": "For I desire mercy, not sacrifice, and acknowledgment of God rather than burnt offerings."
+            },
+            {
+              "Verseid": "00000007",
+              "Verse": "As at Adam, they have broken the covenant; they were unfaithful to me there."
+            },
+            {
+              "Verseid": "00000008",
+              "Verse": "Gilead is a city of evildoers, stained with footprints of blood."
+            },
+            {
+              "Verseid": "00000009",
+              "Verse": "As marauders lie in ambush for a victim, so do bands of priests; they murder on the road to Shechem, carrying out their wicked schemes."
+            },
+            {
+              "Verseid": "00000010",
+              "Verse": "I have seen a horrible thing in Israel: There Ephraim is given to prostitution, Israel is defiled."
+            },
+            {
+              "Verseid": "00000011",
+              "Verse": "“Also for you, Judah, a harvest is appointed. “Whenever I would restore the fortunes of my people,"
+            }
+          ]
+        },
+        {
+          "Chapterid": "7",
+          "Verse": [
+            {
+              "Verseid": "00000001",
+              "Verse": "whenever I would heal Israel, the sins of Ephraim are exposed and the crimes of Samaria revealed. They practice deceit, thieves break into houses, bandits rob in the streets;"
+            },
+            {
+              "Verseid": "00000002",
+              "Verse": "but they do not realize that I remember all their evil deeds. Their sins engulf them; they are always before me."
+            },
+            {
+              "Verseid": "00000003",
+              "Verse": "“They delight the king with their wickedness, the princes with their lies."
+            },
+            {
+              "Verseid": "00000004",
+              "Verse": "They are all adulterers, burning like an oven whose fire the baker need not stir from the kneading of the dough till it rises."
+            },
+            {
+              "Verseid": "00000005",
+              "Verse": "On the day of the festival of our king the princes become inflamed with wine, and he joins hands with the mockers."
+            },
+            {
+              "Verseid": "00000006",
+              "Verse": "Their hearts are like an oven; they approach him with intrigue. Their passion smolders all night; in the morning it blazes like a flaming fire."
+            },
+            {
+              "Verseid": "00000007",
+              "Verse": "All of them are hot as an oven; they devour their rulers. All their kings fall, and none of them calls on me."
+            },
+            {
+              "Verseid": "00000008",
+              "Verse": "“Ephraim mixes with the nations; Ephraim is a flat loaf not turned over."
+            },
+            {
+              "Verseid": "00000009",
+              "Verse": "Foreigners sap his strength, but he does not realize it. His hair is sprinkled with gray, but he does not notice."
+            },
+            {
+              "Verseid": "00000010",
+              "Verse": "Israel`s arrogance testifies against him, but despite all this he does not return to the Lord his God or search for him."
+            },
+            {
+              "Verseid": "00000011",
+              "Verse": "“Ephraim is like a dove, easily deceived and senseless— now calling to Egypt, now turning to Assyria."
+            },
+            {
+              "Verseid": "00000012",
+              "Verse": "When they go, I will throw my net over them; I will pull them down like the birds in the sky. When I hear them flocking together, I will catch them."
+            },
+            {
+              "Verseid": "00000013",
+              "Verse": "Woe to them, because they have strayed from me! Destruction to them, because they have rebelled against me! I long to redeem them but they speak about me falsely."
+            },
+            {
+              "Verseid": "00000014",
+              "Verse": "They do not cry out to me from their hearts but wail on their beds. They slash themselves, appealing to their gods for grain and new wine, but they turn away from me."
+            },
+            {
+              "Verseid": "00000015",
+              "Verse": "I trained them and strengthened their arms, but they plot evil against me."
+            },
+            {
+              "Verseid": "00000016",
+              "Verse": "They do not turn to the Most High; they are like a faulty bow. Their leaders will fall by the sword because of their insolent words. For this they will be ridiculed in the land of Egypt."
+            }
+          ]
+        },
+        {
+          "Chapterid": "8",
+          "Verse": [
+            {
+              "Verseid": "00000001",
+              "Verse": "“Put the trumpet to your lips! An eagle is over the house of the Lord because the people have broken my covenant and rebelled against my law."
+            },
+            {
+              "Verseid": "00000002",
+              "Verse": "Israel cries out to me, ‘Our God, we acknowledge you!`"
+            },
+            {
+              "Verseid": "00000003",
+              "Verse": "But Israel has rejected what is good; an enemy will pursue him."
+            },
+            {
+              "Verseid": "00000004",
+              "Verse": "They set up kings without my consent; they choose princes without my approval. With their silver and gold they make idols for themselves to their own destruction."
+            },
+            {
+              "Verseid": "00000005",
+              "Verse": "Samaria, throw out your calf-idol! My anger burns against them. How long will they be incapable of purity?"
+            },
+            {
+              "Verseid": "00000006",
+              "Verse": "They are from Israel! This calf—a metalworker has made it; it is not God. It will be broken in pieces, that calf of Samaria."
+            },
+            {
+              "Verseid": "00000007",
+              "Verse": "“They sow the wind and reap the whirlwind. The stalk has no head; it will produce no flour. Were it to yield grain, foreigners would swallow it up."
+            },
+            {
+              "Verseid": "00000008",
+              "Verse": "Israel is swallowed up; now she is among the nations like something no one wants."
+            },
+            {
+              "Verseid": "00000009",
+              "Verse": "For they have gone up to Assyria like a wild donkey wandering alone. Ephraim has sold herself to lovers."
+            },
+            {
+              "Verseid": "00000010",
+              "Verse": "Although they have sold themselves among the nations, I will now gather them together. They will begin to waste away under the oppression of the mighty king."
+            },
+            {
+              "Verseid": "00000011",
+              "Verse": "“Though Ephraim built many altars for sin offerings, these have become altars for sinning."
+            },
+            {
+              "Verseid": "00000012",
+              "Verse": "I wrote for them the many things of my law, but they regarded them as something foreign."
+            },
+            {
+              "Verseid": "00000013",
+              "Verse": "Though they offer sacrifices as gifts to me, and though they eat the meat, the Lord is not pleased with them. Now he will remember their wickedness and punish their sins: They will return to Egypt."
+            },
+            {
+              "Verseid": "00000014",
+              "Verse": "Israel has forgotten their Maker and built palaces; Judah has fortified many towns. But I will send fire on their cities that will consume their fortresses.”"
+            }
+          ]
+        },
+        {
+          "Chapterid": "9",
+          "Verse": [
+            {
+              "Verseid": "00000001",
+              "Verse": "Do not rejoice, Israel; do not be jubilant like the other nations. For you have been unfaithful to your God; you love the wages of a prostitute at every threshing floor."
+            },
+            {
+              "Verseid": "00000002",
+              "Verse": "Threshing floors and winepresses will not feed the people; the new wine will fail them."
+            },
+            {
+              "Verseid": "00000003",
+              "Verse": "They will not remain in the Lord`s land; Ephraim will return to Egypt and eat unclean food in Assyria."
+            },
+            {
+              "Verseid": "00000004",
+              "Verse": "They will not pour out wine offerings to the Lord, nor will their sacrifices please him. Such sacrifices will be to them like the bread of mourners; all who eat them will be unclean. This food will be for themselves; it will not come into the temple of the Lord."
+            },
+            {
+              "Verseid": "00000005",
+              "Verse": "What will you do on the day of your appointed festivals, on the feast days of the Lord?"
+            },
+            {
+              "Verseid": "00000006",
+              "Verse": "Even if they escape from destruction, Egypt will gather them, and Memphis will bury them. Their treasures of silver will be taken over by briers, and thorns will overrun their tents."
+            },
+            {
+              "Verseid": "00000007",
+              "Verse": "The days of punishment are coming, the days of reckoning are at hand. Let Israel know this. Because your sins are so many and your hostility so great, the prophet is considered a fool, the inspired person a maniac."
+            },
+            {
+              "Verseid": "00000008",
+              "Verse": "The prophet, along with my God, is the watchman over Ephraim, yet snares await him on all his paths, and hostility in the house of his God."
+            },
+            {
+              "Verseid": "00000009",
+              "Verse": "They have sunk deep into corruption, as in the days of Gibeah. God will remember their wickedness and punish them for their sins."
+            },
+            {
+              "Verseid": "00000010",
+              "Verse": "“When I found Israel, it was like finding grapes in the desert; when I saw your ancestors, it was like seeing the early fruit on the fig tree. But when they came to Baal Peor, they consecrated themselves to that shameful idol and became as vile as the thing they loved."
+            },
+            {
+              "Verseid": "00000011",
+              "Verse": "Ephraim`s glory will fly away like a bird— no birth, no pregnancy, no conception."
+            },
+            {
+              "Verseid": "00000012",
+              "Verse": "Even if they rear children, I will bereave them of every one. Woe to them when I turn away from them!"
+            },
+            {
+              "Verseid": "00000013",
+              "Verse": "I have seen Ephraim, like Tyre, planted in a pleasant place. But Ephraim will bring out their children to the slayer.”"
+            },
+            {
+              "Verseid": "00000014",
+              "Verse": "Give them, Lord— what will you give them? Give them wombs that miscarry and breasts that are dry."
+            },
+            {
+              "Verseid": "00000015",
+              "Verse": "“Because of all their wickedness in Gilgal, I hated them there. Because of their sinful deeds, I will drive them out of my house. I will no longer love them; all their leaders are rebellious."
+            },
+            {
+              "Verseid": "00000016",
+              "Verse": "Ephraim is blighted, their root is withered, they yield no fruit. Even if they bear children, I will slay their cherished offspring.”"
+            },
+            {
+              "Verseid": "00000017",
+              "Verse": "My God will reject them because they have not obeyed him; they will be wanderers among the nations."
+            }
+          ]
+        },
+        {
+          "Chapterid": "10",
+          "Verse": [
+            {
+              "Verseid": "00000001",
+              "Verse": "Israel was a spreading vine; he brought forth fruit for himself. As his fruit increased, he built more altars; as his land prospered, he adorned his sacred stones."
+            },
+            {
+              "Verseid": "00000002",
+              "Verse": "Their heart is deceitful, and now they must bear their guilt. The Lord will demolish their altars and destroy their sacred stones."
+            },
+            {
+              "Verseid": "00000003",
+              "Verse": "Then they will say, “We have no king because we did not revere the Lord. But even if we had a king, what could he do for us?”"
+            },
+            {
+              "Verseid": "00000004",
+              "Verse": "They make many promises, take false oaths and make agreements; therefore lawsuits spring up like poisonous weeds in a plowed field."
+            },
+            {
+              "Verseid": "00000005",
+              "Verse": "The people who live in Samaria fear for the calf-idol of Beth Aven. Its people will mourn over it, and so will its idolatrous priests, those who had rejoiced over its splendor, because it is taken from them into exile."
+            },
+            {
+              "Verseid": "00000006",
+              "Verse": "It will be carried to Assyria as tribute for the great king. Ephraim will be disgraced; Israel will be ashamed of its foreign alliances."
+            },
+            {
+              "Verseid": "00000007",
+              "Verse": "Samaria`s king will be destroyed, swept away like a twig on the surface of the waters."
+            },
+            {
+              "Verseid": "00000008",
+              "Verse": "The high places of wickedness will be destroyed— it is the sin of Israel. Thorns and thistles will grow up and cover their altars. Then they will say to the mountains, “Cover us!” and to the hills, “Fall on us!”"
+            },
+            {
+              "Verseid": "00000009",
+              "Verse": "“Since the days of Gibeah, you have sinned, Israel, and there you have remained. Will not war again overtake the evildoers in Gibeah?"
+            },
+            {
+              "Verseid": "00000010",
+              "Verse": "When I please, I will punish them; nations will be gathered against them to put them in bonds for their double sin."
+            },
+            {
+              "Verseid": "00000011",
+              "Verse": "Ephraim is a trained heifer that loves to thresh; so I will put a yoke on her fair neck. I will drive Ephraim, Judah must plow, and Jacob must break up the ground."
+            },
+            {
+              "Verseid": "00000012",
+              "Verse": "Sow righteousness for yourselves, reap the fruit of unfailing love, and break up your unplowed ground; for it is time to seek the Lord, until he comes and showers his righteousness on you."
+            },
+            {
+              "Verseid": "00000013",
+              "Verse": "But you have planted wickedness, you have reaped evil, you have eaten the fruit of deception. Because you have depended on your own strength and on your many warriors,"
+            },
+            {
+              "Verseid": "00000014",
+              "Verse": "the roar of battle will rise against your people, so that all your fortresses will be devastated— as Shalman devastated Beth Arbel on the day of battle, when mothers were dashed to the ground with their children."
+            },
+            {
+              "Verseid": "00000015",
+              "Verse": "So will it happen to you, Bethel, because your wickedness is great. When that day dawns, the king of Israel will be completely destroyed."
+            }
+          ]
+        },
+        {
+          "Chapterid": "11",
+          "Verse": [
+            {
+              "Verseid": "00000001",
+              "Verse": "“When Israel was a child, I loved him, and out of Egypt I called my son."
+            },
+            {
+              "Verseid": "00000002",
+              "Verse": "But the more they were called, the more they went away from me. They sacrificed to the Baals and they burned incense to images."
+            },
+            {
+              "Verseid": "00000003",
+              "Verse": "It was I who taught Ephraim to walk, taking them by the arms; but they did not realize it was I who healed them."
+            },
+            {
+              "Verseid": "00000004",
+              "Verse": "I led them with cords of human kindness, with ties of love. To them I was like one who lifts a little child to the cheek, and I bent down to feed them."
+            },
+            {
+              "Verseid": "00000005",
+              "Verse": "“Will they not return to Egypt and will not Assyria rule over them because they refuse to repent?"
+            },
+            {
+              "Verseid": "00000006",
+              "Verse": "A sword will flash in their cities; it will devour their false prophets and put an end to their plans."
+            },
+            {
+              "Verseid": "00000007",
+              "Verse": "My people are determined to turn from me. Even though they call me God Most High, I will by no means exalt them."
+            },
+            {
+              "Verseid": "00000008",
+              "Verse": "“How can I give you up, Ephraim? How can I hand you over, Israel? How can I treat you like Admah? How can I make you like Zeboyim? My heart is changed within me; all my compassion is aroused."
+            },
+            {
+              "Verseid": "00000009",
+              "Verse": "I will not carry out my fierce anger, nor will I devastate Ephraim again. For I am God, and not a man— the Holy One among you. I will not come against their cities."
+            },
+            {
+              "Verseid": "00000010",
+              "Verse": "They will follow the Lord; he will roar like a lion. When he roars, his children will come trembling from the west."
+            },
+            {
+              "Verseid": "00000011",
+              "Verse": "They will come from Egypt, trembling like sparrows, from Assyria, fluttering like doves. I will settle them in their homes,” declares the Lord."
+            },
+            {
+              "Verseid": "00000012",
+              "Verse": "Ephraim has surrounded me with lies, Israel with deceit. And Judah is unruly against God, even against the faithful Holy One."
+            }
+          ]
+        },
+        {
+          "Chapterid": "12",
+          "Verse": [
+            {
+              "Verseid": "00000001",
+              "Verse": "Ephraim feeds on the wind; he pursues the east wind all day and multiplies lies and violence. He makes a treaty with Assyria and sends olive oil to Egypt."
+            },
+            {
+              "Verseid": "00000002",
+              "Verse": "The Lord has a charge to bring against Judah; he will punish Jacob according to his ways and repay him according to his deeds."
+            },
+            {
+              "Verseid": "00000003",
+              "Verse": "In the womb he grasped his brother`s heel; as a man he struggled with God."
+            },
+            {
+              "Verseid": "00000004",
+              "Verse": "He struggled with the angel and overcame him; he wept and begged for his favor. He found him at Bethel and talked with him there—"
+            },
+            {
+              "Verseid": "00000005",
+              "Verse": "the Lord God Almighty, the Lord is his name!"
+            },
+            {
+              "Verseid": "00000006",
+              "Verse": "But you must return to your God; maintain love and justice, and wait for your God always."
+            },
+            {
+              "Verseid": "00000007",
+              "Verse": "The merchant uses dishonest scales and loves to defraud."
+            },
+            {
+              "Verseid": "00000008",
+              "Verse": "Ephraim boasts, “I am very rich; I have become wealthy. With all my wealth they will not find in me any iniquity or sin.”"
+            },
+            {
+              "Verseid": "00000009",
+              "Verse": "“I have been the Lord your God ever since you came out of Egypt; I will make you live in tents again, as in the days of your appointed festivals."
+            },
+            {
+              "Verseid": "00000010",
+              "Verse": "I spoke to the prophets, gave them many visions and told parables through them.”"
+            },
+            {
+              "Verseid": "00000011",
+              "Verse": "Is Gilead wicked? Its people are worthless! Do they sacrifice bulls in Gilgal? Their altars will be like piles of stones on a plowed field."
+            },
+            {
+              "Verseid": "00000012",
+              "Verse": "Jacob fled to the country of Aram; Israel served to get a wife, and to pay for her he tended sheep."
+            },
+            {
+              "Verseid": "00000013",
+              "Verse": "The Lord used a prophet to bring Israel up from Egypt, by a prophet he cared for him."
+            },
+            {
+              "Verseid": "00000014",
+              "Verse": "But Ephraim has aroused his bitter anger; his Lord will leave on him the guilt of his bloodshed and will repay him for his contempt."
+            }
+          ]
+        },
+        {
+          "Chapterid": "13",
+          "Verse": [
+            {
+              "Verseid": "00000001",
+              "Verse": "When Ephraim spoke, people trembled; he was exalted in Israel. But he became guilty of Baal worship and died."
+            },
+            {
+              "Verseid": "00000002",
+              "Verse": "Now they sin more and more; they make idols for themselves from their silver, cleverly fashioned images, all of them the work of craftsmen. It is said of these people, “They offer human sacrifices! They kiss calf-idols!”"
+            },
+            {
+              "Verseid": "00000003",
+              "Verse": "Therefore they will be like the morning mist, like the early dew that disappears, like chaff swirling from a threshing floor, like smoke escaping through a window."
+            },
+            {
+              "Verseid": "00000004",
+              "Verse": "“But I have been the Lord your God ever since you came out of Egypt. You shall acknowledge no God but me, no Savior except me."
+            },
+            {
+              "Verseid": "00000005",
+              "Verse": "I cared for you in the wilderness, in the land of burning heat."
+            },
+            {
+              "Verseid": "00000006",
+              "Verse": "When I fed them, they were satisfied; when they were satisfied, they became proud; then they forgot me."
+            },
+            {
+              "Verseid": "00000007",
+              "Verse": "So I will be like a lion to them, like a leopard I will lurk by the path."
+            },
+            {
+              "Verseid": "00000008",
+              "Verse": "Like a bear robbed of her cubs, I will attack them and rip them open; like a lion I will devour them— a wild animal will tear them apart."
+            },
+            {
+              "Verseid": "00000009",
+              "Verse": "“You are destroyed, Israel, because you are against me, against your helper."
+            },
+            {
+              "Verseid": "00000010",
+              "Verse": "Where is your king, that he may save you? Where are your rulers in all your towns, of whom you said, ‘Give me a king and princes`?"
+            },
+            {
+              "Verseid": "00000011",
+              "Verse": "So in my anger I gave you a king, and in my wrath I took him away."
+            },
+            {
+              "Verseid": "00000012",
+              "Verse": "The guilt of Ephraim is stored up, his sins are kept on record."
+            },
+            {
+              "Verseid": "00000013",
+              "Verse": "Pains as of a woman in childbirth come to him, but he is a child without wisdom; when the time arrives, he doesn`t have the sense to come out of the womb."
+            },
+            {
+              "Verseid": "00000014",
+              "Verse": "“I will deliver this people from the power of the grave; I will redeem them from death. Where, O death, are your plagues? Where, O grave, is your destruction? “I will have no compassion,"
+            },
+            {
+              "Verseid": "00000015",
+              "Verse": "even though he thrives among his brothers. An east wind from the Lord will come, blowing in from the desert; his spring will fail and his well dry up. His storehouse will be plundered of all its treasures."
+            },
+            {
+              "Verseid": "00000016",
+              "Verse": "The people of Samaria must bear their guilt, because they have rebelled against their God. They will fall by the sword; their little ones will be dashed to the ground, their pregnant women ripped open.”"
+            }
+          ]
+        },
+        {
+          "Chapterid": "14",
+          "Verse": [
+            {
+              "Verseid": "00000001",
+              "Verse": "Return, Israel, to the Lord your God. Your sins have been your downfall!"
+            },
+            {
+              "Verseid": "00000002",
+              "Verse": "Take words with you and return to the Lord. Say to him: “Forgive all our sins and receive us graciously, that we may offer the fruit of our lips."
+            },
+            {
+              "Verseid": "00000003",
+              "Verse": "Assyria cannot save us; we will not mount warhorses. We will never again say ‘Our gods` to what our own hands have made, for in you the fatherless find compassion.”"
+            },
+            {
+              "Verseid": "00000004",
+              "Verse": "“I will heal their waywardness and love them freely, for my anger has turned away from them."
+            },
+            {
+              "Verseid": "00000005",
+              "Verse": "I will be like the dew to Israel; he will blossom like a lily. Like a cedar of Lebanon he will send down his roots;"
+            },
+            {
+              "Verseid": "00000006",
+              "Verse": "his young shoots will grow. His splendor will be like an olive tree, his fragrance like a cedar of Lebanon."
+            },
+            {
+              "Verseid": "00000007",
+              "Verse": "People will dwell again in his shade; they will flourish like the grain, they will blossom like the vine— Israel`s fame will be like the wine of Lebanon."
+            },
+            {
+              "Verseid": "00000008",
+              "Verse": "Ephraim, what more have I to do with idols? I will answer him and care for him. I am like a flourishing juniper; your fruitfulness comes from me.”"
+            },
+            {
+              "Verseid": "00000009",
+              "Verse": "Who is wise? Let them realize these things. Who is discerning? Let them understand. The ways of the Lord are right; the righteous walk in them, but the rebellious stumble in them."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

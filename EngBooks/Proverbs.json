@@ -1,0 +1,3824 @@
+{
+  "Book": [
+    {
+      "BookName": "Proverbs",
+      "Chapter": [
+        {
+          "Chapterid": "1",
+          "Verse": [
+            {
+              "Verseid": "00000001",
+              "Verse": "The proverbs of Solomon son of David, king of Israel:"
+            },
+            {
+              "Verseid": "00000002",
+              "Verse": "for gaining wisdom and instruction; for understanding words of insight;"
+            },
+            {
+              "Verseid": "00000003",
+              "Verse": "for receiving instruction in prudent behavior, doing what is right and just and fair;"
+            },
+            {
+              "Verseid": "00000004",
+              "Verse": "for giving prudence to those who are simple, knowledge and discretion to the young—"
+            },
+            {
+              "Verseid": "00000005",
+              "Verse": "let the wise listen and add to their learning, and let the discerning get guidance—"
+            },
+            {
+              "Verseid": "00000006",
+              "Verse": "for understanding proverbs and parables, the sayings and riddles of the wise."
+            },
+            {
+              "Verseid": "00000007",
+              "Verse": "The fear of the Lord is the beginning of knowledge, but fools despise wisdom and instruction."
+            },
+            {
+              "Verseid": "00000008",
+              "Verse": "Listen, my son, to your father`s instruction and do not forsake your mother`s teaching."
+            },
+            {
+              "Verseid": "00000009",
+              "Verse": "They are a garland to grace your head and a chain to adorn your neck."
+            },
+            {
+              "Verseid": "00000010",
+              "Verse": "My son, if sinful men entice you, do not give in to them."
+            },
+            {
+              "Verseid": "00000011",
+              "Verse": "If they say, “Come along with us; let`s lie in wait for innocent blood, let`s ambush some harmless soul;"
+            },
+            {
+              "Verseid": "00000012",
+              "Verse": "let`s swallow them alive, like the grave, and whole, like those who go down to the pit;"
+            },
+            {
+              "Verseid": "00000013",
+              "Verse": "we will get all sorts of valuable things and fill our houses with plunder;"
+            },
+            {
+              "Verseid": "00000014",
+              "Verse": "cast lots with us; we will all share the loot”—"
+            },
+            {
+              "Verseid": "00000015",
+              "Verse": "my son, do not go along with them, do not set foot on their paths;"
+            },
+            {
+              "Verseid": "00000016",
+              "Verse": "for their feet rush into evil, they are swift to shed blood."
+            },
+            {
+              "Verseid": "00000017",
+              "Verse": "How useless to spread a net where every bird can see it!"
+            },
+            {
+              "Verseid": "00000018",
+              "Verse": "These men lie in wait for their own blood; they ambush only themselves!"
+            },
+            {
+              "Verseid": "00000019",
+              "Verse": "Such are the paths of all who go after ill-gotten gain; it takes away the life of those who get it."
+            },
+            {
+              "Verseid": "00000020",
+              "Verse": "Out in the open wisdom calls aloud, she raises her voice in the public square;"
+            },
+            {
+              "Verseid": "00000021",
+              "Verse": "on top of the wall she cries out, at the city gate she makes her speech:"
+            },
+            {
+              "Verseid": "00000022",
+              "Verse": "“How long will you who are simple love your simple ways? How long will mockers delight in mockery and fools hate knowledge?"
+            },
+            {
+              "Verseid": "00000023",
+              "Verse": "Repent at my rebuke! Then I will pour out my thoughts to you, I will make known to you my teachings."
+            },
+            {
+              "Verseid": "00000024",
+              "Verse": "But since you refuse to listen when I call and no one pays attention when I stretch out my hand,"
+            },
+            {
+              "Verseid": "00000025",
+              "Verse": "since you disregard all my advice and do not accept my rebuke,"
+            },
+            {
+              "Verseid": "00000026",
+              "Verse": "I in turn will laugh when disaster strikes you; I will mock when calamity overtakes you—"
+            },
+            {
+              "Verseid": "00000027",
+              "Verse": "when calamity overtakes you like a storm, when disaster sweeps over you like a whirlwind, when distress and trouble overwhelm you."
+            },
+            {
+              "Verseid": "00000028",
+              "Verse": "“Then they will call to me but I will not answer; they will look for me but will not find me,"
+            },
+            {
+              "Verseid": "00000029",
+              "Verse": "since they hated knowledge and did not choose to fear the Lord."
+            },
+            {
+              "Verseid": "00000030",
+              "Verse": "Since they would not accept my advice and spurned my rebuke,"
+            },
+            {
+              "Verseid": "00000031",
+              "Verse": "they will eat the fruit of their ways and be filled with the fruit of their schemes."
+            },
+            {
+              "Verseid": "00000032",
+              "Verse": "For the waywardness of the simple will kill them, and the complacency of fools will destroy them;"
+            },
+            {
+              "Verseid": "00000033",
+              "Verse": "but whoever listens to me will live in safety and be at ease, without fear of harm.”"
+            }
+          ]
+        },
+        {
+          "Chapterid": "2",
+          "Verse": [
+            {
+              "Verseid": "00000001",
+              "Verse": "My son, if you accept my words and store up my commands within you,"
+            },
+            {
+              "Verseid": "00000002",
+              "Verse": "turning your ear to wisdom and applying your heart to understanding—"
+            },
+            {
+              "Verseid": "00000003",
+              "Verse": "indeed, if you call out for insight and cry aloud for understanding,"
+            },
+            {
+              "Verseid": "00000004",
+              "Verse": "and if you look for it as for silver and search for it as for hidden treasure,"
+            },
+            {
+              "Verseid": "00000005",
+              "Verse": "then you will understand the fear of the Lord and find the knowledge of God."
+            },
+            {
+              "Verseid": "00000006",
+              "Verse": "For the Lord gives wisdom; from his mouth come knowledge and understanding."
+            },
+            {
+              "Verseid": "00000007",
+              "Verse": "He holds success in store for the upright, he is a shield to those whose walk is blameless,"
+            },
+            {
+              "Verseid": "00000008",
+              "Verse": "for he guards the course of the just and protects the way of his faithful ones."
+            },
+            {
+              "Verseid": "00000009",
+              "Verse": "Then you will understand what is right and just and fair—every good path."
+            },
+            {
+              "Verseid": "00000010",
+              "Verse": "For wisdom will enter your heart, and knowledge will be pleasant to your soul."
+            },
+            {
+              "Verseid": "00000011",
+              "Verse": "Discretion will protect you, and understanding will guard you."
+            },
+            {
+              "Verseid": "00000012",
+              "Verse": "Wisdom will save you from the ways of wicked men, from men whose words are perverse,"
+            },
+            {
+              "Verseid": "00000013",
+              "Verse": "who have left the straight paths to walk in dark ways,"
+            },
+            {
+              "Verseid": "00000014",
+              "Verse": "who delight in doing wrong and rejoice in the perverseness of evil,"
+            },
+            {
+              "Verseid": "00000015",
+              "Verse": "whose paths are crooked and who are devious in their ways."
+            },
+            {
+              "Verseid": "00000016",
+              "Verse": "Wisdom will save you also from the adulterous woman, from the wayward woman with her seductive words,"
+            },
+            {
+              "Verseid": "00000017",
+              "Verse": "who has left the partner of her youth and ignored the covenant she made before God."
+            },
+            {
+              "Verseid": "00000018",
+              "Verse": "Surely her house leads down to death and her paths to the spirits of the dead."
+            },
+            {
+              "Verseid": "00000019",
+              "Verse": "None who go to her return or attain the paths of life."
+            },
+            {
+              "Verseid": "00000020",
+              "Verse": "Thus you will walk in the ways of the good and keep to the paths of the righteous."
+            },
+            {
+              "Verseid": "00000021",
+              "Verse": "For the upright will live in the land, and the blameless will remain in it;"
+            },
+            {
+              "Verseid": "00000022",
+              "Verse": "but the wicked will be cut off from the land, and the unfaithful will be torn from it."
+            }
+          ]
+        },
+        {
+          "Chapterid": "3",
+          "Verse": [
+            {
+              "Verseid": "00000001",
+              "Verse": "My son, do not forget my teaching, but keep my commands in your heart,"
+            },
+            {
+              "Verseid": "00000002",
+              "Verse": "for they will prolong your life many years and bring you peace and prosperity."
+            },
+            {
+              "Verseid": "00000003",
+              "Verse": "Let love and faithfulness never leave you; bind them around your neck, write them on the tablet of your heart."
+            },
+            {
+              "Verseid": "00000004",
+              "Verse": "Then you will win favor and a good name in the sight of God and man."
+            },
+            {
+              "Verseid": "00000005",
+              "Verse": "Trust in the Lord with all your heart and lean not on your own understanding;"
+            },
+            {
+              "Verseid": "00000006",
+              "Verse": "in all your ways submit to him, and he will make your paths straight."
+            },
+            {
+              "Verseid": "00000007",
+              "Verse": "Do not be wise in your own eyes; fear the Lord and shun evil."
+            },
+            {
+              "Verseid": "00000008",
+              "Verse": "This will bring health to your body and nourishment to your bones."
+            },
+            {
+              "Verseid": "00000009",
+              "Verse": "Honor the Lord with your wealth, with the firstfruits of all your crops;"
+            },
+            {
+              "Verseid": "00000010",
+              "Verse": "then your barns will be filled to overflowing, and your vats will brim over with new wine."
+            },
+            {
+              "Verseid": "00000011",
+              "Verse": "My son, do not despise the Lord`s discipline, and do not resent his rebuke,"
+            },
+            {
+              "Verseid": "00000012",
+              "Verse": "because the Lord disciplines those he loves, as a father the son he delights in."
+            },
+            {
+              "Verseid": "00000013",
+              "Verse": "Blessed are those who find wisdom, those who gain understanding,"
+            },
+            {
+              "Verseid": "00000014",
+              "Verse": "for she is more profitable than silver and yields better returns than gold."
+            },
+            {
+              "Verseid": "00000015",
+              "Verse": "She is more precious than rubies; nothing you desire can compare with her."
+            },
+            {
+              "Verseid": "00000016",
+              "Verse": "Long life is in her right hand; in her left hand are riches and honor."
+            },
+            {
+              "Verseid": "00000017",
+              "Verse": "Her ways are pleasant ways, and all her paths are peace."
+            },
+            {
+              "Verseid": "00000018",
+              "Verse": "She is a tree of life to those who take hold of her; those who hold her fast will be blessed."
+            },
+            {
+              "Verseid": "00000019",
+              "Verse": "By wisdom the Lord laid the earth`s foundations, by understanding he set the heavens in place;"
+            },
+            {
+              "Verseid": "00000020",
+              "Verse": "by his knowledge the watery depths were divided, and the clouds let drop the dew."
+            },
+            {
+              "Verseid": "00000021",
+              "Verse": "My son, do not let wisdom and understanding out of your sight, preserve sound judgment and discretion;"
+            },
+            {
+              "Verseid": "00000022",
+              "Verse": "they will be life for you, an ornament to grace your neck."
+            },
+            {
+              "Verseid": "00000023",
+              "Verse": "Then you will go on your way in safety, and your foot will not stumble."
+            },
+            {
+              "Verseid": "00000024",
+              "Verse": "When you lie down, you will not be afraid; when you lie down, your sleep will be sweet."
+            },
+            {
+              "Verseid": "00000025",
+              "Verse": "Have no fear of sudden disaster or of the ruin that overtakes the wicked,"
+            },
+            {
+              "Verseid": "00000026",
+              "Verse": "for the Lord will be at your side and will keep your foot from being snared."
+            },
+            {
+              "Verseid": "00000027",
+              "Verse": "Do not withhold good from those to whom it is due, when it is in your power to act."
+            },
+            {
+              "Verseid": "00000028",
+              "Verse": "Do not say to your neighbor, “Come back tomorrow and I`ll give it to you”— when you already have it with you."
+            },
+            {
+              "Verseid": "00000029",
+              "Verse": "Do not plot harm against your neighbor, who lives trustfully near you."
+            },
+            {
+              "Verseid": "00000030",
+              "Verse": "Do not accuse anyone for no reason— when they have done you no harm."
+            },
+            {
+              "Verseid": "00000031",
+              "Verse": "Do not envy the violent or choose any of their ways."
+            },
+            {
+              "Verseid": "00000032",
+              "Verse": "For the Lord detests the perverse but takes the upright into his confidence."
+            },
+            {
+              "Verseid": "00000033",
+              "Verse": "The Lord`s curse is on the house of the wicked, but he blesses the home of the righteous."
+            },
+            {
+              "Verseid": "00000034",
+              "Verse": "He mocks proud mockers but shows favor to the humble and oppressed."
+            },
+            {
+              "Verseid": "00000035",
+              "Verse": "The wise inherit honor, but fools get only shame."
+            }
+          ]
+        },
+        {
+          "Chapterid": "4",
+          "Verse": [
+            {
+              "Verseid": "00000001",
+              "Verse": "Listen, my sons, to a father`s instruction; pay attention and gain understanding."
+            },
+            {
+              "Verseid": "00000002",
+              "Verse": "I give you sound learning, so do not forsake my teaching."
+            },
+            {
+              "Verseid": "00000003",
+              "Verse": "For I too was a son to my father, still tender, and cherished by my mother."
+            },
+            {
+              "Verseid": "00000004",
+              "Verse": "Then he taught me, and he said to me, “Take hold of my words with all your heart; keep my commands, and you will live."
+            },
+            {
+              "Verseid": "00000005",
+              "Verse": "Get wisdom, get understanding; do not forget my words or turn away from them."
+            },
+            {
+              "Verseid": "00000006",
+              "Verse": "Do not forsake wisdom, and she will protect you; love her, and she will watch over you."
+            },
+            {
+              "Verseid": "00000007",
+              "Verse": "The beginning of wisdom is this: Get wisdom. Though it cost all you have, get understanding."
+            },
+            {
+              "Verseid": "00000008",
+              "Verse": "Cherish her, and she will exalt you; embrace her, and she will honor you."
+            },
+            {
+              "Verseid": "00000009",
+              "Verse": "She will give you a garland to grace your head and present you with a glorious crown.”"
+            },
+            {
+              "Verseid": "00000010",
+              "Verse": "Listen, my son, accept what I say, and the years of your life will be many."
+            },
+            {
+              "Verseid": "00000011",
+              "Verse": "I instruct you in the way of wisdom and lead you along straight paths."
+            },
+            {
+              "Verseid": "00000012",
+              "Verse": "When you walk, your steps will not be hampered; when you run, you will not stumble."
+            },
+            {
+              "Verseid": "00000013",
+              "Verse": "Hold on to instruction, do not let it go; guard it well, for it is your life."
+            },
+            {
+              "Verseid": "00000014",
+              "Verse": "Do not set foot on the path of the wicked or walk in the way of evildoers."
+            },
+            {
+              "Verseid": "00000015",
+              "Verse": "Avoid it, do not travel on it; turn from it and go on your way."
+            },
+            {
+              "Verseid": "00000016",
+              "Verse": "For they cannot rest until they do evil; they are robbed of sleep till they make someone stumble."
+            },
+            {
+              "Verseid": "00000017",
+              "Verse": "They eat the bread of wickedness and drink the wine of violence."
+            },
+            {
+              "Verseid": "00000018",
+              "Verse": "The path of the righteous is like the morning sun, shining ever brighter till the full light of day."
+            },
+            {
+              "Verseid": "00000019",
+              "Verse": "But the way of the wicked is like deep darkness; they do not know what makes them stumble."
+            },
+            {
+              "Verseid": "00000020",
+              "Verse": "My son, pay attention to what I say; turn your ear to my words."
+            },
+            {
+              "Verseid": "00000021",
+              "Verse": "Do not let them out of your sight, keep them within your heart;"
+            },
+            {
+              "Verseid": "00000022",
+              "Verse": "for they are life to those who find them and health to one`s whole body."
+            },
+            {
+              "Verseid": "00000023",
+              "Verse": "Above all else, guard your heart, for everything you do flows from it."
+            },
+            {
+              "Verseid": "00000024",
+              "Verse": "Keep your mouth free of perversity; keep corrupt talk far from your lips."
+            },
+            {
+              "Verseid": "00000025",
+              "Verse": "Let your eyes look straight ahead; fix your gaze directly before you."
+            },
+            {
+              "Verseid": "00000026",
+              "Verse": "Give careful thought to the paths for your feet and be steadfast in all your ways."
+            },
+            {
+              "Verseid": "00000027",
+              "Verse": "Do not turn to the right or the left; keep your foot from evil."
+            }
+          ]
+        },
+        {
+          "Chapterid": "5",
+          "Verse": [
+            {
+              "Verseid": "00000001",
+              "Verse": "My son, pay attention to my wisdom, turn your ear to my words of insight,"
+            },
+            {
+              "Verseid": "00000002",
+              "Verse": "that you may maintain discretion and your lips may preserve knowledge."
+            },
+            {
+              "Verseid": "00000003",
+              "Verse": "For the lips of the adulterous woman drip honey, and her speech is smoother than oil;"
+            },
+            {
+              "Verseid": "00000004",
+              "Verse": "but in the end she is bitter as gall, sharp as a double-edged sword."
+            },
+            {
+              "Verseid": "00000005",
+              "Verse": "Her feet go down to death; her steps lead straight to the grave."
+            },
+            {
+              "Verseid": "00000006",
+              "Verse": "She gives no thought to the way of life; her paths wander aimlessly, but she does not know it."
+            },
+            {
+              "Verseid": "00000007",
+              "Verse": "Now then, my sons, listen to me; do not turn aside from what I say."
+            },
+            {
+              "Verseid": "00000008",
+              "Verse": "Keep to a path far from her, do not go near the door of her house,"
+            },
+            {
+              "Verseid": "00000009",
+              "Verse": "lest you lose your honor to others and your dignity to one who is cruel,"
+            },
+            {
+              "Verseid": "00000010",
+              "Verse": "lest strangers feast on your wealth and your toil enrich the house of another."
+            },
+            {
+              "Verseid": "00000011",
+              "Verse": "At the end of your life you will groan, when your flesh and body are spent."
+            },
+            {
+              "Verseid": "00000012",
+              "Verse": "You will say, “How I hated discipline! How my heart spurned correction!"
+            },
+            {
+              "Verseid": "00000013",
+              "Verse": "I would not obey my teachers or turn my ear to my instructors."
+            },
+            {
+              "Verseid": "00000014",
+              "Verse": "And I was soon in serious trouble in the assembly of God`s people.”"
+            },
+            {
+              "Verseid": "00000015",
+              "Verse": "Drink water from your own cistern, running water from your own well."
+            },
+            {
+              "Verseid": "00000016",
+              "Verse": "Should your springs overflow in the streets, your streams of water in the public squares?"
+            },
+            {
+              "Verseid": "00000017",
+              "Verse": "Let them be yours alone, never to be shared with strangers."
+            },
+            {
+              "Verseid": "00000018",
+              "Verse": "May your fountain be blessed, and may you rejoice in the wife of your youth."
+            },
+            {
+              "Verseid": "00000019",
+              "Verse": "A loving doe, a graceful deer— may her breasts satisfy you always, may you ever be intoxicated with her love."
+            },
+            {
+              "Verseid": "00000020",
+              "Verse": "Why, my son, be intoxicated with another man`s wife? Why embrace the bosom of a wayward woman?"
+            },
+            {
+              "Verseid": "00000021",
+              "Verse": "For your ways are in full view of the Lord, and he examines all your paths."
+            },
+            {
+              "Verseid": "00000022",
+              "Verse": "The evil deeds of the wicked ensnare them; the cords of their sins hold them fast."
+            },
+            {
+              "Verseid": "00000023",
+              "Verse": "For lack of discipline they will die, led astray by their own great folly."
+            }
+          ]
+        },
+        {
+          "Chapterid": "6",
+          "Verse": [
+            {
+              "Verseid": "00000001",
+              "Verse": "My son, if you have put up security for your neighbor, if you have shaken hands in pledge for a stranger,"
+            },
+            {
+              "Verseid": "00000002",
+              "Verse": "you have been trapped by what you said, ensnared by the words of your mouth."
+            },
+            {
+              "Verseid": "00000003",
+              "Verse": "So do this, my son, to free yourself, since you have fallen into your neighbor`s hands: Go—to the point of exhaustion— and give your neighbor no rest!"
+            },
+            {
+              "Verseid": "00000004",
+              "Verse": "Allow no sleep to your eyes, no slumber to your eyelids."
+            },
+            {
+              "Verseid": "00000005",
+              "Verse": "Free yourself, like a gazelle from the hand of the hunter, like a bird from the snare of the fowler."
+            },
+            {
+              "Verseid": "00000006",
+              "Verse": "Go to the ant, you sluggard; consider its ways and be wise!"
+            },
+            {
+              "Verseid": "00000007",
+              "Verse": "It has no commander, no overseer or ruler,"
+            },
+            {
+              "Verseid": "00000008",
+              "Verse": "yet it stores its provisions in summer and gathers its food at harvest."
+            },
+            {
+              "Verseid": "00000009",
+              "Verse": "How long will you lie there, you sluggard? When will you get up from your sleep?"
+            },
+            {
+              "Verseid": "00000010",
+              "Verse": "A little sleep, a little slumber, a little folding of the hands to rest—"
+            },
+            {
+              "Verseid": "00000011",
+              "Verse": "and poverty will come on you like a thief and scarcity like an armed man."
+            },
+            {
+              "Verseid": "00000012",
+              "Verse": "A troublemaker and a villain, who goes about with a corrupt mouth,"
+            },
+            {
+              "Verseid": "00000013",
+              "Verse": "who winks maliciously with his eye, signals with his feet and motions with his fingers,"
+            },
+            {
+              "Verseid": "00000014",
+              "Verse": "who plots evil with deceit in his heart— he always stirs up conflict."
+            },
+            {
+              "Verseid": "00000015",
+              "Verse": "Therefore disaster will overtake him in an instant; he will suddenly be destroyed—without remedy."
+            },
+            {
+              "Verseid": "00000016",
+              "Verse": "There are six things the Lord hates, seven that are detestable to him:"
+            },
+            {
+              "Verseid": "00000017",
+              "Verse": "haughty eyes, a lying tongue, hands that shed innocent blood,"
+            },
+            {
+              "Verseid": "00000018",
+              "Verse": "a heart that devises wicked schemes, feet that are quick to rush into evil,"
+            },
+            {
+              "Verseid": "00000019",
+              "Verse": "a false witness who pours out lies and a person who stirs up conflict in the community."
+            },
+            {
+              "Verseid": "00000020",
+              "Verse": "My son, keep your father`s command and do not forsake your mother`s teaching."
+            },
+            {
+              "Verseid": "00000021",
+              "Verse": "Bind them always on your heart; fasten them around your neck."
+            },
+            {
+              "Verseid": "00000022",
+              "Verse": "When you walk, they will guide you; when you sleep, they will watch over you; when you awake, they will speak to you."
+            },
+            {
+              "Verseid": "00000023",
+              "Verse": "For this command is a lamp, this teaching is a light, and correction and instruction are the way to life,"
+            },
+            {
+              "Verseid": "00000024",
+              "Verse": "keeping you from your neighbor`s wife, from the smooth talk of a wayward woman."
+            },
+            {
+              "Verseid": "00000025",
+              "Verse": "Do not lust in your heart after her beauty or let her captivate you with her eyes."
+            },
+            {
+              "Verseid": "00000026",
+              "Verse": "For a prostitute can be had for a loaf of bread, but another man`s wife preys on your very life."
+            },
+            {
+              "Verseid": "00000027",
+              "Verse": "Can a man scoop fire into his lap without his clothes being burned?"
+            },
+            {
+              "Verseid": "00000028",
+              "Verse": "Can a man walk on hot coals without his feet being scorched?"
+            },
+            {
+              "Verseid": "00000029",
+              "Verse": "So is he who sleeps with another man`s wife; no one who touches her will go unpunished."
+            },
+            {
+              "Verseid": "00000030",
+              "Verse": "People do not despise a thief if he steals to satisfy his hunger when he is starving."
+            },
+            {
+              "Verseid": "00000031",
+              "Verse": "Yet if he is caught, he must pay sevenfold, though it costs him all the wealth of his house."
+            },
+            {
+              "Verseid": "00000032",
+              "Verse": "But a man who commits adultery has no sense; whoever does so destroys himself."
+            },
+            {
+              "Verseid": "00000033",
+              "Verse": "Blows and disgrace are his lot, and his shame will never be wiped away."
+            },
+            {
+              "Verseid": "00000034",
+              "Verse": "For jealousy arouses a husband`s fury, and he will show no mercy when he takes revenge."
+            },
+            {
+              "Verseid": "00000035",
+              "Verse": "He will not accept any compensation; he will refuse a bribe, however great it is."
+            }
+          ]
+        },
+        {
+          "Chapterid": "7",
+          "Verse": [
+            {
+              "Verseid": "00000001",
+              "Verse": "My son, keep my words and store up my commands within you."
+            },
+            {
+              "Verseid": "00000002",
+              "Verse": "Keep my commands and you will live; guard my teachings as the apple of your eye."
+            },
+            {
+              "Verseid": "00000003",
+              "Verse": "Bind them on your fingers; write them on the tablet of your heart."
+            },
+            {
+              "Verseid": "00000004",
+              "Verse": "Say to wisdom, “You are my sister,” and to insight, “You are my relative.”"
+            },
+            {
+              "Verseid": "00000005",
+              "Verse": "They will keep you from the adulterous woman, from the wayward woman with her seductive words."
+            },
+            {
+              "Verseid": "00000006",
+              "Verse": "At the window of my house I looked down through the lattice."
+            },
+            {
+              "Verseid": "00000007",
+              "Verse": "I saw among the simple, I noticed among the young men, a youth who had no sense."
+            },
+            {
+              "Verseid": "00000008",
+              "Verse": "He was going down the street near her corner, walking along in the direction of her house"
+            },
+            {
+              "Verseid": "00000009",
+              "Verse": "at twilight, as the day was fading, as the dark of night set in."
+            },
+            {
+              "Verseid": "00000010",
+              "Verse": "Then out came a woman to meet him, dressed like a prostitute and with crafty intent."
+            },
+            {
+              "Verseid": "00000011",
+              "Verse": "(She is unruly and defiant, her feet never stay at home;"
+            },
+            {
+              "Verseid": "00000012",
+              "Verse": "now in the street, now in the squares, at every corner she lurks.)"
+            },
+            {
+              "Verseid": "00000013",
+              "Verse": "She took hold of him and kissed him and with a brazen face she said:"
+            },
+            {
+              "Verseid": "00000014",
+              "Verse": "“Today I fulfilled my vows, and I have food from my fellowship offering at home."
+            },
+            {
+              "Verseid": "00000015",
+              "Verse": "So I came out to meet you; I looked for you and have found you!"
+            },
+            {
+              "Verseid": "00000016",
+              "Verse": "I have covered my bed with colored linens from Egypt."
+            },
+            {
+              "Verseid": "00000017",
+              "Verse": "I have perfumed my bed with myrrh, aloes and cinnamon."
+            },
+            {
+              "Verseid": "00000018",
+              "Verse": "Come, let`s drink deeply of love till morning; let`s enjoy ourselves with love!"
+            },
+            {
+              "Verseid": "00000019",
+              "Verse": "My husband is not at home; he has gone on a long journey."
+            },
+            {
+              "Verseid": "00000020",
+              "Verse": "He took his purse filled with money and will not be home till full moon.”"
+            },
+            {
+              "Verseid": "00000021",
+              "Verse": "With persuasive words she led him astray; she seduced him with her smooth talk."
+            },
+            {
+              "Verseid": "00000022",
+              "Verse": "All at once he followed her like an ox going to the slaughter, like a deer stepping into a noose"
+            },
+            {
+              "Verseid": "00000023",
+              "Verse": "till an arrow pierces his liver, like a bird darting into a snare, little knowing it will cost him his life."
+            },
+            {
+              "Verseid": "00000024",
+              "Verse": "Now then, my sons, listen to me; pay attention to what I say."
+            },
+            {
+              "Verseid": "00000025",
+              "Verse": "Do not let your heart turn to her ways or stray into her paths."
+            },
+            {
+              "Verseid": "00000026",
+              "Verse": "Many are the victims she has brought down; her slain are a mighty throng."
+            },
+            {
+              "Verseid": "00000027",
+              "Verse": "Her house is a highway to the grave, leading down to the chambers of death."
+            }
+          ]
+        },
+        {
+          "Chapterid": "8",
+          "Verse": [
+            {
+              "Verseid": "00000001",
+              "Verse": "Does not wisdom call out? Does not understanding raise her voice?"
+            },
+            {
+              "Verseid": "00000002",
+              "Verse": "At the highest point along the way, where the paths meet, she takes her stand;"
+            },
+            {
+              "Verseid": "00000003",
+              "Verse": "beside the gate leading into the city, at the entrance, she cries aloud:"
+            },
+            {
+              "Verseid": "00000004",
+              "Verse": "“To you, O people, I call out; I raise my voice to all mankind."
+            },
+            {
+              "Verseid": "00000005",
+              "Verse": "You who are simple, gain prudence; you who are foolish, set your hearts on it."
+            },
+            {
+              "Verseid": "00000006",
+              "Verse": "Listen, for I have trustworthy things to say; I open my lips to speak what is right."
+            },
+            {
+              "Verseid": "00000007",
+              "Verse": "My mouth speaks what is true, for my lips detest wickedness."
+            },
+            {
+              "Verseid": "00000008",
+              "Verse": "All the words of my mouth are just; none of them is crooked or perverse."
+            },
+            {
+              "Verseid": "00000009",
+              "Verse": "To the discerning all of them are right; they are upright to those who have found knowledge."
+            },
+            {
+              "Verseid": "00000010",
+              "Verse": "Choose my instruction instead of silver, knowledge rather than choice gold,"
+            },
+            {
+              "Verseid": "00000011",
+              "Verse": "for wisdom is more precious than rubies, and nothing you desire can compare with her."
+            },
+            {
+              "Verseid": "00000012",
+              "Verse": "“I, wisdom, dwell together with prudence; I possess knowledge and discretion."
+            },
+            {
+              "Verseid": "00000013",
+              "Verse": "To fear the Lord is to hate evil; I hate pride and arrogance, evil behavior and perverse speech."
+            },
+            {
+              "Verseid": "00000014",
+              "Verse": "Counsel and sound judgment are mine; I have insight, I have power."
+            },
+            {
+              "Verseid": "00000015",
+              "Verse": "By me kings reign and rulers issue decrees that are just;"
+            },
+            {
+              "Verseid": "00000016",
+              "Verse": "by me princes govern, and nobles—all who rule on earth."
+            },
+            {
+              "Verseid": "00000017",
+              "Verse": "I love those who love me, and those who seek me find me."
+            },
+            {
+              "Verseid": "00000018",
+              "Verse": "With me are riches and honor, enduring wealth and prosperity."
+            },
+            {
+              "Verseid": "00000019",
+              "Verse": "My fruit is better than fine gold; what I yield surpasses choice silver."
+            },
+            {
+              "Verseid": "00000020",
+              "Verse": "I walk in the way of righteousness, along the paths of justice,"
+            },
+            {
+              "Verseid": "00000021",
+              "Verse": "bestowing a rich inheritance on those who love me and making their treasuries full."
+            },
+            {
+              "Verseid": "00000022",
+              "Verse": "“The Lord brought me forth as the first of his works, before his deeds of old;"
+            },
+            {
+              "Verseid": "00000023",
+              "Verse": "I was formed long ages ago, at the very beginning, when the world came to be."
+            },
+            {
+              "Verseid": "00000024",
+              "Verse": "When there were no watery depths, I was given birth, when there were no springs overflowing with water;"
+            },
+            {
+              "Verseid": "00000025",
+              "Verse": "before the mountains were settled in place, before the hills, I was given birth,"
+            },
+            {
+              "Verseid": "00000026",
+              "Verse": "before he made the world or its fields or any of the dust of the earth."
+            },
+            {
+              "Verseid": "00000027",
+              "Verse": "I was there when he set the heavens in place, when he marked out the horizon on the face of the deep,"
+            },
+            {
+              "Verseid": "00000028",
+              "Verse": "when he established the clouds above and fixed securely the fountains of the deep,"
+            },
+            {
+              "Verseid": "00000029",
+              "Verse": "when he gave the sea its boundary so the waters would not overstep his command, and when he marked out the foundations of the earth."
+            },
+            {
+              "Verseid": "00000030",
+              "Verse": "Then I was constantly at his side. I was filled with delight day after day, rejoicing always in his presence,"
+            },
+            {
+              "Verseid": "00000031",
+              "Verse": "rejoicing in his whole world and delighting in mankind."
+            },
+            {
+              "Verseid": "00000032",
+              "Verse": "“Now then, my children, listen to me; blessed are those who keep my ways."
+            },
+            {
+              "Verseid": "00000033",
+              "Verse": "Listen to my instruction and be wise; do not disregard it."
+            },
+            {
+              "Verseid": "00000034",
+              "Verse": "Blessed are those who listen to me, watching daily at my doors, waiting at my doorway."
+            },
+            {
+              "Verseid": "00000035",
+              "Verse": "For those who find me find life and receive favor from the Lord."
+            },
+            {
+              "Verseid": "00000036",
+              "Verse": "But those who fail to find me harm themselves; all who hate me love death.”"
+            }
+          ]
+        },
+        {
+          "Chapterid": "9",
+          "Verse": [
+            {
+              "Verseid": "00000001",
+              "Verse": "Wisdom has built her house; she has set up its seven pillars."
+            },
+            {
+              "Verseid": "00000002",
+              "Verse": "She has prepared her meat and mixed her wine; she has also set her table."
+            },
+            {
+              "Verseid": "00000003",
+              "Verse": "She has sent out her servants, and she calls from the highest point of the city,"
+            },
+            {
+              "Verseid": "00000004",
+              "Verse": "“Let all who are simple come to my house!” To those who have no sense she says,"
+            },
+            {
+              "Verseid": "00000005",
+              "Verse": "“Come, eat my food and drink the wine I have mixed."
+            },
+            {
+              "Verseid": "00000006",
+              "Verse": "Leave your simple ways and you will live; walk in the way of insight.”"
+            },
+            {
+              "Verseid": "00000007",
+              "Verse": "Whoever corrects a mocker invites insults; whoever rebukes the wicked incurs abuse."
+            },
+            {
+              "Verseid": "00000008",
+              "Verse": "Do not rebuke mockers or they will hate you; rebuke the wise and they will love you."
+            },
+            {
+              "Verseid": "00000009",
+              "Verse": "Instruct the wise and they will be wiser still; teach the righteous and they will add to their learning."
+            },
+            {
+              "Verseid": "00000010",
+              "Verse": "The fear of the Lord is the beginning of wisdom, and knowledge of the Holy One is understanding."
+            },
+            {
+              "Verseid": "00000011",
+              "Verse": "For through wisdom your days will be many, and years will be added to your life."
+            },
+            {
+              "Verseid": "00000012",
+              "Verse": "If you are wise, your wisdom will reward you; if you are a mocker, you alone will suffer."
+            },
+            {
+              "Verseid": "00000013",
+              "Verse": "Folly is an unruly woman; she is simple and knows nothing."
+            },
+            {
+              "Verseid": "00000014",
+              "Verse": "She sits at the door of her house, on a seat at the highest point of the city,"
+            },
+            {
+              "Verseid": "00000015",
+              "Verse": "calling out to those who pass by, who go straight on their way,"
+            },
+            {
+              "Verseid": "00000016",
+              "Verse": "“Let all who are simple come to my house!” To those who have no sense she says,"
+            },
+            {
+              "Verseid": "00000017",
+              "Verse": "“Stolen water is sweet; food eaten in secret is delicious!”"
+            },
+            {
+              "Verseid": "00000018",
+              "Verse": "But little do they know that the dead are there, that her guests are deep in the realm of the dead."
+            }
+          ]
+        },
+        {
+          "Chapterid": "10",
+          "Verse": [
+            {
+              "Verseid": "00000001",
+              "Verse": "The proverbs of Solomon: A wise son brings joy to his father, but a foolish son brings grief to his mother."
+            },
+            {
+              "Verseid": "00000002",
+              "Verse": "Ill-gotten treasures have no lasting value, but righteousness delivers from death."
+            },
+            {
+              "Verseid": "00000003",
+              "Verse": "The Lord does not let the righteous go hungry, but he thwarts the craving of the wicked."
+            },
+            {
+              "Verseid": "00000004",
+              "Verse": "Lazy hands make for poverty, but diligent hands bring wealth."
+            },
+            {
+              "Verseid": "00000005",
+              "Verse": "He who gathers crops in summer is a prudent son, but he who sleeps during harvest is a disgraceful son."
+            },
+            {
+              "Verseid": "00000006",
+              "Verse": "Blessings crown the head of the righteous, but violence overwhelms the mouth of the wicked."
+            },
+            {
+              "Verseid": "00000007",
+              "Verse": "The name of the righteous is used in blessings, but the name of the wicked will rot."
+            },
+            {
+              "Verseid": "00000008",
+              "Verse": "The wise in heart accept commands, but a chattering fool comes to ruin."
+            },
+            {
+              "Verseid": "00000009",
+              "Verse": "Whoever walks in integrity walks securely, but whoever takes crooked paths will be found out."
+            },
+            {
+              "Verseid": "00000010",
+              "Verse": "Whoever winks maliciously causes grief, and a chattering fool comes to ruin."
+            },
+            {
+              "Verseid": "00000011",
+              "Verse": "The mouth of the righteous is a fountain of life, but the mouth of the wicked conceals violence."
+            },
+            {
+              "Verseid": "00000012",
+              "Verse": "Hatred stirs up conflict, but love covers over all wrongs."
+            },
+            {
+              "Verseid": "00000013",
+              "Verse": "Wisdom is found on the lips of the discerning, but a rod is for the back of one who has no sense."
+            },
+            {
+              "Verseid": "00000014",
+              "Verse": "The wise store up knowledge, but the mouth of a fool invites ruin."
+            },
+            {
+              "Verseid": "00000015",
+              "Verse": "The wealth of the rich is their fortified city, but poverty is the ruin of the poor."
+            },
+            {
+              "Verseid": "00000016",
+              "Verse": "The wages of the righteous is life, but the earnings of the wicked are sin and death."
+            },
+            {
+              "Verseid": "00000017",
+              "Verse": "Whoever heeds discipline shows the way to life, but whoever ignores correction leads others astray."
+            },
+            {
+              "Verseid": "00000018",
+              "Verse": "Whoever conceals hatred with lying lips and spreads slander is a fool."
+            },
+            {
+              "Verseid": "00000019",
+              "Verse": "Sin is not ended by multiplying words, but the prudent hold their tongues."
+            },
+            {
+              "Verseid": "00000020",
+              "Verse": "The tongue of the righteous is choice silver, but the heart of the wicked is of little value."
+            },
+            {
+              "Verseid": "00000021",
+              "Verse": "The lips of the righteous nourish many, but fools die for lack of sense."
+            },
+            {
+              "Verseid": "00000022",
+              "Verse": "The blessing of the Lord brings wealth, without painful toil for it."
+            },
+            {
+              "Verseid": "00000023",
+              "Verse": "A fool finds pleasure in wicked schemes, but a person of understanding delights in wisdom."
+            },
+            {
+              "Verseid": "00000024",
+              "Verse": "What the wicked dread will overtake them; what the righteous desire will be granted."
+            },
+            {
+              "Verseid": "00000025",
+              "Verse": "When the storm has swept by, the wicked are gone, but the righteous stand firm forever."
+            },
+            {
+              "Verseid": "00000026",
+              "Verse": "As vinegar to the teeth and smoke to the eyes, so are sluggards to those who send them."
+            },
+            {
+              "Verseid": "00000027",
+              "Verse": "The fear of the Lord adds length to life, but the years of the wicked are cut short."
+            },
+            {
+              "Verseid": "00000028",
+              "Verse": "The prospect of the righteous is joy, but the hopes of the wicked come to nothing."
+            },
+            {
+              "Verseid": "00000029",
+              "Verse": "The way of the Lord is a refuge for the blameless, but it is the ruin of those who do evil."
+            },
+            {
+              "Verseid": "00000030",
+              "Verse": "The righteous will never be uprooted, but the wicked will not remain in the land."
+            },
+            {
+              "Verseid": "00000031",
+              "Verse": "From the mouth of the righteous comes the fruit of wisdom, but a perverse tongue will be silenced."
+            },
+            {
+              "Verseid": "00000032",
+              "Verse": "The lips of the righteous know what finds favor, but the mouth of the wicked only what is perverse."
+            }
+          ]
+        },
+        {
+          "Chapterid": "11",
+          "Verse": [
+            {
+              "Verseid": "00000001",
+              "Verse": "The Lord detests dishonest scales, but accurate weights find favor with him."
+            },
+            {
+              "Verseid": "00000002",
+              "Verse": "When pride comes, then comes disgrace, but with humility comes wisdom."
+            },
+            {
+              "Verseid": "00000003",
+              "Verse": "The integrity of the upright guides them, but the unfaithful are destroyed by their duplicity."
+            },
+            {
+              "Verseid": "00000004",
+              "Verse": "Wealth is worthless in the day of wrath, but righteousness delivers from death."
+            },
+            {
+              "Verseid": "00000005",
+              "Verse": "The righteousness of the blameless makes their paths straight, but the wicked are brought down by their own wickedness."
+            },
+            {
+              "Verseid": "00000006",
+              "Verse": "The righteousness of the upright delivers them, but the unfaithful are trapped by evil desires."
+            },
+            {
+              "Verseid": "00000007",
+              "Verse": "Hopes placed in mortals die with them; all the promise of their power comes to nothing."
+            },
+            {
+              "Verseid": "00000008",
+              "Verse": "The righteous person is rescued from trouble, and it falls on the wicked instead."
+            },
+            {
+              "Verseid": "00000009",
+              "Verse": "With their mouths the godless destroy their neighbors, but through knowledge the righteous escape."
+            },
+            {
+              "Verseid": "00000010",
+              "Verse": "When the righteous prosper, the city rejoices; when the wicked perish, there are shouts of joy."
+            },
+            {
+              "Verseid": "00000011",
+              "Verse": "Through the blessing of the upright a city is exalted, but by the mouth of the wicked it is destroyed."
+            },
+            {
+              "Verseid": "00000012",
+              "Verse": "Whoever derides their neighbor has no sense, but the one who has understanding holds their tongue."
+            },
+            {
+              "Verseid": "00000013",
+              "Verse": "A gossip betrays a confidence, but a trustworthy person keeps a secret."
+            },
+            {
+              "Verseid": "00000014",
+              "Verse": "For lack of guidance a nation falls, but victory is won through many advisers."
+            },
+            {
+              "Verseid": "00000015",
+              "Verse": "Whoever puts up security for a stranger will surely suffer, but whoever refuses to shake hands in pledge is safe."
+            },
+            {
+              "Verseid": "00000016",
+              "Verse": "A kindhearted woman gains honor, but ruthless men gain only wealth."
+            },
+            {
+              "Verseid": "00000017",
+              "Verse": "Those who are kind benefit themselves, but the cruel bring ruin on themselves."
+            },
+            {
+              "Verseid": "00000018",
+              "Verse": "A wicked person earns deceptive wages, but the one who sows righteousness reaps a sure reward."
+            },
+            {
+              "Verseid": "00000019",
+              "Verse": "Truly the righteous attain life, but whoever pursues evil finds death."
+            },
+            {
+              "Verseid": "00000020",
+              "Verse": "The Lord detests those whose hearts are perverse, but he delights in those whose ways are blameless."
+            },
+            {
+              "Verseid": "00000021",
+              "Verse": "Be sure of this: The wicked will not go unpunished, but those who are righteous will go free."
+            },
+            {
+              "Verseid": "00000022",
+              "Verse": "Like a gold ring in a pig`s snout is a beautiful woman who shows no discretion."
+            },
+            {
+              "Verseid": "00000023",
+              "Verse": "The desire of the righteous ends only in good, but the hope of the wicked only in wrath."
+            },
+            {
+              "Verseid": "00000024",
+              "Verse": "One person gives freely, yet gains even more; another withholds unduly, but comes to poverty."
+            },
+            {
+              "Verseid": "00000025",
+              "Verse": "A generous person will prosper; whoever refreshes others will be refreshed."
+            },
+            {
+              "Verseid": "00000026",
+              "Verse": "People curse the one who hoards grain, but they pray God`s blessing on the one who is willing to sell."
+            },
+            {
+              "Verseid": "00000027",
+              "Verse": "Whoever seeks good finds favor, but evil comes to one who searches for it."
+            },
+            {
+              "Verseid": "00000028",
+              "Verse": "Those who trust in their riches will fall, but the righteous will thrive like a green leaf."
+            },
+            {
+              "Verseid": "00000029",
+              "Verse": "Whoever brings ruin on their family will inherit only wind, and the fool will be servant to the wise."
+            },
+            {
+              "Verseid": "00000030",
+              "Verse": "The fruit of the righteous is a tree of life, and the one who is wise saves lives."
+            },
+            {
+              "Verseid": "00000031",
+              "Verse": "If the righteous receive their due on earth, how much more the ungodly and the sinner!"
+            }
+          ]
+        },
+        {
+          "Chapterid": "12",
+          "Verse": [
+            {
+              "Verseid": "00000001",
+              "Verse": "Whoever loves discipline loves knowledge, but whoever hates correction is stupid."
+            },
+            {
+              "Verseid": "00000002",
+              "Verse": "Good people obtain favor from the Lord, but he condemns those who devise wicked schemes."
+            },
+            {
+              "Verseid": "00000003",
+              "Verse": "No one can be established through wickedness, but the righteous cannot be uprooted."
+            },
+            {
+              "Verseid": "00000004",
+              "Verse": "A wife of noble character is her husband`s crown, but a disgraceful wife is like decay in his bones."
+            },
+            {
+              "Verseid": "00000005",
+              "Verse": "The plans of the righteous are just, but the advice of the wicked is deceitful."
+            },
+            {
+              "Verseid": "00000006",
+              "Verse": "The words of the wicked lie in wait for blood, but the speech of the upright rescues them."
+            },
+            {
+              "Verseid": "00000007",
+              "Verse": "The wicked are overthrown and are no more, but the house of the righteous stands firm."
+            },
+            {
+              "Verseid": "00000008",
+              "Verse": "A person is praised according to their prudence, and one with a warped mind is despised."
+            },
+            {
+              "Verseid": "00000009",
+              "Verse": "Better to be a nobody and yet have a servant than pretend to be somebody and have no food."
+            },
+            {
+              "Verseid": "00000010",
+              "Verse": "The righteous care for the needs of their animals, but the kindest acts of the wicked are cruel."
+            },
+            {
+              "Verseid": "00000011",
+              "Verse": "Those who work their land will have abundant food, but those who chase fantasies have no sense."
+            },
+            {
+              "Verseid": "00000012",
+              "Verse": "The wicked desire the stronghold of evildoers, but the root of the righteous endures."
+            },
+            {
+              "Verseid": "00000013",
+              "Verse": "Evildoers are trapped by their sinful talk, and so the innocent escape trouble."
+            },
+            {
+              "Verseid": "00000014",
+              "Verse": "From the fruit of their lips people are filled with good things, and the work of their hands brings them reward."
+            },
+            {
+              "Verseid": "00000015",
+              "Verse": "The way of fools seems right to them, but the wise listen to advice."
+            },
+            {
+              "Verseid": "00000016",
+              "Verse": "Fools show their annoyance at once, but the prudent overlook an insult."
+            },
+            {
+              "Verseid": "00000017",
+              "Verse": "An honest witness tells the truth, but a false witness tells lies."
+            },
+            {
+              "Verseid": "00000018",
+              "Verse": "The words of the reckless pierce like swords, but the tongue of the wise brings healing."
+            },
+            {
+              "Verseid": "00000019",
+              "Verse": "Truthful lips endure forever, but a lying tongue lasts only a moment."
+            },
+            {
+              "Verseid": "00000020",
+              "Verse": "Deceit is in the hearts of those who plot evil, but those who promote peace have joy."
+            },
+            {
+              "Verseid": "00000021",
+              "Verse": "No harm overtakes the righteous, but the wicked have their fill of trouble."
+            },
+            {
+              "Verseid": "00000022",
+              "Verse": "The Lord detests lying lips, but he delights in people who are trustworthy."
+            },
+            {
+              "Verseid": "00000023",
+              "Verse": "The prudent keep their knowledge to themselves, but a fool`s heart blurts out folly."
+            },
+            {
+              "Verseid": "00000024",
+              "Verse": "Diligent hands will rule, but laziness ends in forced labor."
+            },
+            {
+              "Verseid": "00000025",
+              "Verse": "Anxiety weighs down the heart, but a kind word cheers it up."
+            },
+            {
+              "Verseid": "00000026",
+              "Verse": "The righteous choose their friends carefully, but the way of the wicked leads them astray."
+            },
+            {
+              "Verseid": "00000027",
+              "Verse": "The lazy do not roast any game, but the diligent feed on the riches of the hunt."
+            },
+            {
+              "Verseid": "00000028",
+              "Verse": "In the way of righteousness there is life; along that path is immortality."
+            }
+          ]
+        },
+        {
+          "Chapterid": "13",
+          "Verse": [
+            {
+              "Verseid": "00000001",
+              "Verse": "A wise son heeds his father`s instruction, but a mocker does not respond to rebukes."
+            },
+            {
+              "Verseid": "00000002",
+              "Verse": "From the fruit of their lips people enjoy good things, but the unfaithful have an appetite for violence."
+            },
+            {
+              "Verseid": "00000003",
+              "Verse": "Those who guard their lips preserve their lives, but those who speak rashly will come to ruin."
+            },
+            {
+              "Verseid": "00000004",
+              "Verse": "A sluggard`s appetite is never filled, but the desires of the diligent are fully satisfied."
+            },
+            {
+              "Verseid": "00000005",
+              "Verse": "The righteous hate what is false, but the wicked make themselves a stench and bring shame on themselves."
+            },
+            {
+              "Verseid": "00000006",
+              "Verse": "Righteousness guards the person of integrity, but wickedness overthrows the sinner."
+            },
+            {
+              "Verseid": "00000007",
+              "Verse": "One person pretends to be rich, yet has nothing; another pretends to be poor, yet has great wealth."
+            },
+            {
+              "Verseid": "00000008",
+              "Verse": "A person`s riches may ransom their life, but the poor cannot respond to threatening rebukes."
+            },
+            {
+              "Verseid": "00000009",
+              "Verse": "The light of the righteous shines brightly, but the lamp of the wicked is snuffed out."
+            },
+            {
+              "Verseid": "00000010",
+              "Verse": "Where there is strife, there is pride, but wisdom is found in those who take advice."
+            },
+            {
+              "Verseid": "00000011",
+              "Verse": "Dishonest money dwindles away, but whoever gathers money little by little makes it grow."
+            },
+            {
+              "Verseid": "00000012",
+              "Verse": "Hope deferred makes the heart sick, but a longing fulfilled is a tree of life."
+            },
+            {
+              "Verseid": "00000013",
+              "Verse": "Whoever scorns instruction will pay for it, but whoever respects a command is rewarded."
+            },
+            {
+              "Verseid": "00000014",
+              "Verse": "The teaching of the wise is a fountain of life, turning a person from the snares of death."
+            },
+            {
+              "Verseid": "00000015",
+              "Verse": "Good judgment wins favor, but the way of the unfaithful leads to their destruction."
+            },
+            {
+              "Verseid": "00000016",
+              "Verse": "All who are prudent act with knowledge, but fools expose their folly."
+            },
+            {
+              "Verseid": "00000017",
+              "Verse": "A wicked messenger falls into trouble, but a trustworthy envoy brings healing."
+            },
+            {
+              "Verseid": "00000018",
+              "Verse": "Whoever disregards discipline comes to poverty and shame, but whoever heeds correction is honored."
+            },
+            {
+              "Verseid": "00000019",
+              "Verse": "A longing fulfilled is sweet to the soul, but fools detest turning from evil."
+            },
+            {
+              "Verseid": "00000020",
+              "Verse": "Walk with the wise and become wise, for a companion of fools suffers harm."
+            },
+            {
+              "Verseid": "00000021",
+              "Verse": "Trouble pursues the sinner, but the righteous are rewarded with good things."
+            },
+            {
+              "Verseid": "00000022",
+              "Verse": "A good person leaves an inheritance for their children`s children, but a sinner`s wealth is stored up for the righteous."
+            },
+            {
+              "Verseid": "00000023",
+              "Verse": "An unplowed field produces food for the poor, but injustice sweeps it away."
+            },
+            {
+              "Verseid": "00000024",
+              "Verse": "Whoever spares the rod hates their children, but the one who loves their children is careful to discipline them."
+            },
+            {
+              "Verseid": "00000025",
+              "Verse": "The righteous eat to their hearts` content, but the stomach of the wicked goes hungry."
+            }
+          ]
+        },
+        {
+          "Chapterid": "14",
+          "Verse": [
+            {
+              "Verseid": "00000001",
+              "Verse": "The wise woman builds her house, but with her own hands the foolish one tears hers down."
+            },
+            {
+              "Verseid": "00000002",
+              "Verse": "Whoever fears the Lord walks uprightly, but those who despise him are devious in their ways."
+            },
+            {
+              "Verseid": "00000003",
+              "Verse": "A fool`s mouth lashes out with pride, but the lips of the wise protect them."
+            },
+            {
+              "Verseid": "00000004",
+              "Verse": "Where there are no oxen, the manger is empty, but from the strength of an ox come abundant harvests."
+            },
+            {
+              "Verseid": "00000005",
+              "Verse": "An honest witness does not deceive, but a false witness pours out lies."
+            },
+            {
+              "Verseid": "00000006",
+              "Verse": "The mocker seeks wisdom and finds none, but knowledge comes easily to the discerning."
+            },
+            {
+              "Verseid": "00000007",
+              "Verse": "Stay away from a fool, for you will not find knowledge on their lips."
+            },
+            {
+              "Verseid": "00000008",
+              "Verse": "The wisdom of the prudent is to give thought to their ways, but the folly of fools is deception."
+            },
+            {
+              "Verseid": "00000009",
+              "Verse": "Fools mock at making amends for sin, but goodwill is found among the upright."
+            },
+            {
+              "Verseid": "00000010",
+              "Verse": "Each heart knows its own bitterness, and no one else can share its joy."
+            },
+            {
+              "Verseid": "00000011",
+              "Verse": "The house of the wicked will be destroyed, but the tent of the upright will flourish."
+            },
+            {
+              "Verseid": "00000012",
+              "Verse": "There is a way that appears to be right, but in the end it leads to death."
+            },
+            {
+              "Verseid": "00000013",
+              "Verse": "Even in laughter the heart may ache, and rejoicing may end in grief."
+            },
+            {
+              "Verseid": "00000014",
+              "Verse": "The faithless will be fully repaid for their ways, and the good rewarded for theirs."
+            },
+            {
+              "Verseid": "00000015",
+              "Verse": "The simple believe anything, but the prudent give thought to their steps."
+            },
+            {
+              "Verseid": "00000016",
+              "Verse": "The wise fear the Lord and shun evil, but a fool is hotheaded and yet feels secure."
+            },
+            {
+              "Verseid": "00000017",
+              "Verse": "A quick-tempered person does foolish things, and the one who devises evil schemes is hated."
+            },
+            {
+              "Verseid": "00000018",
+              "Verse": "The simple inherit folly, but the prudent are crowned with knowledge."
+            },
+            {
+              "Verseid": "00000019",
+              "Verse": "Evildoers will bow down in the presence of the good, and the wicked at the gates of the righteous."
+            },
+            {
+              "Verseid": "00000020",
+              "Verse": "The poor are shunned even by their neighbors, but the rich have many friends."
+            },
+            {
+              "Verseid": "00000021",
+              "Verse": "It is a sin to despise one`s neighbor, but blessed is the one who is kind to the needy."
+            },
+            {
+              "Verseid": "00000022",
+              "Verse": "Do not those who plot evil go astray? But those who plan what is good find love and faithfulness."
+            },
+            {
+              "Verseid": "00000023",
+              "Verse": "All hard work brings a profit, but mere talk leads only to poverty."
+            },
+            {
+              "Verseid": "00000024",
+              "Verse": "The wealth of the wise is their crown, but the folly of fools yields folly."
+            },
+            {
+              "Verseid": "00000025",
+              "Verse": "A truthful witness saves lives, but a false witness is deceitful."
+            },
+            {
+              "Verseid": "00000026",
+              "Verse": "Whoever fears the Lord has a secure fortress, and for their children it will be a refuge."
+            },
+            {
+              "Verseid": "00000027",
+              "Verse": "The fear of the Lord is a fountain of life, turning a person from the snares of death."
+            },
+            {
+              "Verseid": "00000028",
+              "Verse": "A large population is a king`s glory, but without subjects a prince is ruined."
+            },
+            {
+              "Verseid": "00000029",
+              "Verse": "Whoever is patient has great understanding, but one who is quick-tempered displays folly."
+            },
+            {
+              "Verseid": "00000030",
+              "Verse": "A heart at peace gives life to the body, but envy rots the bones."
+            },
+            {
+              "Verseid": "00000031",
+              "Verse": "Whoever oppresses the poor shows contempt for their Maker, but whoever is kind to the needy honors God."
+            },
+            {
+              "Verseid": "00000032",
+              "Verse": "When calamity comes, the wicked are brought down, but even in death the righteous seek refuge in God."
+            },
+            {
+              "Verseid": "00000033",
+              "Verse": "Wisdom reposes in the heart of the discerning and even among fools she lets herself be known."
+            },
+            {
+              "Verseid": "00000034",
+              "Verse": "Righteousness exalts a nation, but sin condemns any people."
+            },
+            {
+              "Verseid": "00000035",
+              "Verse": "A king delights in a wise servant, but a shameful servant arouses his fury."
+            }
+          ]
+        },
+        {
+          "Chapterid": "15",
+          "Verse": [
+            {
+              "Verseid": "00000001",
+              "Verse": "A gentle answer turns away wrath, but a harsh word stirs up anger."
+            },
+            {
+              "Verseid": "00000002",
+              "Verse": "The tongue of the wise adorns knowledge, but the mouth of the fool gushes folly."
+            },
+            {
+              "Verseid": "00000003",
+              "Verse": "The eyes of the Lord are everywhere, keeping watch on the wicked and the good."
+            },
+            {
+              "Verseid": "00000004",
+              "Verse": "The soothing tongue is a tree of life, but a perverse tongue crushes the spirit."
+            },
+            {
+              "Verseid": "00000005",
+              "Verse": "A fool spurns a parent`s discipline, but whoever heeds correction shows prudence."
+            },
+            {
+              "Verseid": "00000006",
+              "Verse": "The house of the righteous contains great treasure, but the income of the wicked brings ruin."
+            },
+            {
+              "Verseid": "00000007",
+              "Verse": "The lips of the wise spread knowledge, but the hearts of fools are not upright."
+            },
+            {
+              "Verseid": "00000008",
+              "Verse": "The Lord detests the sacrifice of the wicked, but the prayer of the upright pleases him."
+            },
+            {
+              "Verseid": "00000009",
+              "Verse": "The Lord detests the way of the wicked, but he loves those who pursue righteousness."
+            },
+            {
+              "Verseid": "00000010",
+              "Verse": "Stern discipline awaits anyone who leaves the path; the one who hates correction will die."
+            },
+            {
+              "Verseid": "00000011",
+              "Verse": "Death and Destruction lie open before the Lord— how much more do human hearts!"
+            },
+            {
+              "Verseid": "00000012",
+              "Verse": "Mockers resent correction, so they avoid the wise."
+            },
+            {
+              "Verseid": "00000013",
+              "Verse": "A happy heart makes the face cheerful, but heartache crushes the spirit."
+            },
+            {
+              "Verseid": "00000014",
+              "Verse": "The discerning heart seeks knowledge, but the mouth of a fool feeds on folly."
+            },
+            {
+              "Verseid": "00000015",
+              "Verse": "All the days of the oppressed are wretched, but the cheerful heart has a continual feast."
+            },
+            {
+              "Verseid": "00000016",
+              "Verse": "Better a little with the fear of the Lord than great wealth with turmoil."
+            },
+            {
+              "Verseid": "00000017",
+              "Verse": "Better a small serving of vegetables with love than a fattened calf with hatred."
+            },
+            {
+              "Verseid": "00000018",
+              "Verse": "A hot-tempered person stirs up conflict, but the one who is patient calms a quarrel."
+            },
+            {
+              "Verseid": "00000019",
+              "Verse": "The way of the sluggard is blocked with thorns, but the path of the upright is a highway."
+            },
+            {
+              "Verseid": "00000020",
+              "Verse": "A wise son brings joy to his father, but a foolish man despises his mother."
+            },
+            {
+              "Verseid": "00000021",
+              "Verse": "Folly brings joy to one who has no sense, but whoever has understanding keeps a straight course."
+            },
+            {
+              "Verseid": "00000022",
+              "Verse": "Plans fail for lack of counsel, but with many advisers they succeed."
+            },
+            {
+              "Verseid": "00000023",
+              "Verse": "A person finds joy in giving an apt reply— and how good is a timely word!"
+            },
+            {
+              "Verseid": "00000024",
+              "Verse": "The path of life leads upward for the prudent to keep them from going down to the realm of the dead."
+            },
+            {
+              "Verseid": "00000025",
+              "Verse": "The Lord tears down the house of the proud, but he sets the widow`s boundary stones in place."
+            },
+            {
+              "Verseid": "00000026",
+              "Verse": "The Lord detests the thoughts of the wicked, but gracious words are pure in his sight."
+            },
+            {
+              "Verseid": "00000027",
+              "Verse": "The greedy bring ruin to their households, but the one who hates bribes will live."
+            },
+            {
+              "Verseid": "00000028",
+              "Verse": "The heart of the righteous weighs its answers, but the mouth of the wicked gushes evil."
+            },
+            {
+              "Verseid": "00000029",
+              "Verse": "The Lord is far from the wicked, but he hears the prayer of the righteous."
+            },
+            {
+              "Verseid": "00000030",
+              "Verse": "Light in a messenger`s eyes brings joy to the heart, and good news gives health to the bones."
+            },
+            {
+              "Verseid": "00000031",
+              "Verse": "Whoever heeds life-giving correction will be at home among the wise."
+            },
+            {
+              "Verseid": "00000032",
+              "Verse": "Those who disregard discipline despise themselves, but the one who heeds correction gains understanding."
+            },
+            {
+              "Verseid": "00000033",
+              "Verse": "Wisdom`s instruction is to fear the Lord, and humility comes before honor."
+            }
+          ]
+        },
+        {
+          "Chapterid": "16",
+          "Verse": [
+            {
+              "Verseid": "00000001",
+              "Verse": "To humans belong the plans of the heart, but from the Lord comes the proper answer of the tongue."
+            },
+            {
+              "Verseid": "00000002",
+              "Verse": "All a person`s ways seem pure to them, but motives are weighed by the Lord."
+            },
+            {
+              "Verseid": "00000003",
+              "Verse": "Commit to the Lord whatever you do, and he will establish your plans."
+            },
+            {
+              "Verseid": "00000004",
+              "Verse": "The Lord works out everything to its proper end— even the wicked for a day of disaster."
+            },
+            {
+              "Verseid": "00000005",
+              "Verse": "The Lord detests all the proud of heart. Be sure of this: They will not go unpunished."
+            },
+            {
+              "Verseid": "00000006",
+              "Verse": "Through love and faithfulness sin is atoned for; through the fear of the Lord evil is avoided."
+            },
+            {
+              "Verseid": "00000007",
+              "Verse": "When the Lord takes pleasure in anyone`s way, he causes their enemies to make peace with them."
+            },
+            {
+              "Verseid": "00000008",
+              "Verse": "Better a little with righteousness than much gain with injustice."
+            },
+            {
+              "Verseid": "00000009",
+              "Verse": "In their hearts humans plan their course, but the Lord establishes their steps."
+            },
+            {
+              "Verseid": "00000010",
+              "Verse": "The lips of a king speak as an oracle, and his mouth does not betray justice."
+            },
+            {
+              "Verseid": "00000011",
+              "Verse": "Honest scales and balances belong to the Lord; all the weights in the bag are of his making."
+            },
+            {
+              "Verseid": "00000012",
+              "Verse": "Kings detest wrongdoing, for a throne is established through righteousness."
+            },
+            {
+              "Verseid": "00000013",
+              "Verse": "Kings take pleasure in honest lips; they value the one who speaks what is right."
+            },
+            {
+              "Verseid": "00000014",
+              "Verse": "A king`s wrath is a messenger of death, but the wise will appease it."
+            },
+            {
+              "Verseid": "00000015",
+              "Verse": "When a king`s face brightens, it means life; his favor is like a rain cloud in spring."
+            },
+            {
+              "Verseid": "00000016",
+              "Verse": "How much better to get wisdom than gold, to get insight rather than silver!"
+            },
+            {
+              "Verseid": "00000017",
+              "Verse": "The highway of the upright avoids evil; those who guard their ways preserve their lives."
+            },
+            {
+              "Verseid": "00000018",
+              "Verse": "Pride goes before destruction, a haughty spirit before a fall."
+            },
+            {
+              "Verseid": "00000019",
+              "Verse": "Better to be lowly in spirit along with the oppressed than to share plunder with the proud."
+            },
+            {
+              "Verseid": "00000020",
+              "Verse": "Whoever gives heed to instruction prospers, and blessed is the one who trusts in the Lord."
+            },
+            {
+              "Verseid": "00000021",
+              "Verse": "The wise in heart are called discerning, and gracious words promote instruction."
+            },
+            {
+              "Verseid": "00000022",
+              "Verse": "Prudence is a fountain of life to the prudent, but folly brings punishment to fools."
+            },
+            {
+              "Verseid": "00000023",
+              "Verse": "The hearts of the wise make their mouths prudent, and their lips promote instruction."
+            },
+            {
+              "Verseid": "00000024",
+              "Verse": "Gracious words are a honeycomb, sweet to the soul and healing to the bones."
+            },
+            {
+              "Verseid": "00000025",
+              "Verse": "There is a way that appears to be right, but in the end it leads to death."
+            },
+            {
+              "Verseid": "00000026",
+              "Verse": "The appetite of laborers works for them; their hunger drives them on."
+            },
+            {
+              "Verseid": "00000027",
+              "Verse": "A scoundrel plots evil, and on their lips it is like a scorching fire."
+            },
+            {
+              "Verseid": "00000028",
+              "Verse": "A perverse person stirs up conflict, and a gossip separates close friends."
+            },
+            {
+              "Verseid": "00000029",
+              "Verse": "A violent person entices their neighbor and leads them down a path that is not good."
+            },
+            {
+              "Verseid": "00000030",
+              "Verse": "Whoever winks with their eye is plotting perversity; whoever purses their lips is bent on evil."
+            },
+            {
+              "Verseid": "00000031",
+              "Verse": "Gray hair is a crown of splendor; it is attained in the way of righteousness."
+            },
+            {
+              "Verseid": "00000032",
+              "Verse": "Better a patient person than a warrior, one with self-control than one who takes a city."
+            },
+            {
+              "Verseid": "00000033",
+              "Verse": "The lot is cast into the lap, but its every decision is from the Lord."
+            }
+          ]
+        },
+        {
+          "Chapterid": "17",
+          "Verse": [
+            {
+              "Verseid": "00000001",
+              "Verse": "Better a dry crust with peace and quiet than a house full of feasting, with strife."
+            },
+            {
+              "Verseid": "00000002",
+              "Verse": "A prudent servant will rule over a disgraceful son and will share the inheritance as one of the family."
+            },
+            {
+              "Verseid": "00000003",
+              "Verse": "The crucible for silver and the furnace for gold, but the Lord tests the heart."
+            },
+            {
+              "Verseid": "00000004",
+              "Verse": "A wicked person listens to deceitful lips; a liar pays attention to a destructive tongue."
+            },
+            {
+              "Verseid": "00000005",
+              "Verse": "Whoever mocks the poor shows contempt for their Maker; whoever gloats over disaster will not go unpunished."
+            },
+            {
+              "Verseid": "00000006",
+              "Verse": "Children`s children are a crown to the aged, and parents are the pride of their children."
+            },
+            {
+              "Verseid": "00000007",
+              "Verse": "Eloquent lips are unsuited to a godless fool— how much worse lying lips to a ruler!"
+            },
+            {
+              "Verseid": "00000008",
+              "Verse": "A bribe is seen as a charm by the one who gives it; they think success will come at every turn."
+            },
+            {
+              "Verseid": "00000009",
+              "Verse": "Whoever would foster love covers over an offense, but whoever repeats the matter separates close friends."
+            },
+            {
+              "Verseid": "00000010",
+              "Verse": "A rebuke impresses a discerning person more than a hundred lashes a fool."
+            },
+            {
+              "Verseid": "00000011",
+              "Verse": "Evildoers foster rebellion against God; the messenger of death will be sent against them."
+            },
+            {
+              "Verseid": "00000012",
+              "Verse": "Better to meet a bear robbed of her cubs than a fool bent on folly."
+            },
+            {
+              "Verseid": "00000013",
+              "Verse": "Evil will never leave the house of one who pays back evil for good."
+            },
+            {
+              "Verseid": "00000014",
+              "Verse": "Starting a quarrel is like breaching a dam; so drop the matter before a dispute breaks out."
+            },
+            {
+              "Verseid": "00000015",
+              "Verse": "Acquitting the guilty and condemning the innocent— the Lord detests them both."
+            },
+            {
+              "Verseid": "00000016",
+              "Verse": "Why should fools have money in hand to buy wisdom, when they are not able to understand it?"
+            },
+            {
+              "Verseid": "00000017",
+              "Verse": "A friend loves at all times, and a brother is born for a time of adversity."
+            },
+            {
+              "Verseid": "00000018",
+              "Verse": "One who has no sense shakes hands in pledge and puts up security for a neighbor."
+            },
+            {
+              "Verseid": "00000019",
+              "Verse": "Whoever loves a quarrel loves sin; whoever builds a high gate invites destruction."
+            },
+            {
+              "Verseid": "00000020",
+              "Verse": "One whose heart is corrupt does not prosper; one whose tongue is perverse falls into trouble."
+            },
+            {
+              "Verseid": "00000021",
+              "Verse": "To have a fool for a child brings grief; there is no joy for the parent of a godless fool."
+            },
+            {
+              "Verseid": "00000022",
+              "Verse": "A cheerful heart is good medicine, but a crushed spirit dries up the bones."
+            },
+            {
+              "Verseid": "00000023",
+              "Verse": "The wicked accept bribes in secret to pervert the course of justice."
+            },
+            {
+              "Verseid": "00000024",
+              "Verse": "A discerning person keeps wisdom in view, but a fool`s eyes wander to the ends of the earth."
+            },
+            {
+              "Verseid": "00000025",
+              "Verse": "A foolish son brings grief to his father and bitterness to the mother who bore him."
+            },
+            {
+              "Verseid": "00000026",
+              "Verse": "If imposing a fine on the innocent is not good, surely to flog honest officials is not right."
+            },
+            {
+              "Verseid": "00000027",
+              "Verse": "The one who has knowledge uses words with restraint, and whoever has understanding is even-tempered."
+            },
+            {
+              "Verseid": "00000028",
+              "Verse": "Even fools are thought wise if they keep silent, and discerning if they hold their tongues."
+            }
+          ]
+        },
+        {
+          "Chapterid": "18",
+          "Verse": [
+            {
+              "Verseid": "00000001",
+              "Verse": "An unfriendly person pursues selfish ends and against all sound judgment starts quarrels."
+            },
+            {
+              "Verseid": "00000002",
+              "Verse": "Fools find no pleasure in understanding but delight in airing their own opinions."
+            },
+            {
+              "Verseid": "00000003",
+              "Verse": "When wickedness comes, so does contempt, and with shame comes reproach."
+            },
+            {
+              "Verseid": "00000004",
+              "Verse": "The words of the mouth are deep waters, but the fountain of wisdom is a rushing stream."
+            },
+            {
+              "Verseid": "00000005",
+              "Verse": "It is not good to be partial to the wicked and so deprive the innocent of justice."
+            },
+            {
+              "Verseid": "00000006",
+              "Verse": "The lips of fools bring them strife, and their mouths invite a beating."
+            },
+            {
+              "Verseid": "00000007",
+              "Verse": "The mouths of fools are their undoing, and their lips are a snare to their very lives."
+            },
+            {
+              "Verseid": "00000008",
+              "Verse": "The words of a gossip are like choice morsels; they go down to the inmost parts."
+            },
+            {
+              "Verseid": "00000009",
+              "Verse": "One who is slack in his work is brother to one who destroys."
+            },
+            {
+              "Verseid": "00000010",
+              "Verse": "The name of the Lord is a fortified tower; the righteous run to it and are safe."
+            },
+            {
+              "Verseid": "00000011",
+              "Verse": "The wealth of the rich is their fortified city; they imagine it a wall too high to scale."
+            },
+            {
+              "Verseid": "00000012",
+              "Verse": "Before a downfall the heart is haughty, but humility comes before honor."
+            },
+            {
+              "Verseid": "00000013",
+              "Verse": "To answer before listening— that is folly and shame."
+            },
+            {
+              "Verseid": "00000014",
+              "Verse": "The human spirit can endure in sickness, but a crushed spirit who can bear?"
+            },
+            {
+              "Verseid": "00000015",
+              "Verse": "The heart of the discerning acquires knowledge, for the ears of the wise seek it out."
+            },
+            {
+              "Verseid": "00000016",
+              "Verse": "A gift opens the way and ushers the giver into the presence of the great."
+            },
+            {
+              "Verseid": "00000017",
+              "Verse": "In a lawsuit the first to speak seems right, until someone comes forward and cross-examines."
+            },
+            {
+              "Verseid": "00000018",
+              "Verse": "Casting the lot settles disputes and keeps strong opponents apart."
+            },
+            {
+              "Verseid": "00000019",
+              "Verse": "A brother wronged is more unyielding than a fortified city; disputes are like the barred gates of a citadel."
+            },
+            {
+              "Verseid": "00000020",
+              "Verse": "From the fruit of their mouth a person`s stomach is filled; with the harvest of their lips they are satisfied."
+            },
+            {
+              "Verseid": "00000021",
+              "Verse": "The tongue has the power of life and death, and those who love it will eat its fruit."
+            },
+            {
+              "Verseid": "00000022",
+              "Verse": "He who finds a wife finds what is good and receives favor from the Lord."
+            },
+            {
+              "Verseid": "00000023",
+              "Verse": "The poor plead for mercy, but the rich answer harshly."
+            },
+            {
+              "Verseid": "00000024",
+              "Verse": "One who has unreliable friends soon comes to ruin, but there is a friend who sticks closer than a brother."
+            }
+          ]
+        },
+        {
+          "Chapterid": "19",
+          "Verse": [
+            {
+              "Verseid": "00000001",
+              "Verse": "Better the poor whose walk is blameless than a fool whose lips are perverse."
+            },
+            {
+              "Verseid": "00000002",
+              "Verse": "Desire without knowledge is not good— how much more will hasty feet miss the way!"
+            },
+            {
+              "Verseid": "00000003",
+              "Verse": "A person`s own folly leads to their ruin, yet their heart rages against the Lord."
+            },
+            {
+              "Verseid": "00000004",
+              "Verse": "Wealth attracts many friends, but even the closest friend of the poor person deserts them."
+            },
+            {
+              "Verseid": "00000005",
+              "Verse": "A false witness will not go unpunished, and whoever pours out lies will not go free."
+            },
+            {
+              "Verseid": "00000006",
+              "Verse": "Many curry favor with a ruler, and everyone is the friend of one who gives gifts."
+            },
+            {
+              "Verseid": "00000007",
+              "Verse": "The poor are shunned by all their relatives— how much more do their friends avoid them! Though the poor pursue them with pleading, they are nowhere to be found."
+            },
+            {
+              "Verseid": "00000008",
+              "Verse": "The one who gets wisdom loves life; the one who cherishes understanding will soon prosper."
+            },
+            {
+              "Verseid": "00000009",
+              "Verse": "A false witness will not go unpunished, and whoever pours out lies will perish."
+            },
+            {
+              "Verseid": "00000010",
+              "Verse": "It is not fitting for a fool to live in luxury— how much worse for a slave to rule over princes!"
+            },
+            {
+              "Verseid": "00000011",
+              "Verse": "A person`s wisdom yields patience; it is to one`s glory to overlook an offense."
+            },
+            {
+              "Verseid": "00000012",
+              "Verse": "A king`s rage is like the roar of a lion, but his favor is like dew on the grass."
+            },
+            {
+              "Verseid": "00000013",
+              "Verse": "A foolish child is a father`s ruin, and a quarrelsome wife is like the constant dripping of a leaky roof."
+            },
+            {
+              "Verseid": "00000014",
+              "Verse": "Houses and wealth are inherited from parents, but a prudent wife is from the Lord."
+            },
+            {
+              "Verseid": "00000015",
+              "Verse": "Laziness brings on deep sleep, and the shiftless go hungry."
+            },
+            {
+              "Verseid": "00000016",
+              "Verse": "Whoever keeps commandments keeps their life, but whoever shows contempt for their ways will die."
+            },
+            {
+              "Verseid": "00000017",
+              "Verse": "Whoever is kind to the poor lends to the Lord, and he will reward them for what they have done."
+            },
+            {
+              "Verseid": "00000018",
+              "Verse": "Discipline your children, for in that there is hope; do not be a willing party to their death."
+            },
+            {
+              "Verseid": "00000019",
+              "Verse": "A hot-tempered person must pay the penalty; rescue them, and you will have to do it again."
+            },
+            {
+              "Verseid": "00000020",
+              "Verse": "Listen to advice and accept discipline, and at the end you will be counted among the wise."
+            },
+            {
+              "Verseid": "00000021",
+              "Verse": "Many are the plans in a person`s heart, but it is the Lord`s purpose that prevails."
+            },
+            {
+              "Verseid": "00000022",
+              "Verse": "What a person desires is unfailing love; better to be poor than a liar."
+            },
+            {
+              "Verseid": "00000023",
+              "Verse": "The fear of the Lord leads to life; then one rests content, untouched by trouble."
+            },
+            {
+              "Verseid": "00000024",
+              "Verse": "A sluggard buries his hand in the dish; he will not even bring it back to his mouth!"
+            },
+            {
+              "Verseid": "00000025",
+              "Verse": "Flog a mocker, and the simple will learn prudence; rebuke the discerning, and they will gain knowledge."
+            },
+            {
+              "Verseid": "00000026",
+              "Verse": "Whoever robs their father and drives out their mother is a child who brings shame and disgrace."
+            },
+            {
+              "Verseid": "00000027",
+              "Verse": "Stop listening to instruction, my son, and you will stray from the words of knowledge."
+            },
+            {
+              "Verseid": "00000028",
+              "Verse": "A corrupt witness mocks at justice, and the mouth of the wicked gulps down evil."
+            },
+            {
+              "Verseid": "00000029",
+              "Verse": "Penalties are prepared for mockers, and beatings for the backs of fools."
+            }
+          ]
+        },
+        {
+          "Chapterid": "20",
+          "Verse": [
+            {
+              "Verseid": "00000001",
+              "Verse": "Wine is a mocker and beer a brawler; whoever is led astray by them is not wise."
+            },
+            {
+              "Verseid": "00000002",
+              "Verse": "A king`s wrath strikes terror like the roar of a lion; those who anger him forfeit their lives."
+            },
+            {
+              "Verseid": "00000003",
+              "Verse": "It is to one`s honor to avoid strife, but every fool is quick to quarrel."
+            },
+            {
+              "Verseid": "00000004",
+              "Verse": "Sluggards do not plow in season; so at harvest time they look but find nothing."
+            },
+            {
+              "Verseid": "00000005",
+              "Verse": "The purposes of a person`s heart are deep waters, but one who has insight draws them out."
+            },
+            {
+              "Verseid": "00000006",
+              "Verse": "Many claim to have unfailing love, but a faithful person who can find?"
+            },
+            {
+              "Verseid": "00000007",
+              "Verse": "The righteous lead blameless lives; blessed are their children after them."
+            },
+            {
+              "Verseid": "00000008",
+              "Verse": "When a king sits on his throne to judge, he winnows out all evil with his eyes."
+            },
+            {
+              "Verseid": "00000009",
+              "Verse": "Who can say, “I have kept my heart pure; I am clean and without sin”?"
+            },
+            {
+              "Verseid": "00000010",
+              "Verse": "Differing weights and differing measures— the Lord detests them both."
+            },
+            {
+              "Verseid": "00000011",
+              "Verse": "Even small children are known by their actions, so is their conduct really pure and upright?"
+            },
+            {
+              "Verseid": "00000012",
+              "Verse": "Ears that hear and eyes that see— the Lord has made them both."
+            },
+            {
+              "Verseid": "00000013",
+              "Verse": "Do not love sleep or you will grow poor; stay awake and you will have food to spare."
+            },
+            {
+              "Verseid": "00000014",
+              "Verse": "“It`s no good, it`s no good!” says the buyer— then goes off and boasts about the purchase."
+            },
+            {
+              "Verseid": "00000015",
+              "Verse": "Gold there is, and rubies in abundance, but lips that speak knowledge are a rare jewel."
+            },
+            {
+              "Verseid": "00000016",
+              "Verse": "Take the garment of one who puts up security for a stranger; hold it in pledge if it is done for an outsider."
+            },
+            {
+              "Verseid": "00000017",
+              "Verse": "Food gained by fraud tastes sweet, but one ends up with a mouth full of gravel."
+            },
+            {
+              "Verseid": "00000018",
+              "Verse": "Plans are established by seeking advice; so if you wage war, obtain guidance."
+            },
+            {
+              "Verseid": "00000019",
+              "Verse": "A gossip betrays a confidence; so avoid anyone who talks too much."
+            },
+            {
+              "Verseid": "00000020",
+              "Verse": "If someone curses their father or mother, their lamp will be snuffed out in pitch darkness."
+            },
+            {
+              "Verseid": "00000021",
+              "Verse": "An inheritance claimed too soon will not be blessed at the end."
+            },
+            {
+              "Verseid": "00000022",
+              "Verse": "Do not say, “I`ll pay you back for this wrong!” Wait for the Lord, and he will avenge you."
+            },
+            {
+              "Verseid": "00000023",
+              "Verse": "The Lord detests differing weights, and dishonest scales do not please him."
+            },
+            {
+              "Verseid": "00000024",
+              "Verse": "A person`s steps are directed by the Lord. How then can anyone understand their own way?"
+            },
+            {
+              "Verseid": "00000025",
+              "Verse": "It is a trap to dedicate something rashly and only later to consider one`s vows."
+            },
+            {
+              "Verseid": "00000026",
+              "Verse": "A wise king winnows out the wicked; he drives the threshing wheel over them."
+            },
+            {
+              "Verseid": "00000027",
+              "Verse": "The human spirit is the lamp of the Lord that sheds light on one`s inmost being."
+            },
+            {
+              "Verseid": "00000028",
+              "Verse": "Love and faithfulness keep a king safe; through love his throne is made secure."
+            },
+            {
+              "Verseid": "00000029",
+              "Verse": "The glory of young men is their strength, gray hair the splendor of the old."
+            },
+            {
+              "Verseid": "00000030",
+              "Verse": "Blows and wounds scrub away evil, and beatings purge the inmost being."
+            }
+          ]
+        },
+        {
+          "Chapterid": "21",
+          "Verse": [
+            {
+              "Verseid": "00000001",
+              "Verse": "In the Lord`s hand the king`s heart is a stream of water that he channels toward all who please him."
+            },
+            {
+              "Verseid": "00000002",
+              "Verse": "A person may think their own ways are right, but the Lord weighs the heart."
+            },
+            {
+              "Verseid": "00000003",
+              "Verse": "To do what is right and just is more acceptable to the Lord than sacrifice."
+            },
+            {
+              "Verseid": "00000004",
+              "Verse": "Haughty eyes and a proud heart— the unplowed field of the wicked—produce sin."
+            },
+            {
+              "Verseid": "00000005",
+              "Verse": "The plans of the diligent lead to profit as surely as haste leads to poverty."
+            },
+            {
+              "Verseid": "00000006",
+              "Verse": "A fortune made by a lying tongue is a fleeting vapor and a deadly snare."
+            },
+            {
+              "Verseid": "00000007",
+              "Verse": "The violence of the wicked will drag them away, for they refuse to do what is right."
+            },
+            {
+              "Verseid": "00000008",
+              "Verse": "The way of the guilty is devious, but the conduct of the innocent is upright."
+            },
+            {
+              "Verseid": "00000009",
+              "Verse": "Better to live on a corner of the roof than share a house with a quarrelsome wife."
+            },
+            {
+              "Verseid": "00000010",
+              "Verse": "The wicked crave evil; their neighbors get no mercy from them."
+            },
+            {
+              "Verseid": "00000011",
+              "Verse": "When a mocker is punished, the simple gain wisdom; by paying attention to the wise they get knowledge."
+            },
+            {
+              "Verseid": "00000012",
+              "Verse": "The Righteous One takes note of the house of the wicked and brings the wicked to ruin."
+            },
+            {
+              "Verseid": "00000013",
+              "Verse": "Whoever shuts their ears to the cry of the poor will also cry out and not be answered."
+            },
+            {
+              "Verseid": "00000014",
+              "Verse": "A gift given in secret soothes anger, and a bribe concealed in the cloak pacifies great wrath."
+            },
+            {
+              "Verseid": "00000015",
+              "Verse": "When justice is done, it brings joy to the righteous but terror to evildoers."
+            },
+            {
+              "Verseid": "00000016",
+              "Verse": "Whoever strays from the path of prudence comes to rest in the company of the dead."
+            },
+            {
+              "Verseid": "00000017",
+              "Verse": "Whoever loves pleasure will become poor; whoever loves wine and olive oil will never be rich."
+            },
+            {
+              "Verseid": "00000018",
+              "Verse": "The wicked become a ransom for the righteous, and the unfaithful for the upright."
+            },
+            {
+              "Verseid": "00000019",
+              "Verse": "Better to live in a desert than with a quarrelsome and nagging wife."
+            },
+            {
+              "Verseid": "00000020",
+              "Verse": "The wise store up choice food and olive oil, but fools gulp theirs down."
+            },
+            {
+              "Verseid": "00000021",
+              "Verse": "Whoever pursues righteousness and love finds life, prosperity and honor."
+            },
+            {
+              "Verseid": "00000022",
+              "Verse": "One who is wise can go up against the city of the mighty and pull down the stronghold in which they trust."
+            },
+            {
+              "Verseid": "00000023",
+              "Verse": "Those who guard their mouths and their tongues keep themselves from calamity."
+            },
+            {
+              "Verseid": "00000024",
+              "Verse": "The proud and arrogant person—“Mocker” is his name— behaves with insolent fury."
+            },
+            {
+              "Verseid": "00000025",
+              "Verse": "The craving of a sluggard will be the death of him, because his hands refuse to work."
+            },
+            {
+              "Verseid": "00000026",
+              "Verse": "All day long he craves for more, but the righteous give without sparing."
+            },
+            {
+              "Verseid": "00000027",
+              "Verse": "The sacrifice of the wicked is detestable— how much more so when brought with evil intent!"
+            },
+            {
+              "Verseid": "00000028",
+              "Verse": "A false witness will perish, but a careful listener will testify successfully."
+            },
+            {
+              "Verseid": "00000029",
+              "Verse": "The wicked put up a bold front, but the upright give thought to their ways."
+            },
+            {
+              "Verseid": "00000030",
+              "Verse": "There is no wisdom, no insight, no plan that can succeed against the Lord."
+            },
+            {
+              "Verseid": "00000031",
+              "Verse": "The horse is made ready for the day of battle, but victory rests with the Lord."
+            }
+          ]
+        },
+        {
+          "Chapterid": "22",
+          "Verse": [
+            {
+              "Verseid": "00000001",
+              "Verse": "A good name is more desirable than great riches; to be esteemed is better than silver or gold."
+            },
+            {
+              "Verseid": "00000002",
+              "Verse": "Rich and poor have this in common: The Lord is the Maker of them all."
+            },
+            {
+              "Verseid": "00000003",
+              "Verse": "The prudent see danger and take refuge, but the simple keep going and pay the penalty."
+            },
+            {
+              "Verseid": "00000004",
+              "Verse": "Humility is the fear of the Lord; its wages are riches and honor and life."
+            },
+            {
+              "Verseid": "00000005",
+              "Verse": "In the paths of the wicked are snares and pitfalls, but those who would preserve their life stay far from them."
+            },
+            {
+              "Verseid": "00000006",
+              "Verse": "Start children off on the way they should go, and even when they are old they will not turn from it."
+            },
+            {
+              "Verseid": "00000007",
+              "Verse": "The rich rule over the poor, and the borrower is slave to the lender."
+            },
+            {
+              "Verseid": "00000008",
+              "Verse": "Whoever sows injustice reaps calamity, and the rod they wield in fury will be broken."
+            },
+            {
+              "Verseid": "00000009",
+              "Verse": "The generous will themselves be blessed, for they share their food with the poor."
+            },
+            {
+              "Verseid": "00000010",
+              "Verse": "Drive out the mocker, and out goes strife; quarrels and insults are ended."
+            },
+            {
+              "Verseid": "00000011",
+              "Verse": "One who loves a pure heart and who speaks with grace will have the king for a friend."
+            },
+            {
+              "Verseid": "00000012",
+              "Verse": "The eyes of the Lord keep watch over knowledge, but he frustrates the words of the unfaithful."
+            },
+            {
+              "Verseid": "00000013",
+              "Verse": "The sluggard says, “There`s a lion outside! I`ll be killed in the public square!”"
+            },
+            {
+              "Verseid": "00000014",
+              "Verse": "The mouth of an adulterous woman is a deep pit; a man who is under the Lord`s wrath falls into it."
+            },
+            {
+              "Verseid": "00000015",
+              "Verse": "Folly is bound up in the heart of a child, but the rod of discipline will drive it far away."
+            },
+            {
+              "Verseid": "00000016",
+              "Verse": "One who oppresses the poor to increase his wealth and one who gives gifts to the rich—both come to poverty."
+            },
+            {
+              "Verseid": "00000017",
+              "Verse": "Pay attention and turn your ear to the sayings of the wise; apply your heart to what I teach,"
+            },
+            {
+              "Verseid": "00000018",
+              "Verse": "for it is pleasing when you keep them in your heart and have all of them ready on your lips."
+            },
+            {
+              "Verseid": "00000019",
+              "Verse": "So that your trust may be in the Lord, I teach you today, even you."
+            },
+            {
+              "Verseid": "00000020",
+              "Verse": "Have I not written thirty sayings for you, sayings of counsel and knowledge,"
+            },
+            {
+              "Verseid": "00000021",
+              "Verse": "teaching you to be honest and to speak the truth, so that you bring back truthful reports to those you serve?"
+            },
+            {
+              "Verseid": "00000022",
+              "Verse": "Do not exploit the poor because they are poor and do not crush the needy in court,"
+            },
+            {
+              "Verseid": "00000023",
+              "Verse": "for the Lord will take up their case and will exact life for life."
+            },
+            {
+              "Verseid": "00000024",
+              "Verse": "Do not make friends with a hot-tempered person, do not associate with one easily angered,"
+            },
+            {
+              "Verseid": "00000025",
+              "Verse": "or you may learn their ways and get yourself ensnared."
+            },
+            {
+              "Verseid": "00000026",
+              "Verse": "Do not be one who shakes hands in pledge or puts up security for debts;"
+            },
+            {
+              "Verseid": "00000027",
+              "Verse": "if you lack the means to pay, your very bed will be snatched from under you."
+            },
+            {
+              "Verseid": "00000028",
+              "Verse": "Do not move an ancient boundary stone set up by your ancestors."
+            },
+            {
+              "Verseid": "00000029",
+              "Verse": "Do you see someone skilled in their work? They will serve before kings; they will not serve before officials of low rank."
+            }
+          ]
+        },
+        {
+          "Chapterid": "23",
+          "Verse": [
+            {
+              "Verseid": "00000001",
+              "Verse": "When you sit to dine with a ruler, note well what is before you,"
+            },
+            {
+              "Verseid": "00000002",
+              "Verse": "and put a knife to your throat if you are given to gluttony."
+            },
+            {
+              "Verseid": "00000003",
+              "Verse": "Do not crave his delicacies, for that food is deceptive."
+            },
+            {
+              "Verseid": "00000004",
+              "Verse": "Do not wear yourself out to get rich; do not trust your own cleverness."
+            },
+            {
+              "Verseid": "00000005",
+              "Verse": "Cast but a glance at riches, and they are gone, for they will surely sprout wings and fly off to the sky like an eagle."
+            },
+            {
+              "Verseid": "00000006",
+              "Verse": "Do not eat the food of a begrudging host, do not crave his delicacies;"
+            },
+            {
+              "Verseid": "00000007",
+              "Verse": "for he is the kind of person who is always thinking about the cost. “Eat and drink,” he says to you, but his heart is not with you."
+            },
+            {
+              "Verseid": "00000008",
+              "Verse": "You will vomit up the little you have eaten and will have wasted your compliments."
+            },
+            {
+              "Verseid": "00000009",
+              "Verse": "Do not speak to fools, for they will scorn your prudent words."
+            },
+            {
+              "Verseid": "00000010",
+              "Verse": "Do not move an ancient boundary stone or encroach on the fields of the fatherless,"
+            },
+            {
+              "Verseid": "00000011",
+              "Verse": "for their Defender is strong; he will take up their case against you."
+            },
+            {
+              "Verseid": "00000012",
+              "Verse": "Apply your heart to instruction and your ears to words of knowledge."
+            },
+            {
+              "Verseid": "00000013",
+              "Verse": "Do not withhold discipline from a child; if you punish them with the rod, they will not die."
+            },
+            {
+              "Verseid": "00000014",
+              "Verse": "Punish them with the rod and save them from death."
+            },
+            {
+              "Verseid": "00000015",
+              "Verse": "My son, if your heart is wise, then my heart will be glad indeed;"
+            },
+            {
+              "Verseid": "00000016",
+              "Verse": "my inmost being will rejoice when your lips speak what is right."
+            },
+            {
+              "Verseid": "00000017",
+              "Verse": "Do not let your heart envy sinners, but always be zealous for the fear of the Lord."
+            },
+            {
+              "Verseid": "00000018",
+              "Verse": "There is surely a future hope for you, and your hope will not be cut off."
+            },
+            {
+              "Verseid": "00000019",
+              "Verse": "Listen, my son, and be wise, and set your heart on the right path:"
+            },
+            {
+              "Verseid": "00000020",
+              "Verse": "Do not join those who drink too much wine or gorge themselves on meat,"
+            },
+            {
+              "Verseid": "00000021",
+              "Verse": "for drunkards and gluttons become poor, and drowsiness clothes them in rags."
+            },
+            {
+              "Verseid": "00000022",
+              "Verse": "Listen to your father, who gave you life, and do not despise your mother when she is old."
+            },
+            {
+              "Verseid": "00000023",
+              "Verse": "Buy the truth and do not sell it— wisdom, instruction and insight as well."
+            },
+            {
+              "Verseid": "00000024",
+              "Verse": "The father of a righteous child has great joy; a man who fathers a wise son rejoices in him."
+            },
+            {
+              "Verseid": "00000025",
+              "Verse": "May your father and mother rejoice; may she who gave you birth be joyful!"
+            },
+            {
+              "Verseid": "00000026",
+              "Verse": "My son, give me your heart and let your eyes delight in my ways,"
+            },
+            {
+              "Verseid": "00000027",
+              "Verse": "for an adulterous woman is a deep pit, and a wayward wife is a narrow well."
+            },
+            {
+              "Verseid": "00000028",
+              "Verse": "Like a bandit she lies in wait and multiplies the unfaithful among men."
+            },
+            {
+              "Verseid": "00000029",
+              "Verse": "Who has woe? Who has sorrow? Who has strife? Who has complaints? Who has needless bruises? Who has bloodshot eyes?"
+            },
+            {
+              "Verseid": "00000030",
+              "Verse": "Those who linger over wine, who go to sample bowls of mixed wine."
+            },
+            {
+              "Verseid": "00000031",
+              "Verse": "Do not gaze at wine when it is red, when it sparkles in the cup, when it goes down smoothly!"
+            },
+            {
+              "Verseid": "00000032",
+              "Verse": "In the end it bites like a snake and poisons like a viper."
+            },
+            {
+              "Verseid": "00000033",
+              "Verse": "Your eyes will see strange sights, and your mind will imagine confusing things."
+            },
+            {
+              "Verseid": "00000034",
+              "Verse": "You will be like one sleeping on the high seas, lying on top of the rigging."
+            },
+            {
+              "Verseid": "00000035",
+              "Verse": "“They hit me,” you will say, “but I`m not hurt! They beat me, but I don`t feel it! When will I wake up so I can find another drink?”"
+            }
+          ]
+        },
+        {
+          "Chapterid": "24",
+          "Verse": [
+            {
+              "Verseid": "00000001",
+              "Verse": "Do not envy the wicked, do not desire their company;"
+            },
+            {
+              "Verseid": "00000002",
+              "Verse": "for their hearts plot violence, and their lips talk about making trouble."
+            },
+            {
+              "Verseid": "00000003",
+              "Verse": "By wisdom a house is built, and through understanding it is established;"
+            },
+            {
+              "Verseid": "00000004",
+              "Verse": "through knowledge its rooms are filled with rare and beautiful treasures."
+            },
+            {
+              "Verseid": "00000005",
+              "Verse": "The wise prevail through great power, and those who have knowledge muster their strength."
+            },
+            {
+              "Verseid": "00000006",
+              "Verse": "Surely you need guidance to wage war, and victory is won through many advisers."
+            },
+            {
+              "Verseid": "00000007",
+              "Verse": "Wisdom is too high for fools; in the assembly at the gate they must not open their mouths."
+            },
+            {
+              "Verseid": "00000008",
+              "Verse": "Whoever plots evil will be known as a schemer."
+            },
+            {
+              "Verseid": "00000009",
+              "Verse": "The schemes of folly are sin, and people detest a mocker."
+            },
+            {
+              "Verseid": "00000010",
+              "Verse": "If you falter in a time of trouble, how small is your strength!"
+            },
+            {
+              "Verseid": "00000011",
+              "Verse": "Rescue those being led away to death; hold back those staggering toward slaughter."
+            },
+            {
+              "Verseid": "00000012",
+              "Verse": "If you say, “But we knew nothing about this,” does not he who weighs the heart perceive it? Does not he who guards your life know it? Will he not repay everyone according to what they have done?"
+            },
+            {
+              "Verseid": "00000013",
+              "Verse": "Eat honey, my son, for it is good; honey from the comb is sweet to your taste."
+            },
+            {
+              "Verseid": "00000014",
+              "Verse": "Know also that wisdom is like honey for you: If you find it, there is a future hope for you, and your hope will not be cut off."
+            },
+            {
+              "Verseid": "00000015",
+              "Verse": "Do not lurk like a thief near the house of the righteous, do not plunder their dwelling place;"
+            },
+            {
+              "Verseid": "00000016",
+              "Verse": "for though the righteous fall seven times, they rise again, but the wicked stumble when calamity strikes."
+            },
+            {
+              "Verseid": "00000017",
+              "Verse": "Do not gloat when your enemy falls; when they stumble, do not let your heart rejoice,"
+            },
+            {
+              "Verseid": "00000018",
+              "Verse": "or the Lord will see and disapprove and turn his wrath away from them."
+            },
+            {
+              "Verseid": "00000019",
+              "Verse": "Do not fret because of evildoers or be envious of the wicked,"
+            },
+            {
+              "Verseid": "00000020",
+              "Verse": "for the evildoer has no future hope, and the lamp of the wicked will be snuffed out."
+            },
+            {
+              "Verseid": "00000021",
+              "Verse": "Fear the Lord and the king, my son, and do not join with rebellious officials,"
+            },
+            {
+              "Verseid": "00000022",
+              "Verse": "for those two will send sudden destruction on them, and who knows what calamities they can bring?"
+            },
+            {
+              "Verseid": "00000023",
+              "Verse": "These also are sayings of the wise: To show partiality in judging is not good:"
+            },
+            {
+              "Verseid": "00000024",
+              "Verse": "Whoever says to the guilty, “You are innocent,” will be cursed by peoples and denounced by nations."
+            },
+            {
+              "Verseid": "00000025",
+              "Verse": "But it will go well with those who convict the guilty, and rich blessing will come on them."
+            },
+            {
+              "Verseid": "00000026",
+              "Verse": "An honest answer is like a kiss on the lips."
+            },
+            {
+              "Verseid": "00000027",
+              "Verse": "Put your outdoor work in order and get your fields ready; after that, build your house."
+            },
+            {
+              "Verseid": "00000028",
+              "Verse": "Do not testify against your neighbor without cause— would you use your lips to mislead?"
+            },
+            {
+              "Verseid": "00000029",
+              "Verse": "Do not say, “I`ll do to them as they have done to me; I`ll pay them back for what they did.”"
+            },
+            {
+              "Verseid": "00000030",
+              "Verse": "I went past the field of a sluggard, past the vineyard of someone who has no sense;"
+            },
+            {
+              "Verseid": "00000031",
+              "Verse": "thorns had come up everywhere, the ground was covered with weeds, and the stone wall was in ruins."
+            },
+            {
+              "Verseid": "00000032",
+              "Verse": "I applied my heart to what I observed and learned a lesson from what I saw:"
+            },
+            {
+              "Verseid": "00000033",
+              "Verse": "A little sleep, a little slumber, a little folding of the hands to rest—"
+            },
+            {
+              "Verseid": "00000034",
+              "Verse": "and poverty will come on you like a thief and scarcity like an armed man."
+            }
+          ]
+        },
+        {
+          "Chapterid": "25",
+          "Verse": [
+            {
+              "Verseid": "00000001",
+              "Verse": "These are more proverbs of Solomon, compiled by the men of Hezekiah king of Judah:"
+            },
+            {
+              "Verseid": "00000002",
+              "Verse": "It is the glory of God to conceal a matter; to search out a matter is the glory of kings."
+            },
+            {
+              "Verseid": "00000003",
+              "Verse": "As the heavens are high and the earth is deep, so the hearts of kings are unsearchable."
+            },
+            {
+              "Verseid": "00000004",
+              "Verse": "Remove the dross from the silver, and a silversmith can produce a vessel;"
+            },
+            {
+              "Verseid": "00000005",
+              "Verse": "remove wicked officials from the king`s presence, and his throne will be established through righteousness."
+            },
+            {
+              "Verseid": "00000006",
+              "Verse": "Do not exalt yourself in the king`s presence, and do not claim a place among his great men;"
+            },
+            {
+              "Verseid": "00000007",
+              "Verse": "it is better for him to say to you, “Come up here,” than for him to humiliate you before his nobles. What you have seen with your eyes"
+            },
+            {
+              "Verseid": "00000008",
+              "Verse": "do not bring hastily to court, for what will you do in the end if your neighbor puts you to shame?"
+            },
+            {
+              "Verseid": "00000009",
+              "Verse": "If you take your neighbor to court, do not betray another`s confidence,"
+            },
+            {
+              "Verseid": "00000010",
+              "Verse": "or the one who hears it may shame you and the charge against you will stand."
+            },
+            {
+              "Verseid": "00000011",
+              "Verse": "Like apples of gold in settings of silver is a ruling rightly given."
+            },
+            {
+              "Verseid": "00000012",
+              "Verse": "Like an earring of gold or an ornament of fine gold is the rebuke of a wise judge to a listening ear."
+            },
+            {
+              "Verseid": "00000013",
+              "Verse": "Like a snow-cooled drink at harvest time is a trustworthy messenger to the one who sends him; he refreshes the spirit of his master."
+            },
+            {
+              "Verseid": "00000014",
+              "Verse": "Like clouds and wind without rain is one who boasts of gifts never given."
+            },
+            {
+              "Verseid": "00000015",
+              "Verse": "Through patience a ruler can be persuaded, and a gentle tongue can break a bone."
+            },
+            {
+              "Verseid": "00000016",
+              "Verse": "If you find honey, eat just enough— too much of it, and you will vomit."
+            },
+            {
+              "Verseid": "00000017",
+              "Verse": "Seldom set foot in your neighbor`s house— too much of you, and they will hate you."
+            },
+            {
+              "Verseid": "00000018",
+              "Verse": "Like a club or a sword or a sharp arrow is one who gives false testimony against a neighbor."
+            },
+            {
+              "Verseid": "00000019",
+              "Verse": "Like a broken tooth or a lame foot is reliance on the unfaithful in a time of trouble."
+            },
+            {
+              "Verseid": "00000020",
+              "Verse": "Like one who takes away a garment on a cold day, or like vinegar poured on a wound, is one who sings songs to a heavy heart."
+            },
+            {
+              "Verseid": "00000021",
+              "Verse": "If your enemy is hungry, give him food to eat; if he is thirsty, give him water to drink."
+            },
+            {
+              "Verseid": "00000022",
+              "Verse": "In doing this, you will heap burning coals on his head, and the Lord will reward you."
+            },
+            {
+              "Verseid": "00000023",
+              "Verse": "Like a north wind that brings unexpected rain is a sly tongue—which provokes a horrified look."
+            },
+            {
+              "Verseid": "00000024",
+              "Verse": "Better to live on a corner of the roof than share a house with a quarrelsome wife."
+            },
+            {
+              "Verseid": "00000025",
+              "Verse": "Like cold water to a weary soul is good news from a distant land."
+            },
+            {
+              "Verseid": "00000026",
+              "Verse": "Like a muddied spring or a polluted well are the righteous who give way to the wicked."
+            },
+            {
+              "Verseid": "00000027",
+              "Verse": "It is not good to eat too much honey, nor is it honorable to search out matters that are too deep."
+            },
+            {
+              "Verseid": "00000028",
+              "Verse": "Like a city whose walls are broken through is a person who lacks self-control."
+            }
+          ]
+        },
+        {
+          "Chapterid": "26",
+          "Verse": [
+            {
+              "Verseid": "00000001",
+              "Verse": "Like snow in summer or rain in harvest, honor is not fitting for a fool."
+            },
+            {
+              "Verseid": "00000002",
+              "Verse": "Like a fluttering sparrow or a darting swallow, an undeserved curse does not come to rest."
+            },
+            {
+              "Verseid": "00000003",
+              "Verse": "A whip for the horse, a bridle for the donkey, and a rod for the backs of fools!"
+            },
+            {
+              "Verseid": "00000004",
+              "Verse": "Do not answer a fool according to his folly, or you yourself will be just like him."
+            },
+            {
+              "Verseid": "00000005",
+              "Verse": "Answer a fool according to his folly, or he will be wise in his own eyes."
+            },
+            {
+              "Verseid": "00000006",
+              "Verse": "Sending a message by the hands of a fool is like cutting off one`s feet or drinking poison."
+            },
+            {
+              "Verseid": "00000007",
+              "Verse": "Like the useless legs of one who is lame is a proverb in the mouth of a fool."
+            },
+            {
+              "Verseid": "00000008",
+              "Verse": "Like tying a stone in a sling is the giving of honor to a fool."
+            },
+            {
+              "Verseid": "00000009",
+              "Verse": "Like a thornbush in a drunkard`s hand is a proverb in the mouth of a fool."
+            },
+            {
+              "Verseid": "00000010",
+              "Verse": "Like an archer who wounds at random is one who hires a fool or any passer-by."
+            },
+            {
+              "Verseid": "00000011",
+              "Verse": "As a dog returns to its vomit, so fools repeat their folly."
+            },
+            {
+              "Verseid": "00000012",
+              "Verse": "Do you see a person wise in their own eyes? There is more hope for a fool than for them."
+            },
+            {
+              "Verseid": "00000013",
+              "Verse": "A sluggard says, “There`s a lion in the road, a fierce lion roaming the streets!”"
+            },
+            {
+              "Verseid": "00000014",
+              "Verse": "As a door turns on its hinges, so a sluggard turns on his bed."
+            },
+            {
+              "Verseid": "00000015",
+              "Verse": "A sluggard buries his hand in the dish; he is too lazy to bring it back to his mouth."
+            },
+            {
+              "Verseid": "00000016",
+              "Verse": "A sluggard is wiser in his own eyes than seven people who answer discreetly."
+            },
+            {
+              "Verseid": "00000017",
+              "Verse": "Like one who grabs a stray dog by the ears is someone who rushes into a quarrel not their own."
+            },
+            {
+              "Verseid": "00000018",
+              "Verse": "Like a maniac shooting flaming arrows of death"
+            },
+            {
+              "Verseid": "00000019",
+              "Verse": "is one who deceives their neighbor and says, “I was only joking!”"
+            },
+            {
+              "Verseid": "00000020",
+              "Verse": "Without wood a fire goes out; without a gossip a quarrel dies down."
+            },
+            {
+              "Verseid": "00000021",
+              "Verse": "As charcoal to embers and as wood to fire, so is a quarrelsome person for kindling strife."
+            },
+            {
+              "Verseid": "00000022",
+              "Verse": "The words of a gossip are like choice morsels; they go down to the inmost parts."
+            },
+            {
+              "Verseid": "00000023",
+              "Verse": "Like a coating of silver dross on earthenware are fervent lips with an evil heart."
+            },
+            {
+              "Verseid": "00000024",
+              "Verse": "Enemies disguise themselves with their lips, but in their hearts they harbor deceit."
+            },
+            {
+              "Verseid": "00000025",
+              "Verse": "Though their speech is charming, do not believe them, for seven abominations fill their hearts."
+            },
+            {
+              "Verseid": "00000026",
+              "Verse": "Their malice may be concealed by deception, but their wickedness will be exposed in the assembly."
+            },
+            {
+              "Verseid": "00000027",
+              "Verse": "Whoever digs a pit will fall into it; if someone rolls a stone, it will roll back on them."
+            },
+            {
+              "Verseid": "00000028",
+              "Verse": "A lying tongue hates those it hurts, and a flattering mouth works ruin."
+            }
+          ]
+        },
+        {
+          "Chapterid": "27",
+          "Verse": [
+            {
+              "Verseid": "00000001",
+              "Verse": "Do not boast about tomorrow, for you do not know what a day may bring."
+            },
+            {
+              "Verseid": "00000002",
+              "Verse": "Let someone else praise you, and not your own mouth; an outsider, and not your own lips."
+            },
+            {
+              "Verseid": "00000003",
+              "Verse": "Stone is heavy and sand a burden, but a fool`s provocation is heavier than both."
+            },
+            {
+              "Verseid": "00000004",
+              "Verse": "Anger is cruel and fury overwhelming, but who can stand before jealousy?"
+            },
+            {
+              "Verseid": "00000005",
+              "Verse": "Better is open rebuke than hidden love."
+            },
+            {
+              "Verseid": "00000006",
+              "Verse": "Wounds from a friend can be trusted, but an enemy multiplies kisses."
+            },
+            {
+              "Verseid": "00000007",
+              "Verse": "One who is full loathes honey from the comb, but to the hungry even what is bitter tastes sweet."
+            },
+            {
+              "Verseid": "00000008",
+              "Verse": "Like a bird that flees its nest is anyone who flees from home."
+            },
+            {
+              "Verseid": "00000009",
+              "Verse": "Perfume and incense bring joy to the heart, and the pleasantness of a friend springs from their heartfelt advice."
+            },
+            {
+              "Verseid": "00000010",
+              "Verse": "Do not forsake your friend or a friend of your family, and do not go to your relative`s house when disaster strikes you— better a neighbor nearby than a relative far away."
+            },
+            {
+              "Verseid": "00000011",
+              "Verse": "Be wise, my son, and bring joy to my heart; then I can answer anyone who treats me with contempt."
+            },
+            {
+              "Verseid": "00000012",
+              "Verse": "The prudent see danger and take refuge, but the simple keep going and pay the penalty."
+            },
+            {
+              "Verseid": "00000013",
+              "Verse": "Take the garment of one who puts up security for a stranger; hold it in pledge if it is done for an outsider."
+            },
+            {
+              "Verseid": "00000014",
+              "Verse": "If anyone loudly blesses their neighbor early in the morning, it will be taken as a curse."
+            },
+            {
+              "Verseid": "00000015",
+              "Verse": "A quarrelsome wife is like the dripping of a leaky roof in a rainstorm;"
+            },
+            {
+              "Verseid": "00000016",
+              "Verse": "restraining her is like restraining the wind or grasping oil with the hand."
+            },
+            {
+              "Verseid": "00000017",
+              "Verse": "As iron sharpens iron, so one person sharpens another."
+            },
+            {
+              "Verseid": "00000018",
+              "Verse": "The one who guards a fig tree will eat its fruit, and whoever protects their master will be honored."
+            },
+            {
+              "Verseid": "00000019",
+              "Verse": "As water reflects the face, so one`s life reflects the heart."
+            },
+            {
+              "Verseid": "00000020",
+              "Verse": "Death and Destruction are never satisfied, and neither are human eyes."
+            },
+            {
+              "Verseid": "00000021",
+              "Verse": "The crucible for silver and the furnace for gold, but people are tested by their praise."
+            },
+            {
+              "Verseid": "00000022",
+              "Verse": "Though you grind a fool in a mortar, grinding them like grain with a pestle, you will not remove their folly from them."
+            },
+            {
+              "Verseid": "00000023",
+              "Verse": "Be sure you know the condition of your flocks, give careful attention to your herds;"
+            },
+            {
+              "Verseid": "00000024",
+              "Verse": "for riches do not endure forever, and a crown is not secure for all generations."
+            },
+            {
+              "Verseid": "00000025",
+              "Verse": "When the hay is removed and new growth appears and the grass from the hills is gathered in,"
+            },
+            {
+              "Verseid": "00000026",
+              "Verse": "the lambs will provide you with clothing, and the goats with the price of a field."
+            },
+            {
+              "Verseid": "00000027",
+              "Verse": "You will have plenty of goats` milk to feed your family and to nourish your female servants."
+            }
+          ]
+        },
+        {
+          "Chapterid": "28",
+          "Verse": [
+            {
+              "Verseid": "00000001",
+              "Verse": "The wicked flee though no one pursues, but the righteous are as bold as a lion."
+            },
+            {
+              "Verseid": "00000002",
+              "Verse": "When a country is rebellious, it has many rulers, but a ruler with discernment and knowledge maintains order."
+            },
+            {
+              "Verseid": "00000003",
+              "Verse": "A ruler who oppresses the poor is like a driving rain that leaves no crops."
+            },
+            {
+              "Verseid": "00000004",
+              "Verse": "Those who forsake instruction praise the wicked, but those who heed it resist them."
+            },
+            {
+              "Verseid": "00000005",
+              "Verse": "Evildoers do not understand what is right, but those who seek the Lord understand it fully."
+            },
+            {
+              "Verseid": "00000006",
+              "Verse": "Better the poor whose walk is blameless than the rich whose ways are perverse."
+            },
+            {
+              "Verseid": "00000007",
+              "Verse": "A discerning son heeds instruction, but a companion of gluttons disgraces his father."
+            },
+            {
+              "Verseid": "00000008",
+              "Verse": "Whoever increases wealth by taking interest or profit from the poor amasses it for another, who will be kind to the poor."
+            },
+            {
+              "Verseid": "00000009",
+              "Verse": "If anyone turns a deaf ear to my instruction, even their prayers are detestable."
+            },
+            {
+              "Verseid": "00000010",
+              "Verse": "Whoever leads the upright along an evil path will fall into their own trap, but the blameless will receive a good inheritance."
+            },
+            {
+              "Verseid": "00000011",
+              "Verse": "The rich are wise in their own eyes; one who is poor and discerning sees how deluded they are."
+            },
+            {
+              "Verseid": "00000012",
+              "Verse": "When the righteous triumph, there is great elation; but when the wicked rise to power, people go into hiding."
+            },
+            {
+              "Verseid": "00000013",
+              "Verse": "Whoever conceals their sins does not prosper, but the one who confesses and renounces them finds mercy."
+            },
+            {
+              "Verseid": "00000014",
+              "Verse": "Blessed is the one who always trembles before God, but whoever hardens their heart falls into trouble."
+            },
+            {
+              "Verseid": "00000015",
+              "Verse": "Like a roaring lion or a charging bear is a wicked ruler over a helpless people."
+            },
+            {
+              "Verseid": "00000016",
+              "Verse": "A tyrannical ruler practices extortion, but one who hates ill-gotten gain will enjoy a long reign."
+            },
+            {
+              "Verseid": "00000017",
+              "Verse": "Anyone tormented by the guilt of murder will seek refuge in the grave; let no one hold them back."
+            },
+            {
+              "Verseid": "00000018",
+              "Verse": "The one whose walk is blameless is kept safe, but the one whose ways are perverse will fall into the pit."
+            },
+            {
+              "Verseid": "00000019",
+              "Verse": "Those who work their land will have abundant food, but those who chase fantasies will have their fill of poverty."
+            },
+            {
+              "Verseid": "00000020",
+              "Verse": "A faithful person will be richly blessed, but one eager to get rich will not go unpunished."
+            },
+            {
+              "Verseid": "00000021",
+              "Verse": "To show partiality is not good— yet a person will do wrong for a piece of bread."
+            },
+            {
+              "Verseid": "00000022",
+              "Verse": "The stingy are eager to get rich and are unaware that poverty awaits them."
+            },
+            {
+              "Verseid": "00000023",
+              "Verse": "Whoever rebukes a person will in the end gain favor rather than one who has a flattering tongue."
+            },
+            {
+              "Verseid": "00000024",
+              "Verse": "Whoever robs their father or mother and says, “It`s not wrong,” is partner to one who destroys."
+            },
+            {
+              "Verseid": "00000025",
+              "Verse": "The greedy stir up conflict, but those who trust in the Lord will prosper."
+            },
+            {
+              "Verseid": "00000026",
+              "Verse": "Those who trust in themselves are fools, but those who walk in wisdom are kept safe."
+            },
+            {
+              "Verseid": "00000027",
+              "Verse": "Those who give to the poor will lack nothing, but those who close their eyes to them receive many curses."
+            },
+            {
+              "Verseid": "00000028",
+              "Verse": "When the wicked rise to power, people go into hiding; but when the wicked perish, the righteous thrive."
+            }
+          ]
+        },
+        {
+          "Chapterid": "29",
+          "Verse": [
+            {
+              "Verseid": "00000001",
+              "Verse": "Whoever remains stiff-necked after many rebukes will suddenly be destroyed—without remedy."
+            },
+            {
+              "Verseid": "00000002",
+              "Verse": "When the righteous thrive, the people rejoice; when the wicked rule, the people groan."
+            },
+            {
+              "Verseid": "00000003",
+              "Verse": "A man who loves wisdom brings joy to his father, but a companion of prostitutes squanders his wealth."
+            },
+            {
+              "Verseid": "00000004",
+              "Verse": "By justice a king gives a country stability, but those who are greedy for bribes tear it down."
+            },
+            {
+              "Verseid": "00000005",
+              "Verse": "Those who flatter their neighbors are spreading nets for their feet."
+            },
+            {
+              "Verseid": "00000006",
+              "Verse": "Evildoers are snared by their own sin, but the righteous shout for joy and are glad."
+            },
+            {
+              "Verseid": "00000007",
+              "Verse": "The righteous care about justice for the poor, but the wicked have no such concern."
+            },
+            {
+              "Verseid": "00000008",
+              "Verse": "Mockers stir up a city, but the wise turn away anger."
+            },
+            {
+              "Verseid": "00000009",
+              "Verse": "If a wise person goes to court with a fool, the fool rages and scoffs, and there is no peace."
+            },
+            {
+              "Verseid": "00000010",
+              "Verse": "The bloodthirsty hate a person of integrity and seek to kill the upright."
+            },
+            {
+              "Verseid": "00000011",
+              "Verse": "Fools give full vent to their rage, but the wise bring calm in the end."
+            },
+            {
+              "Verseid": "00000012",
+              "Verse": "If a ruler listens to lies, all his officials become wicked."
+            },
+            {
+              "Verseid": "00000013",
+              "Verse": "The poor and the oppressor have this in common: The Lord gives sight to the eyes of both."
+            },
+            {
+              "Verseid": "00000014",
+              "Verse": "If a king judges the poor with fairness, his throne will be established forever."
+            },
+            {
+              "Verseid": "00000015",
+              "Verse": "A rod and a reprimand impart wisdom, but a child left undisciplined disgraces its mother."
+            },
+            {
+              "Verseid": "00000016",
+              "Verse": "When the wicked thrive, so does sin, but the righteous will see their downfall."
+            },
+            {
+              "Verseid": "00000017",
+              "Verse": "Discipline your children, and they will give you peace; they will bring you the delights you desire."
+            },
+            {
+              "Verseid": "00000018",
+              "Verse": "Where there is no revelation, people cast off restraint; but blessed is the one who heeds wisdom`s instruction."
+            },
+            {
+              "Verseid": "00000019",
+              "Verse": "Servants cannot be corrected by mere words; though they understand, they will not respond."
+            },
+            {
+              "Verseid": "00000020",
+              "Verse": "Do you see someone who speaks in haste? There is more hope for a fool than for them."
+            },
+            {
+              "Verseid": "00000021",
+              "Verse": "A servant pampered from youth will turn out to be insolent."
+            },
+            {
+              "Verseid": "00000022",
+              "Verse": "An angry person stirs up conflict, and a hot-tempered person commits many sins."
+            },
+            {
+              "Verseid": "00000023",
+              "Verse": "Pride brings a person low, but the lowly in spirit gain honor."
+            },
+            {
+              "Verseid": "00000024",
+              "Verse": "The accomplices of thieves are their own enemies; they are put under oath and dare not testify."
+            },
+            {
+              "Verseid": "00000025",
+              "Verse": "Fear of man will prove to be a snare, but whoever trusts in the Lord is kept safe."
+            },
+            {
+              "Verseid": "00000026",
+              "Verse": "Many seek an audience with a ruler, but it is from the Lord that one gets justice."
+            },
+            {
+              "Verseid": "00000027",
+              "Verse": "The righteous detest the dishonest; the wicked detest the upright."
+            }
+          ]
+        },
+        {
+          "Chapterid": "30",
+          "Verse": [
+            {
+              "Verseid": "00000001",
+              "Verse": "The sayings of Agur son of Jakeh—an inspired utterance. This man`s utterance to Ithiel: “I am weary, God, but I can prevail."
+            },
+            {
+              "Verseid": "00000002",
+              "Verse": "Surely I am only a brute, not a man; I do not have human understanding."
+            },
+            {
+              "Verseid": "00000003",
+              "Verse": "I have not learned wisdom, nor have I attained to the knowledge of the Holy One."
+            },
+            {
+              "Verseid": "00000004",
+              "Verse": "Who has gone up to heaven and come down? Whose hands have gathered up the wind? Who has wrapped up the waters in a cloak? Who has established all the ends of the earth? What is his name, and what is the name of his son? Surely you know!"
+            },
+            {
+              "Verseid": "00000005",
+              "Verse": "“Every word of God is flawless; he is a shield to those who take refuge in him."
+            },
+            {
+              "Verseid": "00000006",
+              "Verse": "Do not add to his words, or he will rebuke you and prove you a liar."
+            },
+            {
+              "Verseid": "00000007",
+              "Verse": "“Two things I ask of you, Lord; do not refuse me before I die:"
+            },
+            {
+              "Verseid": "00000008",
+              "Verse": "Keep falsehood and lies far from me; give me neither poverty nor riches, but give me only my daily bread."
+            },
+            {
+              "Verseid": "00000009",
+              "Verse": "Otherwise, I may have too much and disown you and say, ‘Who is the Lord?` Or I may become poor and steal, and so dishonor the name of my God."
+            },
+            {
+              "Verseid": "00000010",
+              "Verse": "“Do not slander a servant to their master, or they will curse you, and you will pay for it."
+            },
+            {
+              "Verseid": "00000011",
+              "Verse": "“There are those who curse their fathers and do not bless their mothers;"
+            },
+            {
+              "Verseid": "00000012",
+              "Verse": "those who are pure in their own eyes and yet are not cleansed of their filth;"
+            },
+            {
+              "Verseid": "00000013",
+              "Verse": "those whose eyes are ever so haughty, whose glances are so disdainful;"
+            },
+            {
+              "Verseid": "00000014",
+              "Verse": "those whose teeth are swords and whose jaws are set with knives to devour the poor from the earth and the needy from among mankind."
+            },
+            {
+              "Verseid": "00000015",
+              "Verse": "“The leech has two daughters. ‘Give! Give!` they cry. “There are three things that are never satisfied, four that never say, ‘Enough!`:"
+            },
+            {
+              "Verseid": "00000016",
+              "Verse": "the grave, the barren womb, land, which is never satisfied with water, and fire, which never says, ‘Enough!`"
+            },
+            {
+              "Verseid": "00000017",
+              "Verse": "“The eye that mocks a father, that scorns an aged mother, will be pecked out by the ravens of the valley, will be eaten by the vultures."
+            },
+            {
+              "Verseid": "00000018",
+              "Verse": "“There are three things that are too amazing for me, four that I do not understand:"
+            },
+            {
+              "Verseid": "00000019",
+              "Verse": "the way of an eagle in the sky, the way of a snake on a rock, the way of a ship on the high seas, and the way of a man with a young woman."
+            },
+            {
+              "Verseid": "00000020",
+              "Verse": "“This is the way of an adulterous woman: She eats and wipes her mouth and says, ‘I`ve done nothing wrong.`"
+            },
+            {
+              "Verseid": "00000021",
+              "Verse": "“Under three things the earth trembles, under four it cannot bear up:"
+            },
+            {
+              "Verseid": "00000022",
+              "Verse": "a servant who becomes king, a godless fool who gets plenty to eat,"
+            },
+            {
+              "Verseid": "00000023",
+              "Verse": "a contemptible woman who gets married, and a servant who displaces her mistress."
+            },
+            {
+              "Verseid": "00000024",
+              "Verse": "“Four things on earth are small, yet they are extremely wise:"
+            },
+            {
+              "Verseid": "00000025",
+              "Verse": "Ants are creatures of little strength, yet they store up their food in the summer;"
+            },
+            {
+              "Verseid": "00000026",
+              "Verse": "hyraxes are creatures of little power, yet they make their home in the crags;"
+            },
+            {
+              "Verseid": "00000027",
+              "Verse": "locusts have no king, yet they advance together in ranks;"
+            },
+            {
+              "Verseid": "00000028",
+              "Verse": "a lizard can be caught with the hand, yet it is found in kings` palaces."
+            },
+            {
+              "Verseid": "00000029",
+              "Verse": "“There are three things that are stately in their stride, four that move with stately bearing:"
+            },
+            {
+              "Verseid": "00000030",
+              "Verse": "a lion, mighty among beasts, who retreats before nothing;"
+            },
+            {
+              "Verseid": "00000031",
+              "Verse": "a strutting rooster, a he-goat, and a king secure against revolt."
+            },
+            {
+              "Verseid": "00000032",
+              "Verse": "“If you play the fool and exalt yourself, or if you plan evil, clap your hand over your mouth!"
+            },
+            {
+              "Verseid": "00000033",
+              "Verse": "For as churning cream produces butter, and as twisting the nose produces blood, so stirring up anger produces strife.”"
+            }
+          ]
+        },
+        {
+          "Chapterid": "31",
+          "Verse": [
+            {
+              "Verseid": "00000001",
+              "Verse": "The sayings of King Lemuel—an inspired utterance his mother taught him."
+            },
+            {
+              "Verseid": "00000002",
+              "Verse": "Listen, my son! Listen, son of my womb! Listen, my son, the answer to my prayers!"
+            },
+            {
+              "Verseid": "00000003",
+              "Verse": "Do not spend your strength on women, your vigor on those who ruin kings."
+            },
+            {
+              "Verseid": "00000004",
+              "Verse": "It is not for kings, Lemuel— it is not for kings to drink wine, not for rulers to crave beer,"
+            },
+            {
+              "Verseid": "00000005",
+              "Verse": "lest they drink and forget what has been decreed, and deprive all the oppressed of their rights."
+            },
+            {
+              "Verseid": "00000006",
+              "Verse": "Let beer be for those who are perishing, wine for those who are in anguish!"
+            },
+            {
+              "Verseid": "00000007",
+              "Verse": "Let them drink and forget their poverty and remember their misery no more."
+            },
+            {
+              "Verseid": "00000008",
+              "Verse": "Speak up for those who cannot speak for themselves, for the rights of all who are destitute."
+            },
+            {
+              "Verseid": "00000009",
+              "Verse": "Speak up and judge fairly; defend the rights of the poor and needy."
+            },
+            {
+              "Verseid": "00000010",
+              "Verse": "A wife of noble character who can find? She is worth far more than rubies."
+            },
+            {
+              "Verseid": "00000011",
+              "Verse": "Her husband has full confidence in her and lacks nothing of value."
+            },
+            {
+              "Verseid": "00000012",
+              "Verse": "She brings him good, not harm, all the days of her life."
+            },
+            {
+              "Verseid": "00000013",
+              "Verse": "She selects wool and flax and works with eager hands."
+            },
+            {
+              "Verseid": "00000014",
+              "Verse": "She is like the merchant ships, bringing her food from afar."
+            },
+            {
+              "Verseid": "00000015",
+              "Verse": "She gets up while it is still night; she provides food for her family and portions for her female servants."
+            },
+            {
+              "Verseid": "00000016",
+              "Verse": "She considers a field and buys it; out of her earnings she plants a vineyard."
+            },
+            {
+              "Verseid": "00000017",
+              "Verse": "She sets about her work vigorously; her arms are strong for her tasks."
+            },
+            {
+              "Verseid": "00000018",
+              "Verse": "She sees that her trading is profitable, and her lamp does not go out at night."
+            },
+            {
+              "Verseid": "00000019",
+              "Verse": "In her hand she holds the distaff and grasps the spindle with her fingers."
+            },
+            {
+              "Verseid": "00000020",
+              "Verse": "She opens her arms to the poor and extends her hands to the needy."
+            },
+            {
+              "Verseid": "00000021",
+              "Verse": "When it snows, she has no fear for her household; for all of them are clothed in scarlet."
+            },
+            {
+              "Verseid": "00000022",
+              "Verse": "She makes coverings for her bed; she is clothed in fine linen and purple."
+            },
+            {
+              "Verseid": "00000023",
+              "Verse": "Her husband is respected at the city gate, where he takes his seat among the elders of the land."
+            },
+            {
+              "Verseid": "00000024",
+              "Verse": "She makes linen garments and sells them, and supplies the merchants with sashes."
+            },
+            {
+              "Verseid": "00000025",
+              "Verse": "She is clothed with strength and dignity; she can laugh at the days to come."
+            },
+            {
+              "Verseid": "00000026",
+              "Verse": "She speaks with wisdom, and faithful instruction is on her tongue."
+            },
+            {
+              "Verseid": "00000027",
+              "Verse": "She watches over the affairs of her household and does not eat the bread of idleness."
+            },
+            {
+              "Verseid": "00000028",
+              "Verse": "Her children arise and call her blessed; her husband also, and he praises her:"
+            },
+            {
+              "Verseid": "00000029",
+              "Verse": "“Many women do noble things, but you surpass them all.”"
+            },
+            {
+              "Verseid": "00000030",
+              "Verse": "Charm is deceptive, and beauty is fleeting; but a woman who fears the Lord is to be praised."
+            },
+            {
+              "Verseid": "00000031",
+              "Verse": "Honor her for all that her hands have done, and let her works bring her praise at the city gate."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

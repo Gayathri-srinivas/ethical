@@ -1,0 +1,4499 @@
+{
+  "Book": [
+    {
+      "BookName": "Job",
+      "Chapter": [
+        {
+          "Chapterid": "1",
+          "Verse": [
+            {
+              "Verseid": "00000001",
+              "Verse": "In the land of Uz there lived a man whose name was Job. This man was blameless and upright; he feared God and shunned evil."
+            },
+            {
+              "Verseid": "00000002",
+              "Verse": "He had seven sons and three daughters,"
+            },
+            {
+              "Verseid": "00000003",
+              "Verse": "and he owned seven thousand sheep, three thousand camels, five hundred yoke of oxen and five hundred donkeys, and had a large number of servants. He was the greatest man among all the people of the East."
+            },
+            {
+              "Verseid": "00000004",
+              "Verse": "His sons used to hold feasts in their homes on their birthdays, and they would invite their three sisters to eat and drink with them."
+            },
+            {
+              "Verseid": "00000005",
+              "Verse": "When a period of feasting had run its course, Job would make arrangements for them to be purified. Early in the morning he would sacrifice a burnt offering for each of them, thinking, “Perhaps my children have sinned and cursed God in their hearts.” This was Job`s regular custom."
+            },
+            {
+              "Verseid": "00000006",
+              "Verse": "One day the angels came to present themselves before the Lord, and Satan also came with them."
+            },
+            {
+              "Verseid": "00000007",
+              "Verse": "The Lord said to Satan, “Where have you come from?” Satan answered the Lord, “From roaming throughout the earth, going back and forth on it.”"
+            },
+            {
+              "Verseid": "00000008",
+              "Verse": "Then the Lord said to Satan, “Have you considered my servant Job? There is no one on earth like him; he is blameless and upright, a man who fears God and shuns evil.”"
+            },
+            {
+              "Verseid": "00000009",
+              "Verse": "“Does Job fear God for nothing?” Satan replied."
+            },
+            {
+              "Verseid": "00000010",
+              "Verse": "“Have you not put a hedge around him and his household and everything he has? You have blessed the work of his hands, so that his flocks and herds are spread throughout the land."
+            },
+            {
+              "Verseid": "00000011",
+              "Verse": "But now stretch out your hand and strike everything he has, and he will surely curse you to your face.”"
+            },
+            {
+              "Verseid": "00000012",
+              "Verse": "The Lord said to Satan, “Very well, then, everything he has is in your power, but on the man himself do not lay a finger.” Then Satan went out from the presence of the Lord."
+            },
+            {
+              "Verseid": "00000013",
+              "Verse": "One day when Job`s sons and daughters were feasting and drinking wine at the oldest brother`s house,"
+            },
+            {
+              "Verseid": "00000014",
+              "Verse": "a messenger came to Job and said, “The oxen were plowing and the donkeys were grazing nearby,"
+            },
+            {
+              "Verseid": "00000015",
+              "Verse": "and the Sabeans attacked and made off with them. They put the servants to the sword, and I am the only one who has escaped to tell you!”"
+            },
+            {
+              "Verseid": "00000016",
+              "Verse": "While he was still speaking, another messenger came and said, “The fire of God fell from the heavens and burned up the sheep and the servants, and I am the only one who has escaped to tell you!”"
+            },
+            {
+              "Verseid": "00000017",
+              "Verse": "While he was still speaking, another messenger came and said, “The Chaldeans formed three raiding parties and swept down on your camels and made off with them. They put the servants to the sword, and I am the only one who has escaped to tell you!”"
+            },
+            {
+              "Verseid": "00000018",
+              "Verse": "While he was still speaking, yet another messenger came and said, “Your sons and daughters were feasting and drinking wine at the oldest brother`s house,"
+            },
+            {
+              "Verseid": "00000019",
+              "Verse": "when suddenly a mighty wind swept in from the desert and struck the four corners of the house. It collapsed on them and they are dead, and I am the only one who has escaped to tell you!”"
+            },
+            {
+              "Verseid": "00000020",
+              "Verse": "At this, Job got up and tore his robe and shaved his head. Then he fell to the ground in worship"
+            },
+            {
+              "Verseid": "00000021",
+              "Verse": "and said: “Naked I came from my mother`s womb, and naked I will depart. The Lord gave and the Lord has taken away; may the name of the Lord be praised.”"
+            },
+            {
+              "Verseid": "00000022",
+              "Verse": "In all this, Job did not sin by charging God with wrongdoing."
+            }
+          ]
+        },
+        {
+          "Chapterid": "2",
+          "Verse": [
+            {
+              "Verseid": "00000001",
+              "Verse": "On another day the angels came to present themselves before the Lord, and Satan also came with them to present himself before him."
+            },
+            {
+              "Verseid": "00000002",
+              "Verse": "And the Lord said to Satan, “Where have you come from?” Satan answered the Lord, “From roaming throughout the earth, going back and forth on it.”"
+            },
+            {
+              "Verseid": "00000003",
+              "Verse": "Then the Lord said to Satan, “Have you considered my servant Job? There is no one on earth like him; he is blameless and upright, a man who fears God and shuns evil. And he still maintains his integrity, though you incited me against him to ruin him without any reason.”"
+            },
+            {
+              "Verseid": "00000004",
+              "Verse": "“Skin for skin!” Satan replied. “A man will give all he has for his own life."
+            },
+            {
+              "Verseid": "00000005",
+              "Verse": "But now stretch out your hand and strike his flesh and bones, and he will surely curse you to your face.”"
+            },
+            {
+              "Verseid": "00000006",
+              "Verse": "The Lord said to Satan, “Very well, then, he is in your hands; but you must spare his life.”"
+            },
+            {
+              "Verseid": "00000007",
+              "Verse": "So Satan went out from the presence of the Lord and afflicted Job with painful sores from the soles of his feet to the crown of his head."
+            },
+            {
+              "Verseid": "00000008",
+              "Verse": "Then Job took a piece of broken pottery and scraped himself with it as he sat among the ashes."
+            },
+            {
+              "Verseid": "00000009",
+              "Verse": "His wife said to him, “Are you still maintaining your integrity? Curse God and die!”"
+            },
+            {
+              "Verseid": "00000010",
+              "Verse": "He replied, “You are talking like a foolish woman. Shall we accept good from God, and not trouble?” In all this, Job did not sin in what he said."
+            },
+            {
+              "Verseid": "00000011",
+              "Verse": "When Job`s three friends, Eliphaz the Temanite, Bildad the Shuhite and Zophar the Naamathite, heard about all the troubles that had come upon him, they set out from their homes and met together by agreement to go and sympathize with him and comfort him."
+            },
+            {
+              "Verseid": "00000012",
+              "Verse": "When they saw him from a distance, they could hardly recognize him; they began to weep aloud, and they tore their robes and sprinkled dust on their heads."
+            },
+            {
+              "Verseid": "00000013",
+              "Verse": "Then they sat on the ground with him for seven days and seven nights. No one said a word to him, because they saw how great his suffering was."
+            }
+          ]
+        },
+        {
+          "Chapterid": "3",
+          "Verse": [
+            {
+              "Verseid": "00000001",
+              "Verse": "After this, Job opened his mouth and cursed the day of his birth."
+            },
+            {
+              "Verseid": "00000002",
+              "Verse": "He said:"
+            },
+            {
+              "Verseid": "00000003",
+              "Verse": "“May the day of my birth perish, and the night that said, ‘A boy is conceived!`"
+            },
+            {
+              "Verseid": "00000004",
+              "Verse": "That day—may it turn to darkness; may God above not care about it; may no light shine on it."
+            },
+            {
+              "Verseid": "00000005",
+              "Verse": "May gloom and utter darkness claim it once more; may a cloud settle over it; may blackness overwhelm it."
+            },
+            {
+              "Verseid": "00000006",
+              "Verse": "That night—may thick darkness seize it; may it not be included among the days of the year nor be entered in any of the months."
+            },
+            {
+              "Verseid": "00000007",
+              "Verse": "May that night be barren; may no shout of joy be heard in it."
+            },
+            {
+              "Verseid": "00000008",
+              "Verse": "May those who curse days curse that day, those who are ready to rouse Leviathan."
+            },
+            {
+              "Verseid": "00000009",
+              "Verse": "May its morning stars become dark; may it wait for daylight in vain and not see the first rays of dawn,"
+            },
+            {
+              "Verseid": "00000010",
+              "Verse": "for it did not shut the doors of the womb on me to hide trouble from my eyes."
+            },
+            {
+              "Verseid": "00000011",
+              "Verse": "“Why did I not perish at birth, and die as I came from the womb?"
+            },
+            {
+              "Verseid": "00000012",
+              "Verse": "Why were there knees to receive me and breasts that I might be nursed?"
+            },
+            {
+              "Verseid": "00000013",
+              "Verse": "For now I would be lying down in peace; I would be asleep and at rest"
+            },
+            {
+              "Verseid": "00000014",
+              "Verse": "with kings and rulers of the earth, who built for themselves places now lying in ruins,"
+            },
+            {
+              "Verseid": "00000015",
+              "Verse": "with princes who had gold, who filled their houses with silver."
+            },
+            {
+              "Verseid": "00000016",
+              "Verse": "Or why was I not hidden away in the ground like a stillborn child, like an infant who never saw the light of day?"
+            },
+            {
+              "Verseid": "00000017",
+              "Verse": "There the wicked cease from turmoil, and there the weary are at rest."
+            },
+            {
+              "Verseid": "00000018",
+              "Verse": "Captives also enjoy their ease; they no longer hear the slave driver`s shout."
+            },
+            {
+              "Verseid": "00000019",
+              "Verse": "The small and the great are there, and the slaves are freed from their owners."
+            },
+            {
+              "Verseid": "00000020",
+              "Verse": "“Why is light given to those in misery, and life to the bitter of soul,"
+            },
+            {
+              "Verseid": "00000021",
+              "Verse": "to those who long for death that does not come, who search for it more than for hidden treasure,"
+            },
+            {
+              "Verseid": "00000022",
+              "Verse": "who are filled with gladness and rejoice when they reach the grave?"
+            },
+            {
+              "Verseid": "00000023",
+              "Verse": "Why is life given to a man whose way is hidden, whom God has hedged in?"
+            },
+            {
+              "Verseid": "00000024",
+              "Verse": "For sighing has become my daily food; my groans pour out like water."
+            },
+            {
+              "Verseid": "00000025",
+              "Verse": "What I feared has come upon me; what I dreaded has happened to me."
+            },
+            {
+              "Verseid": "00000026",
+              "Verse": "I have no peace, no quietness; I have no rest, but only turmoil.”"
+            }
+          ]
+        },
+        {
+          "Chapterid": "4",
+          "Verse": [
+            {
+              "Verseid": "00000001",
+              "Verse": "Then Eliphaz the Temanite replied:"
+            },
+            {
+              "Verseid": "00000002",
+              "Verse": "“If someone ventures a word with you, will you be impatient? But who can keep from speaking?"
+            },
+            {
+              "Verseid": "00000003",
+              "Verse": "Think how you have instructed many, how you have strengthened feeble hands."
+            },
+            {
+              "Verseid": "00000004",
+              "Verse": "Your words have supported those who stumbled; you have strengthened faltering knees."
+            },
+            {
+              "Verseid": "00000005",
+              "Verse": "But now trouble comes to you, and you are discouraged; it strikes you, and you are dismayed."
+            },
+            {
+              "Verseid": "00000006",
+              "Verse": "Should not your piety be your confidence and your blameless ways your hope?"
+            },
+            {
+              "Verseid": "00000007",
+              "Verse": "“Consider now: Who, being innocent, has ever perished? Where were the upright ever destroyed?"
+            },
+            {
+              "Verseid": "00000008",
+              "Verse": "As I have observed, those who plow evil and those who sow trouble reap it."
+            },
+            {
+              "Verseid": "00000009",
+              "Verse": "At the breath of God they perish; at the blast of his anger they are no more."
+            },
+            {
+              "Verseid": "00000010",
+              "Verse": "The lions may roar and growl, yet the teeth of the great lions are broken."
+            },
+            {
+              "Verseid": "00000011",
+              "Verse": "The lion perishes for lack of prey, and the cubs of the lioness are scattered."
+            },
+            {
+              "Verseid": "00000012",
+              "Verse": "“A word was secretly brought to me, my ears caught a whisper of it."
+            },
+            {
+              "Verseid": "00000013",
+              "Verse": "Amid disquieting dreams in the night, when deep sleep falls on people,"
+            },
+            {
+              "Verseid": "00000014",
+              "Verse": "fear and trembling seized me and made all my bones shake."
+            },
+            {
+              "Verseid": "00000015",
+              "Verse": "A spirit glided past my face, and the hair on my body stood on end."
+            },
+            {
+              "Verseid": "00000016",
+              "Verse": "It stopped, but I could not tell what it was. A form stood before my eyes, and I heard a hushed voice:"
+            },
+            {
+              "Verseid": "00000017",
+              "Verse": "‘Can a mortal be more righteous than God? Can even a strong man be more pure than his Maker?"
+            },
+            {
+              "Verseid": "00000018",
+              "Verse": "If God places no trust in his servants, if he charges his angels with error,"
+            },
+            {
+              "Verseid": "00000019",
+              "Verse": "how much more those who live in houses of clay, whose foundations are in the dust, who are crushed more readily than a moth!"
+            },
+            {
+              "Verseid": "00000020",
+              "Verse": "Between dawn and dusk they are broken to pieces; unnoticed, they perish forever."
+            },
+            {
+              "Verseid": "00000021",
+              "Verse": "Are not the cords of their tent pulled up, so that they die without wisdom?`"
+            }
+          ]
+        },
+        {
+          "Chapterid": "5",
+          "Verse": [
+            {
+              "Verseid": "00000001",
+              "Verse": "“Call if you will, but who will answer you? To which of the holy ones will you turn?"
+            },
+            {
+              "Verseid": "00000002",
+              "Verse": "Resentment kills a fool, and envy slays the simple."
+            },
+            {
+              "Verseid": "00000003",
+              "Verse": "I myself have seen a fool taking root, but suddenly his house was cursed."
+            },
+            {
+              "Verseid": "00000004",
+              "Verse": "His children are far from safety, crushed in court without a defender."
+            },
+            {
+              "Verseid": "00000005",
+              "Verse": "The hungry consume his harvest, taking it even from among thorns, and the thirsty pant after his wealth."
+            },
+            {
+              "Verseid": "00000006",
+              "Verse": "For hardship does not spring from the soil, nor does trouble sprout from the ground."
+            },
+            {
+              "Verseid": "00000007",
+              "Verse": "Yet man is born to trouble as surely as sparks fly upward."
+            },
+            {
+              "Verseid": "00000008",
+              "Verse": "“But if I were you, I would appeal to God; I would lay my cause before him."
+            },
+            {
+              "Verseid": "00000009",
+              "Verse": "He performs wonders that cannot be fathomed, miracles that cannot be counted."
+            },
+            {
+              "Verseid": "00000010",
+              "Verse": "He provides rain for the earth; he sends water on the countryside."
+            },
+            {
+              "Verseid": "00000011",
+              "Verse": "The lowly he sets on high, and those who mourn are lifted to safety."
+            },
+            {
+              "Verseid": "00000012",
+              "Verse": "He thwarts the plans of the crafty, so that their hands achieve no success."
+            },
+            {
+              "Verseid": "00000013",
+              "Verse": "He catches the wise in their craftiness, and the schemes of the wily are swept away."
+            },
+            {
+              "Verseid": "00000014",
+              "Verse": "Darkness comes upon them in the daytime; at noon they grope as in the night."
+            },
+            {
+              "Verseid": "00000015",
+              "Verse": "He saves the needy from the sword in their mouth; he saves them from the clutches of the powerful."
+            },
+            {
+              "Verseid": "00000016",
+              "Verse": "So the poor have hope, and injustice shuts its mouth."
+            },
+            {
+              "Verseid": "00000017",
+              "Verse": "“Blessed is the one whom God corrects; so do not despise the discipline of the Almighty."
+            },
+            {
+              "Verseid": "00000018",
+              "Verse": "For he wounds, but he also binds up; he injures, but his hands also heal."
+            },
+            {
+              "Verseid": "00000019",
+              "Verse": "From six calamities he will rescue you; in seven no harm will touch you."
+            },
+            {
+              "Verseid": "00000020",
+              "Verse": "In famine he will deliver you from death, and in battle from the stroke of the sword."
+            },
+            {
+              "Verseid": "00000021",
+              "Verse": "You will be protected from the lash of the tongue, and need not fear when destruction comes."
+            },
+            {
+              "Verseid": "00000022",
+              "Verse": "You will laugh at destruction and famine, and need not fear the wild animals."
+            },
+            {
+              "Verseid": "00000023",
+              "Verse": "For you will have a covenant with the stones of the field, and the wild animals will be at peace with you."
+            },
+            {
+              "Verseid": "00000024",
+              "Verse": "You will know that your tent is secure; you will take stock of your property and find nothing missing."
+            },
+            {
+              "Verseid": "00000025",
+              "Verse": "You will know that your children will be many, and your descendants like the grass of the earth."
+            },
+            {
+              "Verseid": "00000026",
+              "Verse": "You will come to the grave in full vigor, like sheaves gathered in season."
+            },
+            {
+              "Verseid": "00000027",
+              "Verse": "“We have examined this, and it is true. So hear it and apply it to yourself.”"
+            }
+          ]
+        },
+        {
+          "Chapterid": "6",
+          "Verse": [
+            {
+              "Verseid": "00000001",
+              "Verse": "Then Job replied:"
+            },
+            {
+              "Verseid": "00000002",
+              "Verse": "“If only my anguish could be weighed and all my misery be placed on the scales!"
+            },
+            {
+              "Verseid": "00000003",
+              "Verse": "It would surely outweigh the sand of the seas— no wonder my words have been impetuous."
+            },
+            {
+              "Verseid": "00000004",
+              "Verse": "The arrows of the Almighty are in me, my spirit drinks in their poison; God`s terrors are marshaled against me."
+            },
+            {
+              "Verseid": "00000005",
+              "Verse": "Does a wild donkey bray when it has grass, or an ox bellow when it has fodder?"
+            },
+            {
+              "Verseid": "00000006",
+              "Verse": "Is tasteless food eaten without salt, or is there flavor in the sap of the mallow?"
+            },
+            {
+              "Verseid": "00000007",
+              "Verse": "I refuse to touch it; such food makes me ill."
+            },
+            {
+              "Verseid": "00000008",
+              "Verse": "“Oh, that I might have my request, that God would grant what I hope for,"
+            },
+            {
+              "Verseid": "00000009",
+              "Verse": "that God would be willing to crush me, to let loose his hand and cut off my life!"
+            },
+            {
+              "Verseid": "00000010",
+              "Verse": "Then I would still have this consolation— my joy in unrelenting pain— that I had not denied the words of the Holy One."
+            },
+            {
+              "Verseid": "00000011",
+              "Verse": "“What strength do I have, that I should still hope? What prospects, that I should be patient?"
+            },
+            {
+              "Verseid": "00000012",
+              "Verse": "Do I have the strength of stone? Is my flesh bronze?"
+            },
+            {
+              "Verseid": "00000013",
+              "Verse": "Do I have any power to help myself, now that success has been driven from me?"
+            },
+            {
+              "Verseid": "00000014",
+              "Verse": "“Anyone who withholds kindness from a friend forsakes the fear of the Almighty."
+            },
+            {
+              "Verseid": "00000015",
+              "Verse": "But my brothers are as undependable as intermittent streams, as the streams that overflow"
+            },
+            {
+              "Verseid": "00000016",
+              "Verse": "when darkened by thawing ice and swollen with melting snow,"
+            },
+            {
+              "Verseid": "00000017",
+              "Verse": "but that stop flowing in the dry season, and in the heat vanish from their channels."
+            },
+            {
+              "Verseid": "00000018",
+              "Verse": "Caravans turn aside from their routes; they go off into the wasteland and perish."
+            },
+            {
+              "Verseid": "00000019",
+              "Verse": "The caravans of Tema look for water, the traveling merchants of Sheba look in hope."
+            },
+            {
+              "Verseid": "00000020",
+              "Verse": "They are distressed, because they had been confident; they arrive there, only to be disappointed."
+            },
+            {
+              "Verseid": "00000021",
+              "Verse": "Now you too have proved to be of no help; you see something dreadful and are afraid."
+            },
+            {
+              "Verseid": "00000022",
+              "Verse": "Have I ever said, ‘Give something on my behalf, pay a ransom for me from your wealth,"
+            },
+            {
+              "Verseid": "00000023",
+              "Verse": "deliver me from the hand of the enemy, rescue me from the clutches of the ruthless`?"
+            },
+            {
+              "Verseid": "00000024",
+              "Verse": "“Teach me, and I will be quiet; show me where I have been wrong."
+            },
+            {
+              "Verseid": "00000025",
+              "Verse": "How painful are honest words! But what do your arguments prove?"
+            },
+            {
+              "Verseid": "00000026",
+              "Verse": "Do you mean to correct what I say, and treat my desperate words as wind?"
+            },
+            {
+              "Verseid": "00000027",
+              "Verse": "You would even cast lots for the fatherless and barter away your friend."
+            },
+            {
+              "Verseid": "00000028",
+              "Verse": "“But now be so kind as to look at me. Would I lie to your face?"
+            },
+            {
+              "Verseid": "00000029",
+              "Verse": "Relent, do not be unjust; reconsider, for my integrity is at stake."
+            },
+            {
+              "Verseid": "00000030",
+              "Verse": "Is there any wickedness on my lips? Can my mouth not discern malice?"
+            }
+          ]
+        },
+        {
+          "Chapterid": "7",
+          "Verse": [
+            {
+              "Verseid": "00000001",
+              "Verse": "“Do not mortals have hard service on earth? Are not their days like those of hired laborers?"
+            },
+            {
+              "Verseid": "00000002",
+              "Verse": "Like a slave longing for the evening shadows, or a hired laborer waiting to be paid,"
+            },
+            {
+              "Verseid": "00000003",
+              "Verse": "so I have been allotted months of futility, and nights of misery have been assigned to me."
+            },
+            {
+              "Verseid": "00000004",
+              "Verse": "When I lie down I think, ‘How long before I get up?` The night drags on, and I toss and turn until dawn."
+            },
+            {
+              "Verseid": "00000005",
+              "Verse": "My body is clothed with worms and scabs, my skin is broken and festering."
+            },
+            {
+              "Verseid": "00000006",
+              "Verse": "“My days are swifter than a weaver`s shuttle, and they come to an end without hope."
+            },
+            {
+              "Verseid": "00000007",
+              "Verse": "Remember, O God, that my life is but a breath; my eyes will never see happiness again."
+            },
+            {
+              "Verseid": "00000008",
+              "Verse": "The eye that now sees me will see me no longer; you will look for me, but I will be no more."
+            },
+            {
+              "Verseid": "00000009",
+              "Verse": "As a cloud vanishes and is gone, so one who goes down to the grave does not return."
+            },
+            {
+              "Verseid": "00000010",
+              "Verse": "He will never come to his house again; his place will know him no more."
+            },
+            {
+              "Verseid": "00000011",
+              "Verse": "“Therefore I will not keep silent; I will speak out in the anguish of my spirit, I will complain in the bitterness of my soul."
+            },
+            {
+              "Verseid": "00000012",
+              "Verse": "Am I the sea, or the monster of the deep, that you put me under guard?"
+            },
+            {
+              "Verseid": "00000013",
+              "Verse": "When I think my bed will comfort me and my couch will ease my complaint,"
+            },
+            {
+              "Verseid": "00000014",
+              "Verse": "even then you frighten me with dreams and terrify me with visions,"
+            },
+            {
+              "Verseid": "00000015",
+              "Verse": "so that I prefer strangling and death, rather than this body of mine."
+            },
+            {
+              "Verseid": "00000016",
+              "Verse": "I despise my life; I would not live forever. Let me alone; my days have no meaning."
+            },
+            {
+              "Verseid": "00000017",
+              "Verse": "“What is mankind that you make so much of them, that you give them so much attention,"
+            },
+            {
+              "Verseid": "00000018",
+              "Verse": "that you examine them every morning and test them every moment?"
+            },
+            {
+              "Verseid": "00000019",
+              "Verse": "Will you never look away from me, or let me alone even for an instant?"
+            },
+            {
+              "Verseid": "00000020",
+              "Verse": "If I have sinned, what have I done to you, you who see everything we do? Why have you made me your target? Have I become a burden to you?"
+            },
+            {
+              "Verseid": "00000021",
+              "Verse": "Why do you not pardon my offenses and forgive my sins? For I will soon lie down in the dust; you will search for me, but I will be no more.”"
+            }
+          ]
+        },
+        {
+          "Chapterid": "8",
+          "Verse": [
+            {
+              "Verseid": "00000001",
+              "Verse": "Then Bildad the Shuhite replied:"
+            },
+            {
+              "Verseid": "00000002",
+              "Verse": "“How long will you say such things? Your words are a blustering wind."
+            },
+            {
+              "Verseid": "00000003",
+              "Verse": "Does God pervert justice? Does the Almighty pervert what is right?"
+            },
+            {
+              "Verseid": "00000004",
+              "Verse": "When your children sinned against him, he gave them over to the penalty of their sin."
+            },
+            {
+              "Verseid": "00000005",
+              "Verse": "But if you will seek God earnestly and plead with the Almighty,"
+            },
+            {
+              "Verseid": "00000006",
+              "Verse": "if you are pure and upright, even now he will rouse himself on your behalf and restore you to your prosperous state."
+            },
+            {
+              "Verseid": "00000007",
+              "Verse": "Your beginnings will seem humble, so prosperous will your future be."
+            },
+            {
+              "Verseid": "00000008",
+              "Verse": "“Ask the former generation and find out what their ancestors learned,"
+            },
+            {
+              "Verseid": "00000009",
+              "Verse": "for we were born only yesterday and know nothing, and our days on earth are but a shadow."
+            },
+            {
+              "Verseid": "00000010",
+              "Verse": "Will they not instruct you and tell you? Will they not bring forth words from their understanding?"
+            },
+            {
+              "Verseid": "00000011",
+              "Verse": "Can papyrus grow tall where there is no marsh? Can reeds thrive without water?"
+            },
+            {
+              "Verseid": "00000012",
+              "Verse": "While still growing and uncut, they wither more quickly than grass."
+            },
+            {
+              "Verseid": "00000013",
+              "Verse": "Such is the destiny of all who forget God; so perishes the hope of the godless."
+            },
+            {
+              "Verseid": "00000014",
+              "Verse": "What they trust in is fragile; what they rely on is a spider`s web."
+            },
+            {
+              "Verseid": "00000015",
+              "Verse": "They lean on the web, but it gives way; they cling to it, but it does not hold."
+            },
+            {
+              "Verseid": "00000016",
+              "Verse": "They are like a well-watered plant in the sunshine, spreading its shoots over the garden;"
+            },
+            {
+              "Verseid": "00000017",
+              "Verse": "it entwines its roots around a pile of rocks and looks for a place among the stones."
+            },
+            {
+              "Verseid": "00000018",
+              "Verse": "But when it is torn from its spot, that place disowns it and says, ‘I never saw you.`"
+            },
+            {
+              "Verseid": "00000019",
+              "Verse": "Surely its life withers away, and from the soil other plants grow."
+            },
+            {
+              "Verseid": "00000020",
+              "Verse": "“Surely God does not reject one who is blameless or strengthen the hands of evildoers."
+            },
+            {
+              "Verseid": "00000021",
+              "Verse": "He will yet fill your mouth with laughter and your lips with shouts of joy."
+            },
+            {
+              "Verseid": "00000022",
+              "Verse": "Your enemies will be clothed in shame, and the tents of the wicked will be no more.”"
+            }
+          ]
+        },
+        {
+          "Chapterid": "9",
+          "Verse": [
+            {
+              "Verseid": "00000001",
+              "Verse": "Then Job replied:"
+            },
+            {
+              "Verseid": "00000002",
+              "Verse": "“Indeed, I know that this is true. But how can mere mortals prove their innocence before God?"
+            },
+            {
+              "Verseid": "00000003",
+              "Verse": "Though they wished to dispute with him, they could not answer him one time out of a thousand."
+            },
+            {
+              "Verseid": "00000004",
+              "Verse": "His wisdom is profound, his power is vast. Who has resisted him and come out unscathed?"
+            },
+            {
+              "Verseid": "00000005",
+              "Verse": "He moves mountains without their knowing it and overturns them in his anger."
+            },
+            {
+              "Verseid": "00000006",
+              "Verse": "He shakes the earth from its place and makes its pillars tremble."
+            },
+            {
+              "Verseid": "00000007",
+              "Verse": "He speaks to the sun and it does not shine; he seals off the light of the stars."
+            },
+            {
+              "Verseid": "00000008",
+              "Verse": "He alone stretches out the heavens and treads on the waves of the sea."
+            },
+            {
+              "Verseid": "00000009",
+              "Verse": "He is the Maker of the Bear and Orion, the Pleiades and the constellations of the south."
+            },
+            {
+              "Verseid": "00000010",
+              "Verse": "He performs wonders that cannot be fathomed, miracles that cannot be counted."
+            },
+            {
+              "Verseid": "00000011",
+              "Verse": "When he passes me, I cannot see him; when he goes by, I cannot perceive him."
+            },
+            {
+              "Verseid": "00000012",
+              "Verse": "If he snatches away, who can stop him? Who can say to him, ‘What are you doing?`"
+            },
+            {
+              "Verseid": "00000013",
+              "Verse": "God does not restrain his anger; even the cohorts of Rahab cowered at his feet."
+            },
+            {
+              "Verseid": "00000014",
+              "Verse": "“How then can I dispute with him? How can I find words to argue with him?"
+            },
+            {
+              "Verseid": "00000015",
+              "Verse": "Though I were innocent, I could not answer him; I could only plead with my Judge for mercy."
+            },
+            {
+              "Verseid": "00000016",
+              "Verse": "Even if I summoned him and he responded, I do not believe he would give me a hearing."
+            },
+            {
+              "Verseid": "00000017",
+              "Verse": "He would crush me with a storm and multiply my wounds for no reason."
+            },
+            {
+              "Verseid": "00000018",
+              "Verse": "He would not let me catch my breath but would overwhelm me with misery."
+            },
+            {
+              "Verseid": "00000019",
+              "Verse": "If it is a matter of strength, he is mighty! And if it is a matter of justice, who can challenge him?"
+            },
+            {
+              "Verseid": "00000020",
+              "Verse": "Even if I were innocent, my mouth would condemn me; if I were blameless, it would pronounce me guilty."
+            },
+            {
+              "Verseid": "00000021",
+              "Verse": "“Although I am blameless, I have no concern for myself; I despise my own life."
+            },
+            {
+              "Verseid": "00000022",
+              "Verse": "It is all the same; that is why I say, ‘He destroys both the blameless and the wicked.`"
+            },
+            {
+              "Verseid": "00000023",
+              "Verse": "When a scourge brings sudden death, he mocks the despair of the innocent."
+            },
+            {
+              "Verseid": "00000024",
+              "Verse": "When a land falls into the hands of the wicked, he blindfolds its judges. If it is not he, then who is it?"
+            },
+            {
+              "Verseid": "00000025",
+              "Verse": "“My days are swifter than a runner; they fly away without a glimpse of joy."
+            },
+            {
+              "Verseid": "00000026",
+              "Verse": "They skim past like boats of papyrus, like eagles swooping down on their prey."
+            },
+            {
+              "Verseid": "00000027",
+              "Verse": "If I say, ‘I will forget my complaint, I will change my expression, and smile,`"
+            },
+            {
+              "Verseid": "00000028",
+              "Verse": "I still dread all my sufferings, for I know you will not hold me innocent."
+            },
+            {
+              "Verseid": "00000029",
+              "Verse": "Since I am already found guilty, why should I struggle in vain?"
+            },
+            {
+              "Verseid": "00000030",
+              "Verse": "Even if I washed myself with soap and my hands with cleansing powder,"
+            },
+            {
+              "Verseid": "00000031",
+              "Verse": "you would plunge me into a slime pit so that even my clothes would detest me."
+            },
+            {
+              "Verseid": "00000032",
+              "Verse": "“He is not a mere mortal like me that I might answer him, that we might confront each other in court."
+            },
+            {
+              "Verseid": "00000033",
+              "Verse": "If only there were someone to mediate between us, someone to bring us together,"
+            },
+            {
+              "Verseid": "00000034",
+              "Verse": "someone to remove God`s rod from me, so that his terror would frighten me no more."
+            },
+            {
+              "Verseid": "00000035",
+              "Verse": "Then I would speak up without fear of him, but as it now stands with me, I cannot."
+            }
+          ]
+        },
+        {
+          "Chapterid": "10",
+          "Verse": [
+            {
+              "Verseid": "00000001",
+              "Verse": "“I loathe my very life; therefore I will give free rein to my complaint and speak out in the bitterness of my soul."
+            },
+            {
+              "Verseid": "00000002",
+              "Verse": "I say to God: Do not declare me guilty, but tell me what charges you have against me."
+            },
+            {
+              "Verseid": "00000003",
+              "Verse": "Does it please you to oppress me, to spurn the work of your hands, while you smile on the plans of the wicked?"
+            },
+            {
+              "Verseid": "00000004",
+              "Verse": "Do you have eyes of flesh? Do you see as a mortal sees?"
+            },
+            {
+              "Verseid": "00000005",
+              "Verse": "Are your days like those of a mortal or your years like those of a strong man,"
+            },
+            {
+              "Verseid": "00000006",
+              "Verse": "that you must search out my faults and probe after my sin—"
+            },
+            {
+              "Verseid": "00000007",
+              "Verse": "though you know that I am not guilty and that no one can rescue me from your hand?"
+            },
+            {
+              "Verseid": "00000008",
+              "Verse": "“Your hands shaped me and made me. Will you now turn and destroy me?"
+            },
+            {
+              "Verseid": "00000009",
+              "Verse": "Remember that you molded me like clay. Will you now turn me to dust again?"
+            },
+            {
+              "Verseid": "00000010",
+              "Verse": "Did you not pour me out like milk and curdle me like cheese,"
+            },
+            {
+              "Verseid": "00000011",
+              "Verse": "clothe me with skin and flesh and knit me together with bones and sinews?"
+            },
+            {
+              "Verseid": "00000012",
+              "Verse": "You gave me life and showed me kindness, and in your providence watched over my spirit."
+            },
+            {
+              "Verseid": "00000013",
+              "Verse": "“But this is what you concealed in your heart, and I know that this was in your mind:"
+            },
+            {
+              "Verseid": "00000014",
+              "Verse": "If I sinned, you would be watching me and would not let my offense go unpunished."
+            },
+            {
+              "Verseid": "00000015",
+              "Verse": "If I am guilty—woe to me! Even if I am innocent, I cannot lift my head, for I am full of shame and drowned in my affliction."
+            },
+            {
+              "Verseid": "00000016",
+              "Verse": "If I hold my head high, you stalk me like a lion and again display your awesome power against me."
+            },
+            {
+              "Verseid": "00000017",
+              "Verse": "You bring new witnesses against me and increase your anger toward me; your forces come against me wave upon wave."
+            },
+            {
+              "Verseid": "00000018",
+              "Verse": "“Why then did you bring me out of the womb? I wish I had died before any eye saw me."
+            },
+            {
+              "Verseid": "00000019",
+              "Verse": "If only I had never come into being, or had been carried straight from the womb to the grave!"
+            },
+            {
+              "Verseid": "00000020",
+              "Verse": "Are not my few days almost over? Turn away from me so I can have a moment`s joy"
+            },
+            {
+              "Verseid": "00000021",
+              "Verse": "before I go to the place of no return, to the land of gloom and utter darkness,"
+            },
+            {
+              "Verseid": "00000022",
+              "Verse": "to the land of deepest night, of utter darkness and disorder, where even the light is like darkness.”"
+            }
+          ]
+        },
+        {
+          "Chapterid": "11",
+          "Verse": [
+            {
+              "Verseid": "00000001",
+              "Verse": "Then Zophar the Naamathite replied:"
+            },
+            {
+              "Verseid": "00000002",
+              "Verse": "“Are all these words to go unanswered? Is this talker to be vindicated?"
+            },
+            {
+              "Verseid": "00000003",
+              "Verse": "Will your idle talk reduce others to silence? Will no one rebuke you when you mock?"
+            },
+            {
+              "Verseid": "00000004",
+              "Verse": "You say to God, ‘My beliefs are flawless and I am pure in your sight.`"
+            },
+            {
+              "Verseid": "00000005",
+              "Verse": "Oh, how I wish that God would speak, that he would open his lips against you"
+            },
+            {
+              "Verseid": "00000006",
+              "Verse": "and disclose to you the secrets of wisdom, for true wisdom has two sides. Know this: God has even forgotten some of your sin."
+            },
+            {
+              "Verseid": "00000007",
+              "Verse": "“Can you fathom the mysteries of God? Can you probe the limits of the Almighty?"
+            },
+            {
+              "Verseid": "00000008",
+              "Verse": "They are higher than the heavens above—what can you do? They are deeper than the depths below—what can you know?"
+            },
+            {
+              "Verseid": "00000009",
+              "Verse": "Their measure is longer than the earth and wider than the sea."
+            },
+            {
+              "Verseid": "00000010",
+              "Verse": "“If he comes along and confines you in prison and convenes a court, who can oppose him?"
+            },
+            {
+              "Verseid": "00000011",
+              "Verse": "Surely he recognizes deceivers; and when he sees evil, does he not take note?"
+            },
+            {
+              "Verseid": "00000012",
+              "Verse": "But the witless can no more become wise than a wild donkey`s colt can be born human."
+            },
+            {
+              "Verseid": "00000013",
+              "Verse": "“Yet if you devote your heart to him and stretch out your hands to him,"
+            },
+            {
+              "Verseid": "00000014",
+              "Verse": "if you put away the sin that is in your hand and allow no evil to dwell in your tent,"
+            },
+            {
+              "Verseid": "00000015",
+              "Verse": "then, free of fault, you will lift up your face; you will stand firm and without fear."
+            },
+            {
+              "Verseid": "00000016",
+              "Verse": "You will surely forget your trouble, recalling it only as waters gone by."
+            },
+            {
+              "Verseid": "00000017",
+              "Verse": "Life will be brighter than noonday, and darkness will become like morning."
+            },
+            {
+              "Verseid": "00000018",
+              "Verse": "You will be secure, because there is hope; you will look about you and take your rest in safety."
+            },
+            {
+              "Verseid": "00000019",
+              "Verse": "You will lie down, with no one to make you afraid, and many will court your favor."
+            },
+            {
+              "Verseid": "00000020",
+              "Verse": "But the eyes of the wicked will fail, and escape will elude them; their hope will become a dying gasp.”"
+            }
+          ]
+        },
+        {
+          "Chapterid": "12",
+          "Verse": [
+            {
+              "Verseid": "00000001",
+              "Verse": "Then Job replied:"
+            },
+            {
+              "Verseid": "00000002",
+              "Verse": "“Doubtless you are the only people who matter, and wisdom will die with you!"
+            },
+            {
+              "Verseid": "00000003",
+              "Verse": "But I have a mind as well as you; I am not inferior to you. Who does not know all these things?"
+            },
+            {
+              "Verseid": "00000004",
+              "Verse": "“I have become a laughingstock to my friends, though I called on God and he answered— a mere laughingstock, though righteous and blameless!"
+            },
+            {
+              "Verseid": "00000005",
+              "Verse": "Those who are at ease have contempt for misfortune as the fate of those whose feet are slipping."
+            },
+            {
+              "Verseid": "00000006",
+              "Verse": "The tents of marauders are undisturbed, and those who provoke God are secure— those God has in his hand."
+            },
+            {
+              "Verseid": "00000007",
+              "Verse": "“But ask the animals, and they will teach you, or the birds in the sky, and they will tell you;"
+            },
+            {
+              "Verseid": "00000008",
+              "Verse": "or speak to the earth, and it will teach you, or let the fish in the sea inform you."
+            },
+            {
+              "Verseid": "00000009",
+              "Verse": "Which of all these does not know that the hand of the Lord has done this?"
+            },
+            {
+              "Verseid": "00000010",
+              "Verse": "In his hand is the life of every creature and the breath of all mankind."
+            },
+            {
+              "Verseid": "00000011",
+              "Verse": "Does not the ear test words as the tongue tastes food?"
+            },
+            {
+              "Verseid": "00000012",
+              "Verse": "Is not wisdom found among the aged? Does not long life bring understanding?"
+            },
+            {
+              "Verseid": "00000013",
+              "Verse": "“To God belong wisdom and power; counsel and understanding are his."
+            },
+            {
+              "Verseid": "00000014",
+              "Verse": "What he tears down cannot be rebuilt; those he imprisons cannot be released."
+            },
+            {
+              "Verseid": "00000015",
+              "Verse": "If he holds back the waters, there is drought; if he lets them loose, they devastate the land."
+            },
+            {
+              "Verseid": "00000016",
+              "Verse": "To him belong strength and insight; both deceived and deceiver are his."
+            },
+            {
+              "Verseid": "00000017",
+              "Verse": "He leads rulers away stripped and makes fools of judges."
+            },
+            {
+              "Verseid": "00000018",
+              "Verse": "He takes off the shackles put on by kings and ties a loincloth around their waist."
+            },
+            {
+              "Verseid": "00000019",
+              "Verse": "He leads priests away stripped and overthrows officials long established."
+            },
+            {
+              "Verseid": "00000020",
+              "Verse": "He silences the lips of trusted advisers and takes away the discernment of elders."
+            },
+            {
+              "Verseid": "00000021",
+              "Verse": "He pours contempt on nobles and disarms the mighty."
+            },
+            {
+              "Verseid": "00000022",
+              "Verse": "He reveals the deep things of darkness and brings utter darkness into the light."
+            },
+            {
+              "Verseid": "00000023",
+              "Verse": "He makes nations great, and destroys them; he enlarges nations, and disperses them."
+            },
+            {
+              "Verseid": "00000024",
+              "Verse": "He deprives the leaders of the earth of their reason; he makes them wander in a trackless waste."
+            },
+            {
+              "Verseid": "00000025",
+              "Verse": "They grope in darkness with no light; he makes them stagger like drunkards."
+            }
+          ]
+        },
+        {
+          "Chapterid": "13",
+          "Verse": [
+            {
+              "Verseid": "00000001",
+              "Verse": "“My eyes have seen all this, my ears have heard and understood it."
+            },
+            {
+              "Verseid": "00000002",
+              "Verse": "What you know, I also know; I am not inferior to you."
+            },
+            {
+              "Verseid": "00000003",
+              "Verse": "But I desire to speak to the Almighty and to argue my case with God."
+            },
+            {
+              "Verseid": "00000004",
+              "Verse": "You, however, smear me with lies; you are worthless physicians, all of you!"
+            },
+            {
+              "Verseid": "00000005",
+              "Verse": "If only you would be altogether silent! For you, that would be wisdom."
+            },
+            {
+              "Verseid": "00000006",
+              "Verse": "Hear now my argument; listen to the pleas of my lips."
+            },
+            {
+              "Verseid": "00000007",
+              "Verse": "Will you speak wickedly on God`s behalf? Will you speak deceitfully for him?"
+            },
+            {
+              "Verseid": "00000008",
+              "Verse": "Will you show him partiality? Will you argue the case for God?"
+            },
+            {
+              "Verseid": "00000009",
+              "Verse": "Would it turn out well if he examined you? Could you deceive him as you might deceive a mortal?"
+            },
+            {
+              "Verseid": "00000010",
+              "Verse": "He would surely call you to account if you secretly showed partiality."
+            },
+            {
+              "Verseid": "00000011",
+              "Verse": "Would not his splendor terrify you? Would not the dread of him fall on you?"
+            },
+            {
+              "Verseid": "00000012",
+              "Verse": "Your maxims are proverbs of ashes; your defenses are defenses of clay."
+            },
+            {
+              "Verseid": "00000013",
+              "Verse": "“Keep silent and let me speak; then let come to me what may."
+            },
+            {
+              "Verseid": "00000014",
+              "Verse": "Why do I put myself in jeopardy and take my life in my hands?"
+            },
+            {
+              "Verseid": "00000015",
+              "Verse": "Though he slay me, yet will I hope in him; I will surely defend my ways to his face."
+            },
+            {
+              "Verseid": "00000016",
+              "Verse": "Indeed, this will turn out for my deliverance, for no godless person would dare come before him!"
+            },
+            {
+              "Verseid": "00000017",
+              "Verse": "Listen carefully to what I say; let my words ring in your ears."
+            },
+            {
+              "Verseid": "00000018",
+              "Verse": "Now that I have prepared my case, I know I will be vindicated."
+            },
+            {
+              "Verseid": "00000019",
+              "Verse": "Can anyone bring charges against me? If so, I will be silent and die."
+            },
+            {
+              "Verseid": "00000020",
+              "Verse": "“Only grant me these two things, God, and then I will not hide from you:"
+            },
+            {
+              "Verseid": "00000021",
+              "Verse": "Withdraw your hand far from me, and stop frightening me with your terrors."
+            },
+            {
+              "Verseid": "00000022",
+              "Verse": "Then summon me and I will answer, or let me speak, and you reply to me."
+            },
+            {
+              "Verseid": "00000023",
+              "Verse": "How many wrongs and sins have I committed? Show me my offense and my sin."
+            },
+            {
+              "Verseid": "00000024",
+              "Verse": "Why do you hide your face and consider me your enemy?"
+            },
+            {
+              "Verseid": "00000025",
+              "Verse": "Will you torment a windblown leaf? Will you chase after dry chaff?"
+            },
+            {
+              "Verseid": "00000026",
+              "Verse": "For you write down bitter things against me and make me reap the sins of my youth."
+            },
+            {
+              "Verseid": "00000027",
+              "Verse": "You fasten my feet in shackles; you keep close watch on all my paths by putting marks on the soles of my feet."
+            },
+            {
+              "Verseid": "00000028",
+              "Verse": "“So man wastes away like something rotten, like a garment eaten by moths."
+            }
+          ]
+        },
+        {
+          "Chapterid": "14",
+          "Verse": [
+            {
+              "Verseid": "00000001",
+              "Verse": "“Mortals, born of woman, are of few days and full of trouble."
+            },
+            {
+              "Verseid": "00000002",
+              "Verse": "They spring up like flowers and wither away; like fleeting shadows, they do not endure."
+            },
+            {
+              "Verseid": "00000003",
+              "Verse": "Do you fix your eye on them? Will you bring them before you for judgment?"
+            },
+            {
+              "Verseid": "00000004",
+              "Verse": "Who can bring what is pure from the impure? No one!"
+            },
+            {
+              "Verseid": "00000005",
+              "Verse": "A person`s days are determined; you have decreed the number of his months and have set limits he cannot exceed."
+            },
+            {
+              "Verseid": "00000006",
+              "Verse": "So look away from him and let him alone, till he has put in his time like a hired laborer."
+            },
+            {
+              "Verseid": "00000007",
+              "Verse": "“At least there is hope for a tree: If it is cut down, it will sprout again, and its new shoots will not fail."
+            },
+            {
+              "Verseid": "00000008",
+              "Verse": "Its roots may grow old in the ground and its stump die in the soil,"
+            },
+            {
+              "Verseid": "00000009",
+              "Verse": "yet at the scent of water it will bud and put forth shoots like a plant."
+            },
+            {
+              "Verseid": "00000010",
+              "Verse": "But a man dies and is laid low; he breathes his last and is no more."
+            },
+            {
+              "Verseid": "00000011",
+              "Verse": "As the water of a lake dries up or a riverbed becomes parched and dry,"
+            },
+            {
+              "Verseid": "00000012",
+              "Verse": "so he lies down and does not rise; till the heavens are no more, people will not awake or be roused from their sleep."
+            },
+            {
+              "Verseid": "00000013",
+              "Verse": "“If only you would hide me in the grave and conceal me till your anger has passed! If only you would set me a time and then remember me!"
+            },
+            {
+              "Verseid": "00000014",
+              "Verse": "If someone dies, will they live again? All the days of my hard service I will wait for my renewal to come."
+            },
+            {
+              "Verseid": "00000015",
+              "Verse": "You will call and I will answer you; you will long for the creature your hands have made."
+            },
+            {
+              "Verseid": "00000016",
+              "Verse": "Surely then you will count my steps but not keep track of my sin."
+            },
+            {
+              "Verseid": "00000017",
+              "Verse": "My offenses will be sealed up in a bag; you will cover over my sin."
+            },
+            {
+              "Verseid": "00000018",
+              "Verse": "“But as a mountain erodes and crumbles and as a rock is moved from its place,"
+            },
+            {
+              "Verseid": "00000019",
+              "Verse": "as water wears away stones and torrents wash away the soil, so you destroy a person`s hope."
+            },
+            {
+              "Verseid": "00000020",
+              "Verse": "You overpower them once for all, and they are gone; you change their countenance and send them away."
+            },
+            {
+              "Verseid": "00000021",
+              "Verse": "If their children are honored, they do not know it; if their offspring are brought low, they do not see it."
+            },
+            {
+              "Verseid": "00000022",
+              "Verse": "They feel but the pain of their own bodies and mourn only for themselves.”"
+            }
+          ]
+        },
+        {
+          "Chapterid": "15",
+          "Verse": [
+            {
+              "Verseid": "00000001",
+              "Verse": "Then Eliphaz the Temanite replied:"
+            },
+            {
+              "Verseid": "00000002",
+              "Verse": "“Would a wise person answer with empty notions or fill their belly with the hot east wind?"
+            },
+            {
+              "Verseid": "00000003",
+              "Verse": "Would they argue with useless words, with speeches that have no value?"
+            },
+            {
+              "Verseid": "00000004",
+              "Verse": "But you even undermine piety and hinder devotion to God."
+            },
+            {
+              "Verseid": "00000005",
+              "Verse": "Your sin prompts your mouth; you adopt the tongue of the crafty."
+            },
+            {
+              "Verseid": "00000006",
+              "Verse": "Your own mouth condemns you, not mine; your own lips testify against you."
+            },
+            {
+              "Verseid": "00000007",
+              "Verse": "“Are you the first man ever born? Were you brought forth before the hills?"
+            },
+            {
+              "Verseid": "00000008",
+              "Verse": "Do you listen in on God`s council? Do you have a monopoly on wisdom?"
+            },
+            {
+              "Verseid": "00000009",
+              "Verse": "What do you know that we do not know? What insights do you have that we do not have?"
+            },
+            {
+              "Verseid": "00000010",
+              "Verse": "The gray-haired and the aged are on our side, men even older than your father."
+            },
+            {
+              "Verseid": "00000011",
+              "Verse": "Are God`s consolations not enough for you, words spoken gently to you?"
+            },
+            {
+              "Verseid": "00000012",
+              "Verse": "Why has your heart carried you away, and why do your eyes flash,"
+            },
+            {
+              "Verseid": "00000013",
+              "Verse": "so that you vent your rage against God and pour out such words from your mouth?"
+            },
+            {
+              "Verseid": "00000014",
+              "Verse": "“What are mortals, that they could be pure, or those born of woman, that they could be righteous?"
+            },
+            {
+              "Verseid": "00000015",
+              "Verse": "If God places no trust in his holy ones, if even the heavens are not pure in his eyes,"
+            },
+            {
+              "Verseid": "00000016",
+              "Verse": "how much less mortals, who are vile and corrupt, who drink up evil like water!"
+            },
+            {
+              "Verseid": "00000017",
+              "Verse": "“Listen to me and I will explain to you; let me tell you what I have seen,"
+            },
+            {
+              "Verseid": "00000018",
+              "Verse": "what the wise have declared, hiding nothing received from their ancestors"
+            },
+            {
+              "Verseid": "00000019",
+              "Verse": "(to whom alone the land was given when no foreigners moved among them):"
+            },
+            {
+              "Verseid": "00000020",
+              "Verse": "All his days the wicked man suffers torment, the ruthless man through all the years stored up for him."
+            },
+            {
+              "Verseid": "00000021",
+              "Verse": "Terrifying sounds fill his ears; when all seems well, marauders attack him."
+            },
+            {
+              "Verseid": "00000022",
+              "Verse": "He despairs of escaping the realm of darkness; he is marked for the sword."
+            },
+            {
+              "Verseid": "00000023",
+              "Verse": "He wanders about for food like a vulture; he knows the day of darkness is at hand."
+            },
+            {
+              "Verseid": "00000024",
+              "Verse": "Distress and anguish fill him with terror; troubles overwhelm him, like a king poised to attack,"
+            },
+            {
+              "Verseid": "00000025",
+              "Verse": "because he shakes his fist at God and vaunts himself against the Almighty,"
+            },
+            {
+              "Verseid": "00000026",
+              "Verse": "defiantly charging against him with a thick, strong shield."
+            },
+            {
+              "Verseid": "00000027",
+              "Verse": "“Though his face is covered with fat and his waist bulges with flesh,"
+            },
+            {
+              "Verseid": "00000028",
+              "Verse": "he will inhabit ruined towns and houses where no one lives, houses crumbling to rubble."
+            },
+            {
+              "Verseid": "00000029",
+              "Verse": "He will no longer be rich and his wealth will not endure, nor will his possessions spread over the land."
+            },
+            {
+              "Verseid": "00000030",
+              "Verse": "He will not escape the darkness; a flame will wither his shoots, and the breath of God`s mouth will carry him away."
+            },
+            {
+              "Verseid": "00000031",
+              "Verse": "Let him not deceive himself by trusting what is worthless, for he will get nothing in return."
+            },
+            {
+              "Verseid": "00000032",
+              "Verse": "Before his time he will wither, and his branches will not flourish."
+            },
+            {
+              "Verseid": "00000033",
+              "Verse": "He will be like a vine stripped of its unripe grapes, like an olive tree shedding its blossoms."
+            },
+            {
+              "Verseid": "00000034",
+              "Verse": "For the company of the godless will be barren, and fire will consume the tents of those who love bribes."
+            },
+            {
+              "Verseid": "00000035",
+              "Verse": "They conceive trouble and give birth to evil; their womb fashions deceit.”"
+            }
+          ]
+        },
+        {
+          "Chapterid": "16",
+          "Verse": [
+            {
+              "Verseid": "00000001",
+              "Verse": "Then Job replied:"
+            },
+            {
+              "Verseid": "00000002",
+              "Verse": "“I have heard many things like these; you are miserable comforters, all of you!"
+            },
+            {
+              "Verseid": "00000003",
+              "Verse": "Will your long-winded speeches never end? What ails you that you keep on arguing?"
+            },
+            {
+              "Verseid": "00000004",
+              "Verse": "I also could speak like you, if you were in my place; I could make fine speeches against you and shake my head at you."
+            },
+            {
+              "Verseid": "00000005",
+              "Verse": "But my mouth would encourage you; comfort from my lips would bring you relief."
+            },
+            {
+              "Verseid": "00000006",
+              "Verse": "“Yet if I speak, my pain is not relieved; and if I refrain, it does not go away."
+            },
+            {
+              "Verseid": "00000007",
+              "Verse": "Surely, God, you have worn me out; you have devastated my entire household."
+            },
+            {
+              "Verseid": "00000008",
+              "Verse": "You have shriveled me up—and it has become a witness; my gauntness rises up and testifies against me."
+            },
+            {
+              "Verseid": "00000009",
+              "Verse": "God assails me and tears me in his anger and gnashes his teeth at me; my opponent fastens on me his piercing eyes."
+            },
+            {
+              "Verseid": "00000010",
+              "Verse": "People open their mouths to jeer at me; they strike my cheek in scorn and unite together against me."
+            },
+            {
+              "Verseid": "00000011",
+              "Verse": "God has turned me over to the ungodly and thrown me into the clutches of the wicked."
+            },
+            {
+              "Verseid": "00000012",
+              "Verse": "All was well with me, but he shattered me; he seized me by the neck and crushed me. He has made me his target;"
+            },
+            {
+              "Verseid": "00000013",
+              "Verse": "his archers surround me. Without pity, he pierces my kidneys and spills my gall on the ground."
+            },
+            {
+              "Verseid": "00000014",
+              "Verse": "Again and again he bursts upon me; he rushes at me like a warrior."
+            },
+            {
+              "Verseid": "00000015",
+              "Verse": "“I have sewed sackcloth over my skin and buried my brow in the dust."
+            },
+            {
+              "Verseid": "00000016",
+              "Verse": "My face is red with weeping, dark shadows ring my eyes;"
+            },
+            {
+              "Verseid": "00000017",
+              "Verse": "yet my hands have been free of violence and my prayer is pure."
+            },
+            {
+              "Verseid": "00000018",
+              "Verse": "“Earth, do not cover my blood; may my cry never be laid to rest!"
+            },
+            {
+              "Verseid": "00000019",
+              "Verse": "Even now my witness is in heaven; my advocate is on high."
+            },
+            {
+              "Verseid": "00000020",
+              "Verse": "My intercessor is my friend as my eyes pour out tears to God;"
+            },
+            {
+              "Verseid": "00000021",
+              "Verse": "on behalf of a man he pleads with God as one pleads for a friend."
+            },
+            {
+              "Verseid": "00000022",
+              "Verse": "“Only a few years will pass before I take the path of no return."
+            }
+          ]
+        },
+        {
+          "Chapterid": "17",
+          "Verse": [
+            {
+              "Verseid": "00000001",
+              "Verse": "My spirit is broken, my days are cut short, the grave awaits me."
+            },
+            {
+              "Verseid": "00000002",
+              "Verse": "Surely mockers surround me; my eyes must dwell on their hostility."
+            },
+            {
+              "Verseid": "00000003",
+              "Verse": "“Give me, O God, the pledge you demand. Who else will put up security for me?"
+            },
+            {
+              "Verseid": "00000004",
+              "Verse": "You have closed their minds to understanding; therefore you will not let them triumph."
+            },
+            {
+              "Verseid": "00000005",
+              "Verse": "If anyone denounces their friends for reward, the eyes of their children will fail."
+            },
+            {
+              "Verseid": "00000006",
+              "Verse": "“God has made me a byword to everyone, a man in whose face people spit."
+            },
+            {
+              "Verseid": "00000007",
+              "Verse": "My eyes have grown dim with grief; my whole frame is but a shadow."
+            },
+            {
+              "Verseid": "00000008",
+              "Verse": "The upright are appalled at this; the innocent are aroused against the ungodly."
+            },
+            {
+              "Verseid": "00000009",
+              "Verse": "Nevertheless, the righteous will hold to their ways, and those with clean hands will grow stronger."
+            },
+            {
+              "Verseid": "00000010",
+              "Verse": "“But come on, all of you, try again! I will not find a wise man among you."
+            },
+            {
+              "Verseid": "00000011",
+              "Verse": "My days have passed, my plans are shattered. Yet the desires of my heart"
+            },
+            {
+              "Verseid": "00000012",
+              "Verse": "turn night into day; in the face of the darkness light is near."
+            },
+            {
+              "Verseid": "00000013",
+              "Verse": "If the only home I hope for is the grave, if I spread out my bed in the realm of darkness,"
+            },
+            {
+              "Verseid": "00000014",
+              "Verse": "if I say to corruption, ‘You are my father,` and to the worm, ‘My mother` or ‘My sister,`"
+            },
+            {
+              "Verseid": "00000015",
+              "Verse": "where then is my hope— who can see any hope for me?"
+            },
+            {
+              "Verseid": "00000016",
+              "Verse": "Will it go down to the gates of death? Will we descend together into the dust?”"
+            }
+          ]
+        },
+        {
+          "Chapterid": "18",
+          "Verse": [
+            {
+              "Verseid": "00000001",
+              "Verse": "Then Bildad the Shuhite replied:"
+            },
+            {
+              "Verseid": "00000002",
+              "Verse": "“When will you end these speeches? Be sensible, and then we can talk."
+            },
+            {
+              "Verseid": "00000003",
+              "Verse": "Why are we regarded as cattle and considered stupid in your sight?"
+            },
+            {
+              "Verseid": "00000004",
+              "Verse": "You who tear yourself to pieces in your anger, is the earth to be abandoned for your sake? Or must the rocks be moved from their place?"
+            },
+            {
+              "Verseid": "00000005",
+              "Verse": "“The lamp of a wicked man is snuffed out; the flame of his fire stops burning."
+            },
+            {
+              "Verseid": "00000006",
+              "Verse": "The light in his tent becomes dark; the lamp beside him goes out."
+            },
+            {
+              "Verseid": "00000007",
+              "Verse": "The vigor of his step is weakened; his own schemes throw him down."
+            },
+            {
+              "Verseid": "00000008",
+              "Verse": "His feet thrust him into a net; he wanders into its mesh."
+            },
+            {
+              "Verseid": "00000009",
+              "Verse": "A trap seizes him by the heel; a snare holds him fast."
+            },
+            {
+              "Verseid": "00000010",
+              "Verse": "A noose is hidden for him on the ground; a trap lies in his path."
+            },
+            {
+              "Verseid": "00000011",
+              "Verse": "Terrors startle him on every side and dog his every step."
+            },
+            {
+              "Verseid": "00000012",
+              "Verse": "Calamity is hungry for him; disaster is ready for him when he falls."
+            },
+            {
+              "Verseid": "00000013",
+              "Verse": "It eats away parts of his skin; death`s firstborn devours his limbs."
+            },
+            {
+              "Verseid": "00000014",
+              "Verse": "He is torn from the security of his tent and marched off to the king of terrors."
+            },
+            {
+              "Verseid": "00000015",
+              "Verse": "Fire resides in his tent; burning sulfur is scattered over his dwelling."
+            },
+            {
+              "Verseid": "00000016",
+              "Verse": "His roots dry up below and his branches wither above."
+            },
+            {
+              "Verseid": "00000017",
+              "Verse": "The memory of him perishes from the earth; he has no name in the land."
+            },
+            {
+              "Verseid": "00000018",
+              "Verse": "He is driven from light into the realm of darkness and is banished from the world."
+            },
+            {
+              "Verseid": "00000019",
+              "Verse": "He has no offspring or descendants among his people, no survivor where once he lived."
+            },
+            {
+              "Verseid": "00000020",
+              "Verse": "People of the west are appalled at his fate; those of the east are seized with horror."
+            },
+            {
+              "Verseid": "00000021",
+              "Verse": "Surely such is the dwelling of an evil man; such is the place of one who does not know God.”"
+            }
+          ]
+        },
+        {
+          "Chapterid": "19",
+          "Verse": [
+            {
+              "Verseid": "00000001",
+              "Verse": "Then Job replied:"
+            },
+            {
+              "Verseid": "00000002",
+              "Verse": "“How long will you torment me and crush me with words?"
+            },
+            {
+              "Verseid": "00000003",
+              "Verse": "Ten times now you have reproached me; shamelessly you attack me."
+            },
+            {
+              "Verseid": "00000004",
+              "Verse": "If it is true that I have gone astray, my error remains my concern alone."
+            },
+            {
+              "Verseid": "00000005",
+              "Verse": "If indeed you would exalt yourselves above me and use my humiliation against me,"
+            },
+            {
+              "Verseid": "00000006",
+              "Verse": "then know that God has wronged me and drawn his net around me."
+            },
+            {
+              "Verseid": "00000007",
+              "Verse": "“Though I cry, ‘Violence!` I get no response; though I call for help, there is no justice."
+            },
+            {
+              "Verseid": "00000008",
+              "Verse": "He has blocked my way so I cannot pass; he has shrouded my paths in darkness."
+            },
+            {
+              "Verseid": "00000009",
+              "Verse": "He has stripped me of my honor and removed the crown from my head."
+            },
+            {
+              "Verseid": "00000010",
+              "Verse": "He tears me down on every side till I am gone; he uproots my hope like a tree."
+            },
+            {
+              "Verseid": "00000011",
+              "Verse": "His anger burns against me; he counts me among his enemies."
+            },
+            {
+              "Verseid": "00000012",
+              "Verse": "His troops advance in force; they build a siege ramp against me and encamp around my tent."
+            },
+            {
+              "Verseid": "00000013",
+              "Verse": "“He has alienated my family from me; my acquaintances are completely estranged from me."
+            },
+            {
+              "Verseid": "00000014",
+              "Verse": "My relatives have gone away; my closest friends have forgotten me."
+            },
+            {
+              "Verseid": "00000015",
+              "Verse": "My guests and my female servants count me a foreigner; they look on me as on a stranger."
+            },
+            {
+              "Verseid": "00000016",
+              "Verse": "I summon my servant, but he does not answer, though I beg him with my own mouth."
+            },
+            {
+              "Verseid": "00000017",
+              "Verse": "My breath is offensive to my wife; I am loathsome to my own family."
+            },
+            {
+              "Verseid": "00000018",
+              "Verse": "Even the little boys scorn me; when I appear, they ridicule me."
+            },
+            {
+              "Verseid": "00000019",
+              "Verse": "All my intimate friends detest me; those I love have turned against me."
+            },
+            {
+              "Verseid": "00000020",
+              "Verse": "I am nothing but skin and bones; I have escaped only by the skin of my teeth."
+            },
+            {
+              "Verseid": "00000021",
+              "Verse": "“Have pity on me, my friends, have pity, for the hand of God has struck me."
+            },
+            {
+              "Verseid": "00000022",
+              "Verse": "Why do you pursue me as God does? Will you never get enough of my flesh?"
+            },
+            {
+              "Verseid": "00000023",
+              "Verse": "“Oh, that my words were recorded, that they were written on a scroll,"
+            },
+            {
+              "Verseid": "00000024",
+              "Verse": "that they were inscribed with an iron tool on lead, or engraved in rock forever!"
+            },
+            {
+              "Verseid": "00000025",
+              "Verse": "I know that my redeemer lives, and that in the end he will stand on the earth."
+            },
+            {
+              "Verseid": "00000026",
+              "Verse": "And after my skin has been destroyed, yet in my flesh I will see God;"
+            },
+            {
+              "Verseid": "00000027",
+              "Verse": "I myself will see him with my own eyes—I, and not another. How my heart yearns within me!"
+            },
+            {
+              "Verseid": "00000028",
+              "Verse": "“If you say, ‘How we will hound him, since the root of the trouble lies in him,`"
+            },
+            {
+              "Verseid": "00000029",
+              "Verse": "you should fear the sword yourselves; for wrath will bring punishment by the sword, and then you will know that there is judgment.”"
+            }
+          ]
+        },
+        {
+          "Chapterid": "20",
+          "Verse": [
+            {
+              "Verseid": "00000001",
+              "Verse": "Then Zophar the Naamathite replied:"
+            },
+            {
+              "Verseid": "00000002",
+              "Verse": "“My troubled thoughts prompt me to answer because I am greatly disturbed."
+            },
+            {
+              "Verseid": "00000003",
+              "Verse": "I hear a rebuke that dishonors me, and my understanding inspires me to reply."
+            },
+            {
+              "Verseid": "00000004",
+              "Verse": "“Surely you know how it has been from of old, ever since mankind was placed on the earth,"
+            },
+            {
+              "Verseid": "00000005",
+              "Verse": "that the mirth of the wicked is brief, the joy of the godless lasts but a moment."
+            },
+            {
+              "Verseid": "00000006",
+              "Verse": "Though the pride of the godless person reaches to the heavens and his head touches the clouds,"
+            },
+            {
+              "Verseid": "00000007",
+              "Verse": "he will perish forever, like his own dung; those who have seen him will say, ‘Where is he?`"
+            },
+            {
+              "Verseid": "00000008",
+              "Verse": "Like a dream he flies away, no more to be found, banished like a vision of the night."
+            },
+            {
+              "Verseid": "00000009",
+              "Verse": "The eye that saw him will not see him again; his place will look on him no more."
+            },
+            {
+              "Verseid": "00000010",
+              "Verse": "His children must make amends to the poor; his own hands must give back his wealth."
+            },
+            {
+              "Verseid": "00000011",
+              "Verse": "The youthful vigor that fills his bones will lie with him in the dust."
+            },
+            {
+              "Verseid": "00000012",
+              "Verse": "“Though evil is sweet in his mouth and he hides it under his tongue,"
+            },
+            {
+              "Verseid": "00000013",
+              "Verse": "though he cannot bear to let it go and lets it linger in his mouth,"
+            },
+            {
+              "Verseid": "00000014",
+              "Verse": "yet his food will turn sour in his stomach; it will become the venom of serpents within him."
+            },
+            {
+              "Verseid": "00000015",
+              "Verse": "He will spit out the riches he swallowed; God will make his stomach vomit them up."
+            },
+            {
+              "Verseid": "00000016",
+              "Verse": "He will suck the poison of serpents; the fangs of an adder will kill him."
+            },
+            {
+              "Verseid": "00000017",
+              "Verse": "He will not enjoy the streams, the rivers flowing with honey and cream."
+            },
+            {
+              "Verseid": "00000018",
+              "Verse": "What he toiled for he must give back uneaten; he will not enjoy the profit from his trading."
+            },
+            {
+              "Verseid": "00000019",
+              "Verse": "For he has oppressed the poor and left them destitute; he has seized houses he did not build."
+            },
+            {
+              "Verseid": "00000020",
+              "Verse": "“Surely he will have no respite from his craving; he cannot save himself by his treasure."
+            },
+            {
+              "Verseid": "00000021",
+              "Verse": "Nothing is left for him to devour; his prosperity will not endure."
+            },
+            {
+              "Verseid": "00000022",
+              "Verse": "In the midst of his plenty, distress will overtake him; the full force of misery will come upon him."
+            },
+            {
+              "Verseid": "00000023",
+              "Verse": "When he has filled his belly, God will vent his burning anger against him and rain down his blows on him."
+            },
+            {
+              "Verseid": "00000024",
+              "Verse": "Though he flees from an iron weapon, a bronze-tipped arrow pierces him."
+            },
+            {
+              "Verseid": "00000025",
+              "Verse": "He pulls it out of his back, the gleaming point out of his liver. Terrors will come over him;"
+            },
+            {
+              "Verseid": "00000026",
+              "Verse": "total darkness lies in wait for his treasures. A fire unfanned will consume him and devour what is left in his tent."
+            },
+            {
+              "Verseid": "00000027",
+              "Verse": "The heavens will expose his guilt; the earth will rise up against him."
+            },
+            {
+              "Verseid": "00000028",
+              "Verse": "A flood will carry off his house, rushing waters on the day of God`s wrath."
+            },
+            {
+              "Verseid": "00000029",
+              "Verse": "Such is the fate God allots the wicked, the heritage appointed for them by God.”"
+            }
+          ]
+        },
+        {
+          "Chapterid": "21",
+          "Verse": [
+            {
+              "Verseid": "00000001",
+              "Verse": "Then Job replied:"
+            },
+            {
+              "Verseid": "00000002",
+              "Verse": "“Listen carefully to my words; let this be the consolation you give me."
+            },
+            {
+              "Verseid": "00000003",
+              "Verse": "Bear with me while I speak, and after I have spoken, mock on."
+            },
+            {
+              "Verseid": "00000004",
+              "Verse": "“Is my complaint directed to a human being? Why should I not be impatient?"
+            },
+            {
+              "Verseid": "00000005",
+              "Verse": "Look at me and be appalled; clap your hand over your mouth."
+            },
+            {
+              "Verseid": "00000006",
+              "Verse": "When I think about this, I am terrified; trembling seizes my body."
+            },
+            {
+              "Verseid": "00000007",
+              "Verse": "Why do the wicked live on, growing old and increasing in power?"
+            },
+            {
+              "Verseid": "00000008",
+              "Verse": "They see their children established around them, their offspring before their eyes."
+            },
+            {
+              "Verseid": "00000009",
+              "Verse": "Their homes are safe and free from fear; the rod of God is not on them."
+            },
+            {
+              "Verseid": "00000010",
+              "Verse": "Their bulls never fail to breed; their cows calve and do not miscarry."
+            },
+            {
+              "Verseid": "00000011",
+              "Verse": "They send forth their children as a flock; their little ones dance about."
+            },
+            {
+              "Verseid": "00000012",
+              "Verse": "They sing to the music of timbrel and lyre; they make merry to the sound of the pipe."
+            },
+            {
+              "Verseid": "00000013",
+              "Verse": "They spend their years in prosperity and go down to the grave in peace."
+            },
+            {
+              "Verseid": "00000014",
+              "Verse": "Yet they say to God, ‘Leave us alone! We have no desire to know your ways."
+            },
+            {
+              "Verseid": "00000015",
+              "Verse": "Who is the Almighty, that we should serve him? What would we gain by praying to him?`"
+            },
+            {
+              "Verseid": "00000016",
+              "Verse": "But their prosperity is not in their own hands, so I stand aloof from the plans of the wicked."
+            },
+            {
+              "Verseid": "00000017",
+              "Verse": "“Yet how often is the lamp of the wicked snuffed out? How often does calamity come upon them, the fate God allots in his anger?"
+            },
+            {
+              "Verseid": "00000018",
+              "Verse": "How often are they like straw before the wind, like chaff swept away by a gale?"
+            },
+            {
+              "Verseid": "00000019",
+              "Verse": "It is said, ‘God stores up the punishment of the wicked for their children.` Let him repay the wicked, so that they themselves will experience it!"
+            },
+            {
+              "Verseid": "00000020",
+              "Verse": "Let their own eyes see their destruction; let them drink the cup of the wrath of the Almighty."
+            },
+            {
+              "Verseid": "00000021",
+              "Verse": "For what do they care about the families they leave behind when their allotted months come to an end?"
+            },
+            {
+              "Verseid": "00000022",
+              "Verse": "“Can anyone teach knowledge to God, since he judges even the highest?"
+            },
+            {
+              "Verseid": "00000023",
+              "Verse": "One person dies in full vigor, completely secure and at ease,"
+            },
+            {
+              "Verseid": "00000024",
+              "Verse": "well nourished in body, bones rich with marrow."
+            },
+            {
+              "Verseid": "00000025",
+              "Verse": "Another dies in bitterness of soul, never having enjoyed anything good."
+            },
+            {
+              "Verseid": "00000026",
+              "Verse": "Side by side they lie in the dust, and worms cover them both."
+            },
+            {
+              "Verseid": "00000027",
+              "Verse": "“I know full well what you are thinking, the schemes by which you would wrong me."
+            },
+            {
+              "Verseid": "00000028",
+              "Verse": "You say, ‘Where now is the house of the great, the tents where the wicked lived?`"
+            },
+            {
+              "Verseid": "00000029",
+              "Verse": "Have you never questioned those who travel? Have you paid no regard to their accounts—"
+            },
+            {
+              "Verseid": "00000030",
+              "Verse": "that the wicked are spared from the day of calamity, that they are delivered from the day of wrath?"
+            },
+            {
+              "Verseid": "00000031",
+              "Verse": "Who denounces their conduct to their face? Who repays them for what they have done?"
+            },
+            {
+              "Verseid": "00000032",
+              "Verse": "They are carried to the grave, and watch is kept over their tombs."
+            },
+            {
+              "Verseid": "00000033",
+              "Verse": "The soil in the valley is sweet to them; everyone follows after them, and a countless throng goes before them."
+            },
+            {
+              "Verseid": "00000034",
+              "Verse": "“So how can you console me with your nonsense? Nothing is left of your answers but falsehood!”"
+            }
+          ]
+        },
+        {
+          "Chapterid": "22",
+          "Verse": [
+            {
+              "Verseid": "00000001",
+              "Verse": "Then Eliphaz the Temanite replied:"
+            },
+            {
+              "Verseid": "00000002",
+              "Verse": "“Can a man be of benefit to God? Can even a wise person benefit him?"
+            },
+            {
+              "Verseid": "00000003",
+              "Verse": "What pleasure would it give the Almighty if you were righteous? What would he gain if your ways were blameless?"
+            },
+            {
+              "Verseid": "00000004",
+              "Verse": "“Is it for your piety that he rebukes you and brings charges against you?"
+            },
+            {
+              "Verseid": "00000005",
+              "Verse": "Is not your wickedness great? Are not your sins endless?"
+            },
+            {
+              "Verseid": "00000006",
+              "Verse": "You demanded security from your relatives for no reason; you stripped people of their clothing, leaving them naked."
+            },
+            {
+              "Verseid": "00000007",
+              "Verse": "You gave no water to the weary and you withheld food from the hungry,"
+            },
+            {
+              "Verseid": "00000008",
+              "Verse": "though you were a powerful man, owning land— an honored man, living on it."
+            },
+            {
+              "Verseid": "00000009",
+              "Verse": "And you sent widows away empty-handed and broke the strength of the fatherless."
+            },
+            {
+              "Verseid": "00000010",
+              "Verse": "That is why snares are all around you, why sudden peril terrifies you,"
+            },
+            {
+              "Verseid": "00000011",
+              "Verse": "why it is so dark you cannot see, and why a flood of water covers you."
+            },
+            {
+              "Verseid": "00000012",
+              "Verse": "“Is not God in the heights of heaven? And see how lofty are the highest stars!"
+            },
+            {
+              "Verseid": "00000013",
+              "Verse": "Yet you say, ‘What does God know? Does he judge through such darkness?"
+            },
+            {
+              "Verseid": "00000014",
+              "Verse": "Thick clouds veil him, so he does not see us as he goes about in the vaulted heavens.`"
+            },
+            {
+              "Verseid": "00000015",
+              "Verse": "Will you keep to the old path that the wicked have trod?"
+            },
+            {
+              "Verseid": "00000016",
+              "Verse": "They were carried off before their time, their foundations washed away by a flood."
+            },
+            {
+              "Verseid": "00000017",
+              "Verse": "They said to God, ‘Leave us alone! What can the Almighty do to us?`"
+            },
+            {
+              "Verseid": "00000018",
+              "Verse": "Yet it was he who filled their houses with good things, so I stand aloof from the plans of the wicked."
+            },
+            {
+              "Verseid": "00000019",
+              "Verse": "The righteous see their ruin and rejoice; the innocent mock them, saying,"
+            },
+            {
+              "Verseid": "00000020",
+              "Verse": "‘Surely our foes are destroyed, and fire devours their wealth.`"
+            },
+            {
+              "Verseid": "00000021",
+              "Verse": "“Submit to God and be at peace with him; in this way prosperity will come to you."
+            },
+            {
+              "Verseid": "00000022",
+              "Verse": "Accept instruction from his mouth and lay up his words in your heart."
+            },
+            {
+              "Verseid": "00000023",
+              "Verse": "If you return to the Almighty, you will be restored: If you remove wickedness far from your tent"
+            },
+            {
+              "Verseid": "00000024",
+              "Verse": "and assign your nuggets to the dust, your gold of Ophir to the rocks in the ravines,"
+            },
+            {
+              "Verseid": "00000025",
+              "Verse": "then the Almighty will be your gold, the choicest silver for you."
+            },
+            {
+              "Verseid": "00000026",
+              "Verse": "Surely then you will find delight in the Almighty and will lift up your face to God."
+            },
+            {
+              "Verseid": "00000027",
+              "Verse": "You will pray to him, and he will hear you, and you will fulfill your vows."
+            },
+            {
+              "Verseid": "00000028",
+              "Verse": "What you decide on will be done, and light will shine on your ways."
+            },
+            {
+              "Verseid": "00000029",
+              "Verse": "When people are brought low and you say, ‘Lift them up!` then he will save the downcast."
+            },
+            {
+              "Verseid": "00000030",
+              "Verse": "He will deliver even one who is not innocent, who will be delivered through the cleanness of your hands.”"
+            }
+          ]
+        },
+        {
+          "Chapterid": "23",
+          "Verse": [
+            {
+              "Verseid": "00000001",
+              "Verse": "Then Job replied:"
+            },
+            {
+              "Verseid": "00000002",
+              "Verse": "“Even today my complaint is bitter; his hand is heavy in spite of my groaning."
+            },
+            {
+              "Verseid": "00000003",
+              "Verse": "If only I knew where to find him; if only I could go to his dwelling!"
+            },
+            {
+              "Verseid": "00000004",
+              "Verse": "I would state my case before him and fill my mouth with arguments."
+            },
+            {
+              "Verseid": "00000005",
+              "Verse": "I would find out what he would answer me, and consider what he would say to me."
+            },
+            {
+              "Verseid": "00000006",
+              "Verse": "Would he vigorously oppose me? No, he would not press charges against me."
+            },
+            {
+              "Verseid": "00000007",
+              "Verse": "There the upright can establish their innocence before him, and there I would be delivered forever from my judge."
+            },
+            {
+              "Verseid": "00000008",
+              "Verse": "“But if I go to the east, he is not there; if I go to the west, I do not find him."
+            },
+            {
+              "Verseid": "00000009",
+              "Verse": "When he is at work in the north, I do not see him; when he turns to the south, I catch no glimpse of him."
+            },
+            {
+              "Verseid": "00000010",
+              "Verse": "But he knows the way that I take; when he has tested me, I will come forth as gold."
+            },
+            {
+              "Verseid": "00000011",
+              "Verse": "My feet have closely followed his steps; I have kept to his way without turning aside."
+            },
+            {
+              "Verseid": "00000012",
+              "Verse": "I have not departed from the commands of his lips; I have treasured the words of his mouth more than my daily bread."
+            },
+            {
+              "Verseid": "00000013",
+              "Verse": "“But he stands alone, and who can oppose him? He does whatever he pleases."
+            },
+            {
+              "Verseid": "00000014",
+              "Verse": "He carries out his decree against me, and many such plans he still has in store."
+            },
+            {
+              "Verseid": "00000015",
+              "Verse": "That is why I am terrified before him; when I think of all this, I fear him."
+            },
+            {
+              "Verseid": "00000016",
+              "Verse": "God has made my heart faint; the Almighty has terrified me."
+            },
+            {
+              "Verseid": "00000017",
+              "Verse": "Yet I am not silenced by the darkness, by the thick darkness that covers my face."
+            }
+          ]
+        },
+        {
+          "Chapterid": "24",
+          "Verse": [
+            {
+              "Verseid": "00000001",
+              "Verse": "“Why does the Almighty not set times for judgment? Why must those who know him look in vain for such days?"
+            },
+            {
+              "Verseid": "00000002",
+              "Verse": "There are those who move boundary stones; they pasture flocks they have stolen."
+            },
+            {
+              "Verseid": "00000003",
+              "Verse": "They drive away the orphan`s donkey and take the widow`s ox in pledge."
+            },
+            {
+              "Verseid": "00000004",
+              "Verse": "They thrust the needy from the path and force all the poor of the land into hiding."
+            },
+            {
+              "Verseid": "00000005",
+              "Verse": "Like wild donkeys in the desert, the poor go about their labor of foraging food; the wasteland provides food for their children."
+            },
+            {
+              "Verseid": "00000006",
+              "Verse": "They gather fodder in the fields and glean in the vineyards of the wicked."
+            },
+            {
+              "Verseid": "00000007",
+              "Verse": "Lacking clothes, they spend the night naked; they have nothing to cover themselves in the cold."
+            },
+            {
+              "Verseid": "00000008",
+              "Verse": "They are drenched by mountain rains and hug the rocks for lack of shelter."
+            },
+            {
+              "Verseid": "00000009",
+              "Verse": "The fatherless child is snatched from the breast; the infant of the poor is seized for a debt."
+            },
+            {
+              "Verseid": "00000010",
+              "Verse": "Lacking clothes, they go about naked; they carry the sheaves, but still go hungry."
+            },
+            {
+              "Verseid": "00000011",
+              "Verse": "They crush olives among the terraces; they tread the winepresses, yet suffer thirst."
+            },
+            {
+              "Verseid": "00000012",
+              "Verse": "The groans of the dying rise from the city, and the souls of the wounded cry out for help. But God charges no one with wrongdoing."
+            },
+            {
+              "Verseid": "00000013",
+              "Verse": "“There are those who rebel against the light, who do not know its ways or stay in its paths."
+            },
+            {
+              "Verseid": "00000014",
+              "Verse": "When daylight is gone, the murderer rises up, kills the poor and needy, and in the night steals forth like a thief."
+            },
+            {
+              "Verseid": "00000015",
+              "Verse": "The eye of the adulterer watches for dusk; he thinks, ‘No eye will see me,` and he keeps his face concealed."
+            },
+            {
+              "Verseid": "00000016",
+              "Verse": "In the dark, thieves break into houses, but by day they shut themselves in; they want nothing to do with the light."
+            },
+            {
+              "Verseid": "00000017",
+              "Verse": "For all of them, midnight is their morning; they make friends with the terrors of darkness."
+            },
+            {
+              "Verseid": "00000018",
+              "Verse": "“Yet they are foam on the surface of the water; their portion of the land is cursed, so that no one goes to the vineyards."
+            },
+            {
+              "Verseid": "00000019",
+              "Verse": "As heat and drought snatch away the melted snow, so the grave snatches away those who have sinned."
+            },
+            {
+              "Verseid": "00000020",
+              "Verse": "The womb forgets them, the worm feasts on them; the wicked are no longer remembered but are broken like a tree."
+            },
+            {
+              "Verseid": "00000021",
+              "Verse": "They prey on the barren and childless woman, and to the widow they show no kindness."
+            },
+            {
+              "Verseid": "00000022",
+              "Verse": "But God drags away the mighty by his power; though they become established, they have no assurance of life."
+            },
+            {
+              "Verseid": "00000023",
+              "Verse": "He may let them rest in a feeling of security, but his eyes are on their ways."
+            },
+            {
+              "Verseid": "00000024",
+              "Verse": "For a little while they are exalted, and then they are gone; they are brought low and gathered up like all others; they are cut off like heads of grain."
+            },
+            {
+              "Verseid": "00000025",
+              "Verse": "“If this is not so, who can prove me false and reduce my words to nothing?”"
+            }
+          ]
+        },
+        {
+          "Chapterid": "25",
+          "Verse": [
+            {
+              "Verseid": "00000001",
+              "Verse": "Then Bildad the Shuhite replied:"
+            },
+            {
+              "Verseid": "00000002",
+              "Verse": "“Dominion and awe belong to God; he establishes order in the heights of heaven."
+            },
+            {
+              "Verseid": "00000003",
+              "Verse": "Can his forces be numbered? On whom does his light not rise?"
+            },
+            {
+              "Verseid": "00000004",
+              "Verse": "How then can a mortal be righteous before God? How can one born of woman be pure?"
+            },
+            {
+              "Verseid": "00000005",
+              "Verse": "If even the moon is not bright and the stars are not pure in his eyes,"
+            },
+            {
+              "Verseid": "00000006",
+              "Verse": "how much less a mortal, who is but a maggot— a human being, who is only a worm!”"
+            }
+          ]
+        },
+        {
+          "Chapterid": "26",
+          "Verse": [
+            {
+              "Verseid": "00000001",
+              "Verse": "Then Job replied:"
+            },
+            {
+              "Verseid": "00000002",
+              "Verse": "“How you have helped the powerless! How you have saved the arm that is feeble!"
+            },
+            {
+              "Verseid": "00000003",
+              "Verse": "What advice you have offered to one without wisdom! And what great insight you have displayed!"
+            },
+            {
+              "Verseid": "00000004",
+              "Verse": "Who has helped you utter these words? And whose spirit spoke from your mouth?"
+            },
+            {
+              "Verseid": "00000005",
+              "Verse": "“The dead are in deep anguish, those beneath the waters and all that live in them."
+            },
+            {
+              "Verseid": "00000006",
+              "Verse": "The realm of the dead is naked before God; Destruction lies uncovered."
+            },
+            {
+              "Verseid": "00000007",
+              "Verse": "He spreads out the northern skies over empty space; he suspends the earth over nothing."
+            },
+            {
+              "Verseid": "00000008",
+              "Verse": "He wraps up the waters in his clouds, yet the clouds do not burst under their weight."
+            },
+            {
+              "Verseid": "00000009",
+              "Verse": "He covers the face of the full moon, spreading his clouds over it."
+            },
+            {
+              "Verseid": "00000010",
+              "Verse": "He marks out the horizon on the face of the waters for a boundary between light and darkness."
+            },
+            {
+              "Verseid": "00000011",
+              "Verse": "The pillars of the heavens quake, aghast at his rebuke."
+            },
+            {
+              "Verseid": "00000012",
+              "Verse": "By his power he churned up the sea; by his wisdom he cut Rahab to pieces."
+            },
+            {
+              "Verseid": "00000013",
+              "Verse": "By his breath the skies became fair; his hand pierced the gliding serpent."
+            },
+            {
+              "Verseid": "00000014",
+              "Verse": "And these are but the outer fringe of his works; how faint the whisper we hear of him! Who then can understand the thunder of his power?”"
+            }
+          ]
+        },
+        {
+          "Chapterid": "27",
+          "Verse": [
+            {
+              "Verseid": "00000001",
+              "Verse": "And Job continued his discourse:"
+            },
+            {
+              "Verseid": "00000002",
+              "Verse": "“As surely as God lives, who has denied me justice, the Almighty, who has made my life bitter,"
+            },
+            {
+              "Verseid": "00000003",
+              "Verse": "as long as I have life within me, the breath of God in my nostrils,"
+            },
+            {
+              "Verseid": "00000004",
+              "Verse": "my lips will not say anything wicked, and my tongue will not utter lies."
+            },
+            {
+              "Verseid": "00000005",
+              "Verse": "I will never admit you are in the right; till I die, I will not deny my integrity."
+            },
+            {
+              "Verseid": "00000006",
+              "Verse": "I will maintain my innocence and never let go of it; my conscience will not reproach me as long as I live."
+            },
+            {
+              "Verseid": "00000007",
+              "Verse": "“May my enemy be like the wicked, my adversary like the unjust!"
+            },
+            {
+              "Verseid": "00000008",
+              "Verse": "For what hope have the godless when they are cut off, when God takes away their life?"
+            },
+            {
+              "Verseid": "00000009",
+              "Verse": "Does God listen to their cry when distress comes upon them?"
+            },
+            {
+              "Verseid": "00000010",
+              "Verse": "Will they find delight in the Almighty? Will they call on God at all times?"
+            },
+            {
+              "Verseid": "00000011",
+              "Verse": "“I will teach you about the power of God; the ways of the Almighty I will not conceal."
+            },
+            {
+              "Verseid": "00000012",
+              "Verse": "You have all seen this yourselves. Why then this meaningless talk?"
+            },
+            {
+              "Verseid": "00000013",
+              "Verse": "“Here is the fate God allots to the wicked, the heritage a ruthless man receives from the Almighty:"
+            },
+            {
+              "Verseid": "00000014",
+              "Verse": "However many his children, their fate is the sword; his offspring will never have enough to eat."
+            },
+            {
+              "Verseid": "00000015",
+              "Verse": "The plague will bury those who survive him, and their widows will not weep for them."
+            },
+            {
+              "Verseid": "00000016",
+              "Verse": "Though he heaps up silver like dust and clothes like piles of clay,"
+            },
+            {
+              "Verseid": "00000017",
+              "Verse": "what he lays up the righteous will wear, and the innocent will divide his silver."
+            },
+            {
+              "Verseid": "00000018",
+              "Verse": "The house he builds is like a moth`s cocoon, like a hut made by a watchman."
+            },
+            {
+              "Verseid": "00000019",
+              "Verse": "He lies down wealthy, but will do so no more; when he opens his eyes, all is gone."
+            },
+            {
+              "Verseid": "00000020",
+              "Verse": "Terrors overtake him like a flood; a tempest snatches him away in the night."
+            },
+            {
+              "Verseid": "00000021",
+              "Verse": "The east wind carries him off, and he is gone; it sweeps him out of his place."
+            },
+            {
+              "Verseid": "00000022",
+              "Verse": "It hurls itself against him without mercy as he flees headlong from its power."
+            },
+            {
+              "Verseid": "00000023",
+              "Verse": "It claps its hands in derision and hisses him out of his place.”"
+            }
+          ]
+        },
+        {
+          "Chapterid": "28",
+          "Verse": [
+            {
+              "Verseid": "00000001",
+              "Verse": "There is a mine for silver and a place where gold is refined."
+            },
+            {
+              "Verseid": "00000002",
+              "Verse": "Iron is taken from the earth, and copper is smelted from ore."
+            },
+            {
+              "Verseid": "00000003",
+              "Verse": "Mortals put an end to the darkness; they search out the farthest recesses for ore in the blackest darkness."
+            },
+            {
+              "Verseid": "00000004",
+              "Verse": "Far from human dwellings they cut a shaft, in places untouched by human feet; far from other people they dangle and sway."
+            },
+            {
+              "Verseid": "00000005",
+              "Verse": "The earth, from which food comes, is transformed below as by fire;"
+            },
+            {
+              "Verseid": "00000006",
+              "Verse": "lapis lazuli comes from its rocks, and its dust contains nuggets of gold."
+            },
+            {
+              "Verseid": "00000007",
+              "Verse": "No bird of prey knows that hidden path, no falcon`s eye has seen it."
+            },
+            {
+              "Verseid": "00000008",
+              "Verse": "Proud beasts do not set foot on it, and no lion prowls there."
+            },
+            {
+              "Verseid": "00000009",
+              "Verse": "People assault the flinty rock with their hands and lay bare the roots of the mountains."
+            },
+            {
+              "Verseid": "00000010",
+              "Verse": "They tunnel through the rock; their eyes see all its treasures."
+            },
+            {
+              "Verseid": "00000011",
+              "Verse": "They search the sources of the rivers and bring hidden things to light."
+            },
+            {
+              "Verseid": "00000012",
+              "Verse": "But where can wisdom be found? Where does understanding dwell?"
+            },
+            {
+              "Verseid": "00000013",
+              "Verse": "No mortal comprehends its worth; it cannot be found in the land of the living."
+            },
+            {
+              "Verseid": "00000014",
+              "Verse": "The deep says, “It is not in me”; the sea says, “It is not with me.”"
+            },
+            {
+              "Verseid": "00000015",
+              "Verse": "It cannot be bought with the finest gold, nor can its price be weighed out in silver."
+            },
+            {
+              "Verseid": "00000016",
+              "Verse": "It cannot be bought with the gold of Ophir, with precious onyx or lapis lazuli."
+            },
+            {
+              "Verseid": "00000017",
+              "Verse": "Neither gold nor crystal can compare with it, nor can it be had for jewels of gold."
+            },
+            {
+              "Verseid": "00000018",
+              "Verse": "Coral and jasper are not worthy of mention; the price of wisdom is beyond rubies."
+            },
+            {
+              "Verseid": "00000019",
+              "Verse": "The topaz of Cush cannot compare with it; it cannot be bought with pure gold."
+            },
+            {
+              "Verseid": "00000020",
+              "Verse": "Where then does wisdom come from? Where does understanding dwell?"
+            },
+            {
+              "Verseid": "00000021",
+              "Verse": "It is hidden from the eyes of every living thing, concealed even from the birds in the sky."
+            },
+            {
+              "Verseid": "00000022",
+              "Verse": "Destruction and Death say, “Only a rumor of it has reached our ears.”"
+            },
+            {
+              "Verseid": "00000023",
+              "Verse": "God understands the way to it and he alone knows where it dwells,"
+            },
+            {
+              "Verseid": "00000024",
+              "Verse": "for he views the ends of the earth and sees everything under the heavens."
+            },
+            {
+              "Verseid": "00000025",
+              "Verse": "When he established the force of the wind and measured out the waters,"
+            },
+            {
+              "Verseid": "00000026",
+              "Verse": "when he made a decree for the rain and a path for the thunderstorm,"
+            },
+            {
+              "Verseid": "00000027",
+              "Verse": "then he looked at wisdom and appraised it; he confirmed it and tested it."
+            },
+            {
+              "Verseid": "00000028",
+              "Verse": "And he said to the human race, “The fear of the Lord—that is wisdom, and to shun evil is understanding.”"
+            }
+          ]
+        },
+        {
+          "Chapterid": "29",
+          "Verse": [
+            {
+              "Verseid": "00000001",
+              "Verse": "Job continued his discourse:"
+            },
+            {
+              "Verseid": "00000002",
+              "Verse": "“How I long for the months gone by, for the days when God watched over me,"
+            },
+            {
+              "Verseid": "00000003",
+              "Verse": "when his lamp shone on my head and by his light I walked through darkness!"
+            },
+            {
+              "Verseid": "00000004",
+              "Verse": "Oh, for the days when I was in my prime, when God`s intimate friendship blessed my house,"
+            },
+            {
+              "Verseid": "00000005",
+              "Verse": "when the Almighty was still with me and my children were around me,"
+            },
+            {
+              "Verseid": "00000006",
+              "Verse": "when my path was drenched with cream and the rock poured out for me streams of olive oil."
+            },
+            {
+              "Verseid": "00000007",
+              "Verse": "“When I went to the gate of the city and took my seat in the public square,"
+            },
+            {
+              "Verseid": "00000008",
+              "Verse": "the young men saw me and stepped aside and the old men rose to their feet;"
+            },
+            {
+              "Verseid": "00000009",
+              "Verse": "the chief men refrained from speaking and covered their mouths with their hands;"
+            },
+            {
+              "Verseid": "00000010",
+              "Verse": "the voices of the nobles were hushed, and their tongues stuck to the roof of their mouths."
+            },
+            {
+              "Verseid": "00000011",
+              "Verse": "Whoever heard me spoke well of me, and those who saw me commended me,"
+            },
+            {
+              "Verseid": "00000012",
+              "Verse": "because I rescued the poor who cried for help, and the fatherless who had none to assist them."
+            },
+            {
+              "Verseid": "00000013",
+              "Verse": "The one who was dying blessed me; I made the widow`s heart sing."
+            },
+            {
+              "Verseid": "00000014",
+              "Verse": "I put on righteousness as my clothing; justice was my robe and my turban."
+            },
+            {
+              "Verseid": "00000015",
+              "Verse": "I was eyes to the blind and feet to the lame."
+            },
+            {
+              "Verseid": "00000016",
+              "Verse": "I was a father to the needy; I took up the case of the stranger."
+            },
+            {
+              "Verseid": "00000017",
+              "Verse": "I broke the fangs of the wicked and snatched the victims from their teeth."
+            },
+            {
+              "Verseid": "00000018",
+              "Verse": "“I thought, ‘I will die in my own house, my days as numerous as the grains of sand."
+            },
+            {
+              "Verseid": "00000019",
+              "Verse": "My roots will reach to the water, and the dew will lie all night on my branches."
+            },
+            {
+              "Verseid": "00000020",
+              "Verse": "My glory will not fade; the bow will be ever new in my hand.`"
+            },
+            {
+              "Verseid": "00000021",
+              "Verse": "“People listened to me expectantly, waiting in silence for my counsel."
+            },
+            {
+              "Verseid": "00000022",
+              "Verse": "After I had spoken, they spoke no more; my words fell gently on their ears."
+            },
+            {
+              "Verseid": "00000023",
+              "Verse": "They waited for me as for showers and drank in my words as the spring rain."
+            },
+            {
+              "Verseid": "00000024",
+              "Verse": "When I smiled at them, they scarcely believed it; the light of my face was precious to them."
+            },
+            {
+              "Verseid": "00000025",
+              "Verse": "I chose the way for them and sat as their chief; I dwelt as a king among his troops; I was like one who comforts mourners."
+            }
+          ]
+        },
+        {
+          "Chapterid": "30",
+          "Verse": [
+            {
+              "Verseid": "00000001",
+              "Verse": "“But now they mock me, men younger than I, whose fathers I would have disdained to put with my sheep dogs."
+            },
+            {
+              "Verseid": "00000002",
+              "Verse": "Of what use was the strength of their hands to me, since their vigor had gone from them?"
+            },
+            {
+              "Verseid": "00000003",
+              "Verse": "Haggard from want and hunger, they roamed the parched land in desolate wastelands at night."
+            },
+            {
+              "Verseid": "00000004",
+              "Verse": "In the brush they gathered salt herbs, and their food was the root of the broom bush."
+            },
+            {
+              "Verseid": "00000005",
+              "Verse": "They were banished from human society, shouted at as if they were thieves."
+            },
+            {
+              "Verseid": "00000006",
+              "Verse": "They were forced to live in the dry stream beds, among the rocks and in holes in the ground."
+            },
+            {
+              "Verseid": "00000007",
+              "Verse": "They brayed among the bushes and huddled in the undergrowth."
+            },
+            {
+              "Verseid": "00000008",
+              "Verse": "A base and nameless brood, they were driven out of the land."
+            },
+            {
+              "Verseid": "00000009",
+              "Verse": "“And now those young men mock me in song; I have become a byword among them."
+            },
+            {
+              "Verseid": "00000010",
+              "Verse": "They detest me and keep their distance; they do not hesitate to spit in my face."
+            },
+            {
+              "Verseid": "00000011",
+              "Verse": "Now that God has unstrung my bow and afflicted me, they throw off restraint in my presence."
+            },
+            {
+              "Verseid": "00000012",
+              "Verse": "On my right the tribe attacks; they lay snares for my feet, they build their siege ramps against me."
+            },
+            {
+              "Verseid": "00000013",
+              "Verse": "They break up my road; they succeed in destroying me. ‘No one can help him,` they say."
+            },
+            {
+              "Verseid": "00000014",
+              "Verse": "They advance as through a gaping breach; amid the ruins they come rolling in."
+            },
+            {
+              "Verseid": "00000015",
+              "Verse": "Terrors overwhelm me; my dignity is driven away as by the wind, my safety vanishes like a cloud."
+            },
+            {
+              "Verseid": "00000016",
+              "Verse": "“And now my life ebbs away; days of suffering grip me."
+            },
+            {
+              "Verseid": "00000017",
+              "Verse": "Night pierces my bones; my gnawing pains never rest."
+            },
+            {
+              "Verseid": "00000018",
+              "Verse": "In his great power God becomes like clothing to me; he binds me like the neck of my garment."
+            },
+            {
+              "Verseid": "00000019",
+              "Verse": "He throws me into the mud, and I am reduced to dust and ashes."
+            },
+            {
+              "Verseid": "00000020",
+              "Verse": "“I cry out to you, God, but you do not answer; I stand up, but you merely look at me."
+            },
+            {
+              "Verseid": "00000021",
+              "Verse": "You turn on me ruthlessly; with the might of your hand you attack me."
+            },
+            {
+              "Verseid": "00000022",
+              "Verse": "You snatch me up and drive me before the wind; you toss me about in the storm."
+            },
+            {
+              "Verseid": "00000023",
+              "Verse": "I know you will bring me down to death, to the place appointed for all the living."
+            },
+            {
+              "Verseid": "00000024",
+              "Verse": "“Surely no one lays a hand on a broken man when he cries for help in his distress."
+            },
+            {
+              "Verseid": "00000025",
+              "Verse": "Have I not wept for those in trouble? Has not my soul grieved for the poor?"
+            },
+            {
+              "Verseid": "00000026",
+              "Verse": "Yet when I hoped for good, evil came; when I looked for light, then came darkness."
+            },
+            {
+              "Verseid": "00000027",
+              "Verse": "The churning inside me never stops; days of suffering confront me."
+            },
+            {
+              "Verseid": "00000028",
+              "Verse": "I go about blackened, but not by the sun; I stand up in the assembly and cry for help."
+            },
+            {
+              "Verseid": "00000029",
+              "Verse": "I have become a brother of jackals, a companion of owls."
+            },
+            {
+              "Verseid": "00000030",
+              "Verse": "My skin grows black and peels; my body burns with fever."
+            },
+            {
+              "Verseid": "00000031",
+              "Verse": "My lyre is tuned to mourning, and my pipe to the sound of wailing."
+            }
+          ]
+        },
+        {
+          "Chapterid": "31",
+          "Verse": [
+            {
+              "Verseid": "00000001",
+              "Verse": "“I made a covenant with my eyes not to look lustfully at a young woman."
+            },
+            {
+              "Verseid": "00000002",
+              "Verse": "For what is our lot from God above, our heritage from the Almighty on high?"
+            },
+            {
+              "Verseid": "00000003",
+              "Verse": "Is it not ruin for the wicked, disaster for those who do wrong?"
+            },
+            {
+              "Verseid": "00000004",
+              "Verse": "Does he not see my ways and count my every step?"
+            },
+            {
+              "Verseid": "00000005",
+              "Verse": "“If I have walked with falsehood or my foot has hurried after deceit—"
+            },
+            {
+              "Verseid": "00000006",
+              "Verse": "let God weigh me in honest scales and he will know that I am blameless—"
+            },
+            {
+              "Verseid": "00000007",
+              "Verse": "if my steps have turned from the path, if my heart has been led by my eyes, or if my hands have been defiled,"
+            },
+            {
+              "Verseid": "00000008",
+              "Verse": "then may others eat what I have sown, and may my crops be uprooted."
+            },
+            {
+              "Verseid": "00000009",
+              "Verse": "“If my heart has been enticed by a woman, or if I have lurked at my neighbor`s door,"
+            },
+            {
+              "Verseid": "00000010",
+              "Verse": "then may my wife grind another man`s grain, and may other men sleep with her."
+            },
+            {
+              "Verseid": "00000011",
+              "Verse": "For that would have been wicked, a sin to be judged."
+            },
+            {
+              "Verseid": "00000012",
+              "Verse": "It is a fire that burns to Destruction; it would have uprooted my harvest."
+            },
+            {
+              "Verseid": "00000013",
+              "Verse": "“If I have denied justice to any of my servants, whether male or female, when they had a grievance against me,"
+            },
+            {
+              "Verseid": "00000014",
+              "Verse": "what will I do when God confronts me? What will I answer when called to account?"
+            },
+            {
+              "Verseid": "00000015",
+              "Verse": "Did not he who made me in the womb make them? Did not the same one form us both within our mothers?"
+            },
+            {
+              "Verseid": "00000016",
+              "Verse": "“If I have denied the desires of the poor or let the eyes of the widow grow weary,"
+            },
+            {
+              "Verseid": "00000017",
+              "Verse": "if I have kept my bread to myself, not sharing it with the fatherless—"
+            },
+            {
+              "Verseid": "00000018",
+              "Verse": "but from my youth I reared them as a father would, and from my birth I guided the widow—"
+            },
+            {
+              "Verseid": "00000019",
+              "Verse": "if I have seen anyone perishing for lack of clothing, or the needy without garments,"
+            },
+            {
+              "Verseid": "00000020",
+              "Verse": "and their hearts did not bless me for warming them with the fleece from my sheep,"
+            },
+            {
+              "Verseid": "00000021",
+              "Verse": "if I have raised my hand against the fatherless, knowing that I had influence in court,"
+            },
+            {
+              "Verseid": "00000022",
+              "Verse": "then let my arm fall from the shoulder, let it be broken off at the joint."
+            },
+            {
+              "Verseid": "00000023",
+              "Verse": "For I dreaded destruction from God, and for fear of his splendor I could not do such things."
+            },
+            {
+              "Verseid": "00000024",
+              "Verse": "“If I have put my trust in gold or said to pure gold, ‘You are my security,`"
+            },
+            {
+              "Verseid": "00000025",
+              "Verse": "if I have rejoiced over my great wealth, the fortune my hands had gained,"
+            },
+            {
+              "Verseid": "00000026",
+              "Verse": "if I have regarded the sun in its radiance or the moon moving in splendor,"
+            },
+            {
+              "Verseid": "00000027",
+              "Verse": "so that my heart was secretly enticed and my hand offered them a kiss of homage,"
+            },
+            {
+              "Verseid": "00000028",
+              "Verse": "then these also would be sins to be judged, for I would have been unfaithful to God on high."
+            },
+            {
+              "Verseid": "00000029",
+              "Verse": "“If I have rejoiced at my enemy`s misfortune or gloated over the trouble that came to him—"
+            },
+            {
+              "Verseid": "00000030",
+              "Verse": "I have not allowed my mouth to sin by invoking a curse against their life—"
+            },
+            {
+              "Verseid": "00000031",
+              "Verse": "if those of my household have never said, ‘Who has not been filled with Job`s meat?`—"
+            },
+            {
+              "Verseid": "00000032",
+              "Verse": "but no stranger had to spend the night in the street, for my door was always open to the traveler—"
+            },
+            {
+              "Verseid": "00000033",
+              "Verse": "if I have concealed my sin as people do, by hiding my guilt in my heart"
+            },
+            {
+              "Verseid": "00000034",
+              "Verse": "because I so feared the crowd and so dreaded the contempt of the clans that I kept silent and would not go outside—"
+            },
+            {
+              "Verseid": "00000035",
+              "Verse": "(“Oh, that I had someone to hear me! I sign now my defense—let the Almighty answer me; let my accuser put his indictment in writing."
+            },
+            {
+              "Verseid": "00000036",
+              "Verse": "Surely I would wear it on my shoulder, I would put it on like a crown."
+            },
+            {
+              "Verseid": "00000037",
+              "Verse": "I would give him an account of my every step; I would present it to him as to a ruler.)—"
+            },
+            {
+              "Verseid": "00000038",
+              "Verse": "“if my land cries out against me and all its furrows are wet with tears,"
+            },
+            {
+              "Verseid": "00000039",
+              "Verse": "if I have devoured its yield without payment or broken the spirit of its tenants,"
+            },
+            {
+              "Verseid": "00000040",
+              "Verse": "then let briers come up instead of wheat and stinkweed instead of barley.” The words of Job are ended."
+            }
+          ]
+        },
+        {
+          "Chapterid": "32",
+          "Verse": [
+            {
+              "Verseid": "00000001",
+              "Verse": "So these three men stopped answering Job, because he was righteous in his own eyes."
+            },
+            {
+              "Verseid": "00000002",
+              "Verse": "But Elihu son of Barakel the Buzite, of the family of Ram, became very angry with Job for justifying himself rather than God."
+            },
+            {
+              "Verseid": "00000003",
+              "Verse": "He was also angry with the three friends, because they had found no way to refute Job, and yet had condemned him."
+            },
+            {
+              "Verseid": "00000004",
+              "Verse": "Now Elihu had waited before speaking to Job because they were older than he."
+            },
+            {
+              "Verseid": "00000005",
+              "Verse": "But when he saw that the three men had nothing more to say, his anger was aroused."
+            },
+            {
+              "Verseid": "00000006",
+              "Verse": "So Elihu son of Barakel the Buzite said: “I am young in years, and you are old; that is why I was fearful, not daring to tell you what I know."
+            },
+            {
+              "Verseid": "00000007",
+              "Verse": "I thought, ‘Age should speak; advanced years should teach wisdom.`"
+            },
+            {
+              "Verseid": "00000008",
+              "Verse": "But it is the spirit in a person, the breath of the Almighty, that gives them understanding."
+            },
+            {
+              "Verseid": "00000009",
+              "Verse": "It is not only the old who are wise, not only the aged who understand what is right."
+            },
+            {
+              "Verseid": "00000010",
+              "Verse": "“Therefore I say: Listen to me; I too will tell you what I know."
+            },
+            {
+              "Verseid": "00000011",
+              "Verse": "I waited while you spoke, I listened to your reasoning; while you were searching for words,"
+            },
+            {
+              "Verseid": "00000012",
+              "Verse": "I gave you my full attention. But not one of you has proved Job wrong; none of you has answered his arguments."
+            },
+            {
+              "Verseid": "00000013",
+              "Verse": "Do not say, ‘We have found wisdom; let God, not a man, refute him.`"
+            },
+            {
+              "Verseid": "00000014",
+              "Verse": "But Job has not marshaled his words against me, and I will not answer him with your arguments."
+            },
+            {
+              "Verseid": "00000015",
+              "Verse": "“They are dismayed and have no more to say; words have failed them."
+            },
+            {
+              "Verseid": "00000016",
+              "Verse": "Must I wait, now that they are silent, now that they stand there with no reply?"
+            },
+            {
+              "Verseid": "00000017",
+              "Verse": "I too will have my say; I too will tell what I know."
+            },
+            {
+              "Verseid": "00000018",
+              "Verse": "For I am full of words, and the spirit within me compels me;"
+            },
+            {
+              "Verseid": "00000019",
+              "Verse": "inside I am like bottled-up wine, like new wineskins ready to burst."
+            },
+            {
+              "Verseid": "00000020",
+              "Verse": "I must speak and find relief; I must open my lips and reply."
+            },
+            {
+              "Verseid": "00000021",
+              "Verse": "I will show no partiality, nor will I flatter anyone;"
+            },
+            {
+              "Verseid": "00000022",
+              "Verse": "for if I were skilled in flattery, my Maker would soon take me away."
+            }
+          ]
+        },
+        {
+          "Chapterid": "33",
+          "Verse": [
+            {
+              "Verseid": "00000001",
+              "Verse": "“But now, Job, listen to my words; pay attention to everything I say."
+            },
+            {
+              "Verseid": "00000002",
+              "Verse": "I am about to open my mouth; my words are on the tip of my tongue."
+            },
+            {
+              "Verseid": "00000003",
+              "Verse": "My words come from an upright heart; my lips sincerely speak what I know."
+            },
+            {
+              "Verseid": "00000004",
+              "Verse": "The Spirit of God has made me; the breath of the Almighty gives me life."
+            },
+            {
+              "Verseid": "00000005",
+              "Verse": "Answer me then, if you can; stand up and argue your case before me."
+            },
+            {
+              "Verseid": "00000006",
+              "Verse": "I am the same as you in God`s sight; I too am a piece of clay."
+            },
+            {
+              "Verseid": "00000007",
+              "Verse": "No fear of me should alarm you, nor should my hand be heavy on you."
+            },
+            {
+              "Verseid": "00000008",
+              "Verse": "“But you have said in my hearing— I heard the very words—"
+            },
+            {
+              "Verseid": "00000009",
+              "Verse": "‘I am pure, I have done no wrong; I am clean and free from sin."
+            },
+            {
+              "Verseid": "00000010",
+              "Verse": "Yet God has found fault with me; he considers me his enemy."
+            },
+            {
+              "Verseid": "00000011",
+              "Verse": "He fastens my feet in shackles; he keeps close watch on all my paths.`"
+            },
+            {
+              "Verseid": "00000012",
+              "Verse": "“But I tell you, in this you are not right, for God is greater than any mortal."
+            },
+            {
+              "Verseid": "00000013",
+              "Verse": "Why do you complain to him that he responds to no one`s words?"
+            },
+            {
+              "Verseid": "00000014",
+              "Verse": "For God does speak—now one way, now another— though no one perceives it."
+            },
+            {
+              "Verseid": "00000015",
+              "Verse": "In a dream, in a vision of the night, when deep sleep falls on people as they slumber in their beds,"
+            },
+            {
+              "Verseid": "00000016",
+              "Verse": "he may speak in their ears and terrify them with warnings,"
+            },
+            {
+              "Verseid": "00000017",
+              "Verse": "to turn them from wrongdoing and keep them from pride,"
+            },
+            {
+              "Verseid": "00000018",
+              "Verse": "to preserve them from the pit, their lives from perishing by the sword."
+            },
+            {
+              "Verseid": "00000019",
+              "Verse": "“Or someone may be chastened on a bed of pain with constant distress in their bones,"
+            },
+            {
+              "Verseid": "00000020",
+              "Verse": "so that their body finds food repulsive and their soul loathes the choicest meal."
+            },
+            {
+              "Verseid": "00000021",
+              "Verse": "Their flesh wastes away to nothing, and their bones, once hidden, now stick out."
+            },
+            {
+              "Verseid": "00000022",
+              "Verse": "They draw near to the pit, and their life to the messengers of death."
+            },
+            {
+              "Verseid": "00000023",
+              "Verse": "Yet if there is an angel at their side, a messenger, one out of a thousand, sent to tell them how to be upright,"
+            },
+            {
+              "Verseid": "00000024",
+              "Verse": "and he is gracious to that person and says to God, ‘Spare them from going down to the pit; I have found a ransom for them—"
+            },
+            {
+              "Verseid": "00000025",
+              "Verse": "let their flesh be renewed like a child`s; let them be restored as in the days of their youth`—"
+            },
+            {
+              "Verseid": "00000026",
+              "Verse": "then that person can pray to God and find favor with him, they will see God`s face and shout for joy; he will restore them to full well-being."
+            },
+            {
+              "Verseid": "00000027",
+              "Verse": "And they will go to others and say, ‘I have sinned, I have perverted what is right, but I did not get what I deserved."
+            },
+            {
+              "Verseid": "00000028",
+              "Verse": "God has delivered me from going down to the pit, and I shall live to enjoy the light of life.`"
+            },
+            {
+              "Verseid": "00000029",
+              "Verse": "“God does all these things to a person— twice, even three times—"
+            },
+            {
+              "Verseid": "00000030",
+              "Verse": "to turn them back from the pit, that the light of life may shine on them."
+            },
+            {
+              "Verseid": "00000031",
+              "Verse": "“Pay attention, Job, and listen to me; be silent, and I will speak."
+            },
+            {
+              "Verseid": "00000032",
+              "Verse": "If you have anything to say, answer me; speak up, for I want to vindicate you."
+            },
+            {
+              "Verseid": "00000033",
+              "Verse": "But if not, then listen to me; be silent, and I will teach you wisdom.”"
+            }
+          ]
+        },
+        {
+          "Chapterid": "34",
+          "Verse": [
+            {
+              "Verseid": "00000001",
+              "Verse": "Then Elihu said:"
+            },
+            {
+              "Verseid": "00000002",
+              "Verse": "“Hear my words, you wise men; listen to me, you men of learning."
+            },
+            {
+              "Verseid": "00000003",
+              "Verse": "For the ear tests words as the tongue tastes food."
+            },
+            {
+              "Verseid": "00000004",
+              "Verse": "Let us discern for ourselves what is right; let us learn together what is good."
+            },
+            {
+              "Verseid": "00000005",
+              "Verse": "“Job says, ‘I am innocent, but God denies me justice."
+            },
+            {
+              "Verseid": "00000006",
+              "Verse": "Although I am right, I am considered a liar; although I am guiltless, his arrow inflicts an incurable wound.`"
+            },
+            {
+              "Verseid": "00000007",
+              "Verse": "Is there anyone like Job, who drinks scorn like water?"
+            },
+            {
+              "Verseid": "00000008",
+              "Verse": "He keeps company with evildoers; he associates with the wicked."
+            },
+            {
+              "Verseid": "00000009",
+              "Verse": "For he says, ‘There is no profit in trying to please God.`"
+            },
+            {
+              "Verseid": "00000010",
+              "Verse": "“So listen to me, you men of understanding. Far be it from God to do evil, from the Almighty to do wrong."
+            },
+            {
+              "Verseid": "00000011",
+              "Verse": "He repays everyone for what they have done; he brings on them what their conduct deserves."
+            },
+            {
+              "Verseid": "00000012",
+              "Verse": "It is unthinkable that God would do wrong, that the Almighty would pervert justice."
+            },
+            {
+              "Verseid": "00000013",
+              "Verse": "Who appointed him over the earth? Who put him in charge of the whole world?"
+            },
+            {
+              "Verseid": "00000014",
+              "Verse": "If it were his intention and he withdrew his spirit and breath,"
+            },
+            {
+              "Verseid": "00000015",
+              "Verse": "all humanity would perish together and mankind would return to the dust."
+            },
+            {
+              "Verseid": "00000016",
+              "Verse": "“If you have understanding, hear this; listen to what I say."
+            },
+            {
+              "Verseid": "00000017",
+              "Verse": "Can someone who hates justice govern? Will you condemn the just and mighty One?"
+            },
+            {
+              "Verseid": "00000018",
+              "Verse": "Is he not the One who says to kings, ‘You are worthless,` and to nobles, ‘You are wicked,`"
+            },
+            {
+              "Verseid": "00000019",
+              "Verse": "who shows no partiality to princes and does not favor the rich over the poor, for they are all the work of his hands?"
+            },
+            {
+              "Verseid": "00000020",
+              "Verse": "They die in an instant, in the middle of the night; the people are shaken and they pass away; the mighty are removed without human hand."
+            },
+            {
+              "Verseid": "00000021",
+              "Verse": "“His eyes are on the ways of mortals; he sees their every step."
+            },
+            {
+              "Verseid": "00000022",
+              "Verse": "There is no deep shadow, no utter darkness, where evildoers can hide."
+            },
+            {
+              "Verseid": "00000023",
+              "Verse": "God has no need to examine people further, that they should come before him for judgment."
+            },
+            {
+              "Verseid": "00000024",
+              "Verse": "Without inquiry he shatters the mighty and sets up others in their place."
+            },
+            {
+              "Verseid": "00000025",
+              "Verse": "Because he takes note of their deeds, he overthrows them in the night and they are crushed."
+            },
+            {
+              "Verseid": "00000026",
+              "Verse": "He punishes them for their wickedness where everyone can see them,"
+            },
+            {
+              "Verseid": "00000027",
+              "Verse": "because they turned from following him and had no regard for any of his ways."
+            },
+            {
+              "Verseid": "00000028",
+              "Verse": "They caused the cry of the poor to come before him, so that he heard the cry of the needy."
+            },
+            {
+              "Verseid": "00000029",
+              "Verse": "But if he remains silent, who can condemn him? If he hides his face, who can see him? Yet he is over individual and nation alike,"
+            },
+            {
+              "Verseid": "00000030",
+              "Verse": "to keep the godless from ruling, from laying snares for the people."
+            },
+            {
+              "Verseid": "00000031",
+              "Verse": "“Suppose someone says to God, ‘I am guilty but will offend no more."
+            },
+            {
+              "Verseid": "00000032",
+              "Verse": "Teach me what I cannot see; if I have done wrong, I will not do so again.`"
+            },
+            {
+              "Verseid": "00000033",
+              "Verse": "Should God then reward you on your terms, when you refuse to repent? You must decide, not I; so tell me what you know."
+            },
+            {
+              "Verseid": "00000034",
+              "Verse": "“Men of understanding declare, wise men who hear me say to me,"
+            },
+            {
+              "Verseid": "00000035",
+              "Verse": "‘Job speaks without knowledge; his words lack insight.`"
+            },
+            {
+              "Verseid": "00000036",
+              "Verse": "Oh, that Job might be tested to the utmost for answering like a wicked man!"
+            },
+            {
+              "Verseid": "00000037",
+              "Verse": "To his sin he adds rebellion; scornfully he claps his hands among us and multiplies his words against God.”"
+            }
+          ]
+        },
+        {
+          "Chapterid": "35",
+          "Verse": [
+            {
+              "Verseid": "00000001",
+              "Verse": "Then Elihu said:"
+            },
+            {
+              "Verseid": "00000002",
+              "Verse": "“Do you think this is just? You say, ‘I am in the right, not God.`"
+            },
+            {
+              "Verseid": "00000003",
+              "Verse": "Yet you ask him, ‘What profit is it to me, and what do I gain by not sinning?`"
+            },
+            {
+              "Verseid": "00000004",
+              "Verse": "“I would like to reply to you and to your friends with you."
+            },
+            {
+              "Verseid": "00000005",
+              "Verse": "Look up at the heavens and see; gaze at the clouds so high above you."
+            },
+            {
+              "Verseid": "00000006",
+              "Verse": "If you sin, how does that affect him? If your sins are many, what does that do to him?"
+            },
+            {
+              "Verseid": "00000007",
+              "Verse": "If you are righteous, what do you give to him, or what does he receive from your hand?"
+            },
+            {
+              "Verseid": "00000008",
+              "Verse": "Your wickedness only affects humans like yourself, and your righteousness only other people."
+            },
+            {
+              "Verseid": "00000009",
+              "Verse": "“People cry out under a load of oppression; they plead for relief from the arm of the powerful."
+            },
+            {
+              "Verseid": "00000010",
+              "Verse": "But no one says, ‘Where is God my Maker, who gives songs in the night,"
+            },
+            {
+              "Verseid": "00000011",
+              "Verse": "who teaches us more than he teaches the beasts of the earth and makes us wiser than the birds in the sky?`"
+            },
+            {
+              "Verseid": "00000012",
+              "Verse": "He does not answer when people cry out because of the arrogance of the wicked."
+            },
+            {
+              "Verseid": "00000013",
+              "Verse": "Indeed, God does not listen to their empty plea; the Almighty pays no attention to it."
+            },
+            {
+              "Verseid": "00000014",
+              "Verse": "How much less, then, will he listen when you say that you do not see him, that your case is before him and you must wait for him,"
+            },
+            {
+              "Verseid": "00000015",
+              "Verse": "and further, that his anger never punishes and he does not take the least notice of wickedness."
+            },
+            {
+              "Verseid": "00000016",
+              "Verse": "So Job opens his mouth with empty talk; without knowledge he multiplies words.”"
+            }
+          ]
+        },
+        {
+          "Chapterid": "36",
+          "Verse": [
+            {
+              "Verseid": "00000001",
+              "Verse": "Elihu continued:"
+            },
+            {
+              "Verseid": "00000002",
+              "Verse": "“Bear with me a little longer and I will show you that there is more to be said in God`s behalf."
+            },
+            {
+              "Verseid": "00000003",
+              "Verse": "I get my knowledge from afar; I will ascribe justice to my Maker."
+            },
+            {
+              "Verseid": "00000004",
+              "Verse": "Be assured that my words are not false; one who has perfect knowledge is with you."
+            },
+            {
+              "Verseid": "00000005",
+              "Verse": "“God is mighty, but despises no one; he is mighty, and firm in his purpose."
+            },
+            {
+              "Verseid": "00000006",
+              "Verse": "He does not keep the wicked alive but gives the afflicted their rights."
+            },
+            {
+              "Verseid": "00000007",
+              "Verse": "He does not take his eyes off the righteous; he enthrones them with kings and exalts them forever."
+            },
+            {
+              "Verseid": "00000008",
+              "Verse": "But if people are bound in chains, held fast by cords of affliction,"
+            },
+            {
+              "Verseid": "00000009",
+              "Verse": "he tells them what they have done— that they have sinned arrogantly."
+            },
+            {
+              "Verseid": "00000010",
+              "Verse": "He makes them listen to correction and commands them to repent of their evil."
+            },
+            {
+              "Verseid": "00000011",
+              "Verse": "If they obey and serve him, they will spend the rest of their days in prosperity and their years in contentment."
+            },
+            {
+              "Verseid": "00000012",
+              "Verse": "But if they do not listen, they will perish by the sword and die without knowledge."
+            },
+            {
+              "Verseid": "00000013",
+              "Verse": "“The godless in heart harbor resentment; even when he fetters them, they do not cry for help."
+            },
+            {
+              "Verseid": "00000014",
+              "Verse": "They die in their youth, among male prostitutes of the shrines."
+            },
+            {
+              "Verseid": "00000015",
+              "Verse": "But those who suffer he delivers in their suffering; he speaks to them in their affliction."
+            },
+            {
+              "Verseid": "00000016",
+              "Verse": "“He is wooing you from the jaws of distress to a spacious place free from restriction, to the comfort of your table laden with choice food."
+            },
+            {
+              "Verseid": "00000017",
+              "Verse": "But now you are laden with the judgment due the wicked; judgment and justice have taken hold of you."
+            },
+            {
+              "Verseid": "00000018",
+              "Verse": "Be careful that no one entices you by riches; do not let a large bribe turn you aside."
+            },
+            {
+              "Verseid": "00000019",
+              "Verse": "Would your wealth or even all your mighty efforts sustain you so you would not be in distress?"
+            },
+            {
+              "Verseid": "00000020",
+              "Verse": "Do not long for the night, to drag people away from their homes."
+            },
+            {
+              "Verseid": "00000021",
+              "Verse": "Beware of turning to evil, which you seem to prefer to affliction."
+            },
+            {
+              "Verseid": "00000022",
+              "Verse": "“God is exalted in his power. Who is a teacher like him?"
+            },
+            {
+              "Verseid": "00000023",
+              "Verse": "Who has prescribed his ways for him, or said to him, ‘You have done wrong`?"
+            },
+            {
+              "Verseid": "00000024",
+              "Verse": "Remember to extol his work, which people have praised in song."
+            },
+            {
+              "Verseid": "00000025",
+              "Verse": "All humanity has seen it; mortals gaze on it from afar."
+            },
+            {
+              "Verseid": "00000026",
+              "Verse": "How great is God—beyond our understanding! The number of his years is past finding out."
+            },
+            {
+              "Verseid": "00000027",
+              "Verse": "“He draws up the drops of water, which distill as rain to the streams;"
+            },
+            {
+              "Verseid": "00000028",
+              "Verse": "the clouds pour down their moisture and abundant showers fall on mankind."
+            },
+            {
+              "Verseid": "00000029",
+              "Verse": "Who can understand how he spreads out the clouds, how he thunders from his pavilion?"
+            },
+            {
+              "Verseid": "00000030",
+              "Verse": "See how he scatters his lightning about him, bathing the depths of the sea."
+            },
+            {
+              "Verseid": "00000031",
+              "Verse": "This is the way he governs the nations and provides food in abundance."
+            },
+            {
+              "Verseid": "00000032",
+              "Verse": "He fills his hands with lightning and commands it to strike its mark."
+            },
+            {
+              "Verseid": "00000033",
+              "Verse": "His thunder announces the coming storm; even the cattle make known its approach."
+            }
+          ]
+        },
+        {
+          "Chapterid": "37",
+          "Verse": [
+            {
+              "Verseid": "00000001",
+              "Verse": "“At this my heart pounds and leaps from its place."
+            },
+            {
+              "Verseid": "00000002",
+              "Verse": "Listen! Listen to the roar of his voice, to the rumbling that comes from his mouth."
+            },
+            {
+              "Verseid": "00000003",
+              "Verse": "He unleashes his lightning beneath the whole heaven and sends it to the ends of the earth."
+            },
+            {
+              "Verseid": "00000004",
+              "Verse": "After that comes the sound of his roar; he thunders with his majestic voice. When his voice resounds, he holds nothing back."
+            },
+            {
+              "Verseid": "00000005",
+              "Verse": "God`s voice thunders in marvelous ways; he does great things beyond our understanding."
+            },
+            {
+              "Verseid": "00000006",
+              "Verse": "He says to the snow, ‘Fall on the earth,` and to the rain shower, ‘Be a mighty downpour.`"
+            },
+            {
+              "Verseid": "00000007",
+              "Verse": "So that everyone he has made may know his work, he stops all people from their labor."
+            },
+            {
+              "Verseid": "00000008",
+              "Verse": "The animals take cover; they remain in their dens."
+            },
+            {
+              "Verseid": "00000009",
+              "Verse": "The tempest comes out from its chamber, the cold from the driving winds."
+            },
+            {
+              "Verseid": "00000010",
+              "Verse": "The breath of God produces ice, and the broad waters become frozen."
+            },
+            {
+              "Verseid": "00000011",
+              "Verse": "He loads the clouds with moisture; he scatters his lightning through them."
+            },
+            {
+              "Verseid": "00000012",
+              "Verse": "At his direction they swirl around over the face of the whole earth to do whatever he commands them."
+            },
+            {
+              "Verseid": "00000013",
+              "Verse": "He brings the clouds to punish people, or to water his earth and show his love."
+            },
+            {
+              "Verseid": "00000014",
+              "Verse": "“Listen to this, Job; stop and consider God`s wonders."
+            },
+            {
+              "Verseid": "00000015",
+              "Verse": "Do you know how God controls the clouds and makes his lightning flash?"
+            },
+            {
+              "Verseid": "00000016",
+              "Verse": "Do you know how the clouds hang poised, those wonders of him who has perfect knowledge?"
+            },
+            {
+              "Verseid": "00000017",
+              "Verse": "You who swelter in your clothes when the land lies hushed under the south wind,"
+            },
+            {
+              "Verseid": "00000018",
+              "Verse": "can you join him in spreading out the skies, hard as a mirror of cast bronze?"
+            },
+            {
+              "Verseid": "00000019",
+              "Verse": "“Tell us what we should say to him; we cannot draw up our case because of our darkness."
+            },
+            {
+              "Verseid": "00000020",
+              "Verse": "Should he be told that I want to speak? Would anyone ask to be swallowed up?"
+            },
+            {
+              "Verseid": "00000021",
+              "Verse": "Now no one can look at the sun, bright as it is in the skies after the wind has swept them clean."
+            },
+            {
+              "Verseid": "00000022",
+              "Verse": "Out of the north he comes in golden splendor; God comes in awesome majesty."
+            },
+            {
+              "Verseid": "00000023",
+              "Verse": "The Almighty is beyond our reach and exalted in power; in his justice and great righteousness, he does not oppress."
+            },
+            {
+              "Verseid": "00000024",
+              "Verse": "Therefore, people revere him, for does he not have regard for all the wise in heart?”"
+            }
+          ]
+        },
+        {
+          "Chapterid": "38",
+          "Verse": [
+            {
+              "Verseid": "00000001",
+              "Verse": "Then the Lord spoke to Job out of the storm. He said:"
+            },
+            {
+              "Verseid": "00000002",
+              "Verse": "“Who is this that obscures my plans with words without knowledge?"
+            },
+            {
+              "Verseid": "00000003",
+              "Verse": "Brace yourself like a man; I will question you, and you shall answer me."
+            },
+            {
+              "Verseid": "00000004",
+              "Verse": "“Where were you when I laid the earth`s foundation? Tell me, if you understand."
+            },
+            {
+              "Verseid": "00000005",
+              "Verse": "Who marked off its dimensions? Surely you know! Who stretched a measuring line across it?"
+            },
+            {
+              "Verseid": "00000006",
+              "Verse": "On what were its footings set, or who laid its cornerstone—"
+            },
+            {
+              "Verseid": "00000007",
+              "Verse": "while the morning stars sang together and all the angels shouted for joy?"
+            },
+            {
+              "Verseid": "00000008",
+              "Verse": "“Who shut up the sea behind doors when it burst forth from the womb,"
+            },
+            {
+              "Verseid": "00000009",
+              "Verse": "when I made the clouds its garment and wrapped it in thick darkness,"
+            },
+            {
+              "Verseid": "00000010",
+              "Verse": "when I fixed limits for it and set its doors and bars in place,"
+            },
+            {
+              "Verseid": "00000011",
+              "Verse": "when I said, ‘This far you may come and no farther; here is where your proud waves halt`?"
+            },
+            {
+              "Verseid": "00000012",
+              "Verse": "“Have you ever given orders to the morning, or shown the dawn its place,"
+            },
+            {
+              "Verseid": "00000013",
+              "Verse": "that it might take the earth by the edges and shake the wicked out of it?"
+            },
+            {
+              "Verseid": "00000014",
+              "Verse": "The earth takes shape like clay under a seal; its features stand out like those of a garment."
+            },
+            {
+              "Verseid": "00000015",
+              "Verse": "The wicked are denied their light, and their upraised arm is broken."
+            },
+            {
+              "Verseid": "00000016",
+              "Verse": "“Have you journeyed to the springs of the sea or walked in the recesses of the deep?"
+            },
+            {
+              "Verseid": "00000017",
+              "Verse": "Have the gates of death been shown to you? Have you seen the gates of the deepest darkness?"
+            },
+            {
+              "Verseid": "00000018",
+              "Verse": "Have you comprehended the vast expanses of the earth? Tell me, if you know all this."
+            },
+            {
+              "Verseid": "00000019",
+              "Verse": "“What is the way to the abode of light? And where does darkness reside?"
+            },
+            {
+              "Verseid": "00000020",
+              "Verse": "Can you take them to their places? Do you know the paths to their dwellings?"
+            },
+            {
+              "Verseid": "00000021",
+              "Verse": "Surely you know, for you were already born! You have lived so many years!"
+            },
+            {
+              "Verseid": "00000022",
+              "Verse": "“Have you entered the storehouses of the snow or seen the storehouses of the hail,"
+            },
+            {
+              "Verseid": "00000023",
+              "Verse": "which I reserve for times of trouble, for days of war and battle?"
+            },
+            {
+              "Verseid": "00000024",
+              "Verse": "What is the way to the place where the lightning is dispersed, or the place where the east winds are scattered over the earth?"
+            },
+            {
+              "Verseid": "00000025",
+              "Verse": "Who cuts a channel for the torrents of rain, and a path for the thunderstorm,"
+            },
+            {
+              "Verseid": "00000026",
+              "Verse": "to water a land where no one lives, an uninhabited desert,"
+            },
+            {
+              "Verseid": "00000027",
+              "Verse": "to satisfy a desolate wasteland and make it sprout with grass?"
+            },
+            {
+              "Verseid": "00000028",
+              "Verse": "Does the rain have a father? Who fathers the drops of dew?"
+            },
+            {
+              "Verseid": "00000029",
+              "Verse": "From whose womb comes the ice? Who gives birth to the frost from the heavens"
+            },
+            {
+              "Verseid": "00000030",
+              "Verse": "when the waters become hard as stone, when the surface of the deep is frozen?"
+            },
+            {
+              "Verseid": "00000031",
+              "Verse": "“Can you bind the chains of the Pleiades? Can you loosen Orion`s belt?"
+            },
+            {
+              "Verseid": "00000032",
+              "Verse": "Can you bring forth the constellations in their seasons or lead out the Bear with its cubs?"
+            },
+            {
+              "Verseid": "00000033",
+              "Verse": "Do you know the laws of the heavens? Can you set up God`s dominion over the earth?"
+            },
+            {
+              "Verseid": "00000034",
+              "Verse": "“Can you raise your voice to the clouds and cover yourself with a flood of water?"
+            },
+            {
+              "Verseid": "00000035",
+              "Verse": "Do you send the lightning bolts on their way? Do they report to you, ‘Here we are`?"
+            },
+            {
+              "Verseid": "00000036",
+              "Verse": "Who gives the ibis wisdom or gives the rooster understanding?"
+            },
+            {
+              "Verseid": "00000037",
+              "Verse": "Who has the wisdom to count the clouds? Who can tip over the water jars of the heavens"
+            },
+            {
+              "Verseid": "00000038",
+              "Verse": "when the dust becomes hard and the clods of earth stick together?"
+            },
+            {
+              "Verseid": "00000039",
+              "Verse": "“Do you hunt the prey for the lioness and satisfy the hunger of the lions"
+            },
+            {
+              "Verseid": "00000040",
+              "Verse": "when they crouch in their dens or lie in wait in a thicket?"
+            },
+            {
+              "Verseid": "00000041",
+              "Verse": "Who provides food for the raven when its young cry out to God and wander about for lack of food?"
+            }
+          ]
+        },
+        {
+          "Chapterid": "39",
+          "Verse": [
+            {
+              "Verseid": "00000001",
+              "Verse": "“Do you know when the mountain goats give birth? Do you watch when the doe bears her fawn?"
+            },
+            {
+              "Verseid": "00000002",
+              "Verse": "Do you count the months till they bear? Do you know the time they give birth?"
+            },
+            {
+              "Verseid": "00000003",
+              "Verse": "They crouch down and bring forth their young; their labor pains are ended."
+            },
+            {
+              "Verseid": "00000004",
+              "Verse": "Their young thrive and grow strong in the wilds; they leave and do not return."
+            },
+            {
+              "Verseid": "00000005",
+              "Verse": "“Who let the wild donkey go free? Who untied its ropes?"
+            },
+            {
+              "Verseid": "00000006",
+              "Verse": "I gave it the wasteland as its home, the salt flats as its habitat."
+            },
+            {
+              "Verseid": "00000007",
+              "Verse": "It laughs at the commotion in the town; it does not hear a driver`s shout."
+            },
+            {
+              "Verseid": "00000008",
+              "Verse": "It ranges the hills for its pasture and searches for any green thing."
+            },
+            {
+              "Verseid": "00000009",
+              "Verse": "“Will the wild ox consent to serve you? Will it stay by your manger at night?"
+            },
+            {
+              "Verseid": "00000010",
+              "Verse": "Can you hold it to the furrow with a harness? Will it till the valleys behind you?"
+            },
+            {
+              "Verseid": "00000011",
+              "Verse": "Will you rely on it for its great strength? Will you leave your heavy work to it?"
+            },
+            {
+              "Verseid": "00000012",
+              "Verse": "Can you trust it to haul in your grain and bring it to your threshing floor?"
+            },
+            {
+              "Verseid": "00000013",
+              "Verse": "“The wings of the ostrich flap joyfully, though they cannot compare with the wings and feathers of the stork."
+            },
+            {
+              "Verseid": "00000014",
+              "Verse": "She lays her eggs on the ground and lets them warm in the sand,"
+            },
+            {
+              "Verseid": "00000015",
+              "Verse": "unmindful that a foot may crush them, that some wild animal may trample them."
+            },
+            {
+              "Verseid": "00000016",
+              "Verse": "She treats her young harshly, as if they were not hers; she cares not that her labor was in vain,"
+            },
+            {
+              "Verseid": "00000017",
+              "Verse": "for God did not endow her with wisdom or give her a share of good sense."
+            },
+            {
+              "Verseid": "00000018",
+              "Verse": "Yet when she spreads her feathers to run, she laughs at horse and rider."
+            },
+            {
+              "Verseid": "00000019",
+              "Verse": "“Do you give the horse its strength or clothe its neck with a flowing mane?"
+            },
+            {
+              "Verseid": "00000020",
+              "Verse": "Do you make it leap like a locust, striking terror with its proud snorting?"
+            },
+            {
+              "Verseid": "00000021",
+              "Verse": "It paws fiercely, rejoicing in its strength, and charges into the fray."
+            },
+            {
+              "Verseid": "00000022",
+              "Verse": "It laughs at fear, afraid of nothing; it does not shy away from the sword."
+            },
+            {
+              "Verseid": "00000023",
+              "Verse": "The quiver rattles against its side, along with the flashing spear and lance."
+            },
+            {
+              "Verseid": "00000024",
+              "Verse": "In frenzied excitement it eats up the ground; it cannot stand still when the trumpet sounds."
+            },
+            {
+              "Verseid": "00000025",
+              "Verse": "At the blast of the trumpet it snorts, ‘Aha!` It catches the scent of battle from afar, the shout of commanders and the battle cry."
+            },
+            {
+              "Verseid": "00000026",
+              "Verse": "“Does the hawk take flight by your wisdom and spread its wings toward the south?"
+            },
+            {
+              "Verseid": "00000027",
+              "Verse": "Does the eagle soar at your command and build its nest on high?"
+            },
+            {
+              "Verseid": "00000028",
+              "Verse": "It dwells on a cliff and stays there at night; a rocky crag is its stronghold."
+            },
+            {
+              "Verseid": "00000029",
+              "Verse": "From there it looks for food; its eyes detect it from afar."
+            },
+            {
+              "Verseid": "00000030",
+              "Verse": "Its young ones feast on blood, and where the slain are, there it is.”"
+            }
+          ]
+        },
+        {
+          "Chapterid": "40",
+          "Verse": [
+            {
+              "Verseid": "00000001",
+              "Verse": "The Lord said to Job:"
+            },
+            {
+              "Verseid": "00000002",
+              "Verse": "“Will the one who contends with the Almighty correct him? Let him who accuses God answer him!”"
+            },
+            {
+              "Verseid": "00000003",
+              "Verse": "Then Job answered the Lord:"
+            },
+            {
+              "Verseid": "00000004",
+              "Verse": "“I am unworthy—how can I reply to you? I put my hand over my mouth."
+            },
+            {
+              "Verseid": "00000005",
+              "Verse": "I spoke once, but I have no answer— twice, but I will say no more.”"
+            },
+            {
+              "Verseid": "00000006",
+              "Verse": "Then the Lord spoke to Job out of the storm:"
+            },
+            {
+              "Verseid": "00000007",
+              "Verse": "“Brace yourself like a man; I will question you, and you shall answer me."
+            },
+            {
+              "Verseid": "00000008",
+              "Verse": "“Would you discredit my justice? Would you condemn me to justify yourself?"
+            },
+            {
+              "Verseid": "00000009",
+              "Verse": "Do you have an arm like God`s, and can your voice thunder like his?"
+            },
+            {
+              "Verseid": "00000010",
+              "Verse": "Then adorn yourself with glory and splendor, and clothe yourself in honor and majesty."
+            },
+            {
+              "Verseid": "00000011",
+              "Verse": "Unleash the fury of your wrath, look at all who are proud and bring them low,"
+            },
+            {
+              "Verseid": "00000012",
+              "Verse": "look at all who are proud and humble them, crush the wicked where they stand."
+            },
+            {
+              "Verseid": "00000013",
+              "Verse": "Bury them all in the dust together; shroud their faces in the grave."
+            },
+            {
+              "Verseid": "00000014",
+              "Verse": "Then I myself will admit to you that your own right hand can save you."
+            },
+            {
+              "Verseid": "00000015",
+              "Verse": "“Look at Behemoth, which I made along with you and which feeds on grass like an ox."
+            },
+            {
+              "Verseid": "00000016",
+              "Verse": "What strength it has in its loins, what power in the muscles of its belly!"
+            },
+            {
+              "Verseid": "00000017",
+              "Verse": "Its tail sways like a cedar; the sinews of its thighs are close-knit."
+            },
+            {
+              "Verseid": "00000018",
+              "Verse": "Its bones are tubes of bronze, its limbs like rods of iron."
+            },
+            {
+              "Verseid": "00000019",
+              "Verse": "It ranks first among the works of God, yet its Maker can approach it with his sword."
+            },
+            {
+              "Verseid": "00000020",
+              "Verse": "The hills bring it their produce, and all the wild animals play nearby."
+            },
+            {
+              "Verseid": "00000021",
+              "Verse": "Under the lotus plants it lies, hidden among the reeds in the marsh."
+            },
+            {
+              "Verseid": "00000022",
+              "Verse": "The lotuses conceal it in their shadow; the poplars by the stream surround it."
+            },
+            {
+              "Verseid": "00000023",
+              "Verse": "A raging river does not alarm it; it is secure, though the Jordan should surge against its mouth."
+            },
+            {
+              "Verseid": "00000024",
+              "Verse": "Can anyone capture it by the eyes, or trap it and pierce its nose?"
+            }
+          ]
+        },
+        {
+          "Chapterid": "41",
+          "Verse": [
+            {
+              "Verseid": "00000001",
+              "Verse": "“Can you pull in Leviathan with a fishhook or tie down its tongue with a rope?"
+            },
+            {
+              "Verseid": "00000002",
+              "Verse": "Can you put a cord through its nose or pierce its jaw with a hook?"
+            },
+            {
+              "Verseid": "00000003",
+              "Verse": "Will it keep begging you for mercy? Will it speak to you with gentle words?"
+            },
+            {
+              "Verseid": "00000004",
+              "Verse": "Will it make an agreement with you for you to take it as your slave for life?"
+            },
+            {
+              "Verseid": "00000005",
+              "Verse": "Can you make a pet of it like a bird or put it on a leash for the young women in your house?"
+            },
+            {
+              "Verseid": "00000006",
+              "Verse": "Will traders barter for it? Will they divide it up among the merchants?"
+            },
+            {
+              "Verseid": "00000007",
+              "Verse": "Can you fill its hide with harpoons or its head with fishing spears?"
+            },
+            {
+              "Verseid": "00000008",
+              "Verse": "If you lay a hand on it, you will remember the struggle and never do it again!"
+            },
+            {
+              "Verseid": "00000009",
+              "Verse": "Any hope of subduing it is false; the mere sight of it is overpowering."
+            },
+            {
+              "Verseid": "00000010",
+              "Verse": "No one is fierce enough to rouse it. Who then is able to stand against me?"
+            },
+            {
+              "Verseid": "00000011",
+              "Verse": "Who has a claim against me that I must pay? Everything under heaven belongs to me."
+            },
+            {
+              "Verseid": "00000012",
+              "Verse": "“I will not fail to speak of Leviathan`s limbs, its strength and its graceful form."
+            },
+            {
+              "Verseid": "00000013",
+              "Verse": "Who can strip off its outer coat? Who can penetrate its double coat of armor?"
+            },
+            {
+              "Verseid": "00000014",
+              "Verse": "Who dares open the doors of its mouth, ringed about with fearsome teeth?"
+            },
+            {
+              "Verseid": "00000015",
+              "Verse": "Its back has rows of shields tightly sealed together;"
+            },
+            {
+              "Verseid": "00000016",
+              "Verse": "each is so close to the next that no air can pass between."
+            },
+            {
+              "Verseid": "00000017",
+              "Verse": "They are joined fast to one another; they cling together and cannot be parted."
+            },
+            {
+              "Verseid": "00000018",
+              "Verse": "Its snorting throws out flashes of light; its eyes are like the rays of dawn."
+            },
+            {
+              "Verseid": "00000019",
+              "Verse": "Flames stream from its mouth; sparks of fire shoot out."
+            },
+            {
+              "Verseid": "00000020",
+              "Verse": "Smoke pours from its nostrils as from a boiling pot over burning reeds."
+            },
+            {
+              "Verseid": "00000021",
+              "Verse": "Its breath sets coals ablaze, and flames dart from its mouth."
+            },
+            {
+              "Verseid": "00000022",
+              "Verse": "Strength resides in its neck; dismay goes before it."
+            },
+            {
+              "Verseid": "00000023",
+              "Verse": "The folds of its flesh are tightly joined; they are firm and immovable."
+            },
+            {
+              "Verseid": "00000024",
+              "Verse": "Its chest is hard as rock, hard as a lower millstone."
+            },
+            {
+              "Verseid": "00000025",
+              "Verse": "When it rises up, the mighty are terrified; they retreat before its thrashing."
+            },
+            {
+              "Verseid": "00000026",
+              "Verse": "The sword that reaches it has no effect, nor does the spear or the dart or the javelin."
+            },
+            {
+              "Verseid": "00000027",
+              "Verse": "Iron it treats like straw and bronze like rotten wood."
+            },
+            {
+              "Verseid": "00000028",
+              "Verse": "Arrows do not make it flee; slingstones are like chaff to it."
+            },
+            {
+              "Verseid": "00000029",
+              "Verse": "A club seems to it but a piece of straw; it laughs at the rattling of the lance."
+            },
+            {
+              "Verseid": "00000030",
+              "Verse": "Its undersides are jagged potsherds, leaving a trail in the mud like a threshing sledge."
+            },
+            {
+              "Verseid": "00000031",
+              "Verse": "It makes the depths churn like a boiling caldron and stirs up the sea like a pot of ointment."
+            },
+            {
+              "Verseid": "00000032",
+              "Verse": "It leaves a glistening wake behind it; one would think the deep had white hair."
+            },
+            {
+              "Verseid": "00000033",
+              "Verse": "Nothing on earth is its equal— a creature without fear."
+            },
+            {
+              "Verseid": "00000034",
+              "Verse": "It looks down on all that are haughty; it is king over all that are proud.”"
+            }
+          ]
+        },
+        {
+          "Chapterid": "42",
+          "Verse": [
+            {
+              "Verseid": "00000001",
+              "Verse": "Then Job replied to the Lord:"
+            },
+            {
+              "Verseid": "00000002",
+              "Verse": "“I know that you can do all things; no purpose of yours can be thwarted."
+            },
+            {
+              "Verseid": "00000003",
+              "Verse": "You asked, ‘Who is this that obscures my plans without knowledge?` Surely I spoke of things I did not understand, things too wonderful for me to know."
+            },
+            {
+              "Verseid": "00000004",
+              "Verse": "“You said, ‘Listen now, and I will speak; I will question you, and you shall answer me.`"
+            },
+            {
+              "Verseid": "00000005",
+              "Verse": "My ears had heard of you but now my eyes have seen you."
+            },
+            {
+              "Verseid": "00000006",
+              "Verse": "Therefore I despise myself and repent in dust and ashes.”"
+            },
+            {
+              "Verseid": "00000007",
+              "Verse": "After the Lord had said these things to Job, he said to Eliphaz the Temanite, “I am angry with you and your two friends, because you have not spoken the truth about me, as my servant Job has."
+            },
+            {
+              "Verseid": "00000008",
+              "Verse": "So now take seven bulls and seven rams and go to my servant Job and sacrifice a burnt offering for yourselves. My servant Job will pray for you, and I will accept his prayer and not deal with you according to your folly. You have not spoken the truth about me, as my servant Job has.”"
+            },
+            {
+              "Verseid": "00000009",
+              "Verse": "So Eliphaz the Temanite, Bildad the Shuhite and Zophar the Naamathite did what the Lord told them; and the Lord accepted Job`s prayer."
+            },
+            {
+              "Verseid": "00000010",
+              "Verse": "After Job had prayed for his friends, the Lord restored his fortunes and gave him twice as much as he had before."
+            },
+            {
+              "Verseid": "00000011",
+              "Verse": "All his brothers and sisters and everyone who had known him before came and ate with him in his house. They comforted and consoled him over all the trouble the Lord had brought on him, and each one gave him a piece of silver and a gold ring."
+            },
+            {
+              "Verseid": "00000012",
+              "Verse": "The Lord blessed the latter part of Job`s life more than the former part. He had fourteen thousand sheep, six thousand camels, a thousand yoke of oxen and a thousand donkeys."
+            },
+            {
+              "Verseid": "00000013",
+              "Verse": "And he also had seven sons and three daughters."
+            },
+            {
+              "Verseid": "00000014",
+              "Verse": "The first daughter he named Jemimah, the second Keziah and the third Keren-Happuch."
+            },
+            {
+              "Verseid": "00000015",
+              "Verse": "Nowhere in all the land were there found women as beautiful as Job`s daughters, and their father granted them an inheritance along with their brothers."
+            },
+            {
+              "Verseid": "00000016",
+              "Verse": "After this, Job lived a hundred and forty years; he saw his children and their children to the fourth generation."
+            },
+            {
+              "Verseid": "00000017",
+              "Verse": "And so Job died, an old man and full of years."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
