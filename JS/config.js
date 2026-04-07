@@ -10,9 +10,9 @@ export const CONFIG = {
     SEARCH_DEBOUNCE: 300,
     RESULTS_PER_PAGE: 100,
     SEARCH_PROGRESS_INTERVAL: 50,
-    API_ENDPOINT: 'https://localhost/ethicallaw/getbook.php',
-    API_ENDPOINT_ENGLISH: 'https://localhost/ethicallaw/getbook_english.php',
-    SEARCH_DATA_FILE: 'https://localhost/ethicallaw/get_search_data.php',
+    API_ENDPOINT: 'getbook.php',
+    API_ENDPOINT_ENGLISH: 'getbook_english.php',
+    SEARCH_DATA_FILE: 'get_search_data.php',
     CACHE_VERSION: '2.0'
 };
 
