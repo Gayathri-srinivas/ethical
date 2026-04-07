@@ -58,7 +58,11 @@ try {
     }
     
     // Cache MISS - Load from file
-    if (!file_exists($filePath)) {
+ {if (!file_exists($filePath)) {
+    $formattedNumber = sprintf("%02d", $bookNumber); 
+    // ఇది 1 ని 01 గా మారుస్తుంది
+    $filePath = 'Books/' . $formattedNumber . '_' . explode('_', $fileName, 2)[1] . '.json';
+}
         http_response_code(404);
         echo json_encode([
             'error' => true, 
