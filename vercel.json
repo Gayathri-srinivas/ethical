@@ -1,5 +1,9 @@
 {
+  "version": 2,
   "routes": [
+    { "src": "/JS/(.*)", "dest": "/JS/$1" },
+    { "src": "/Books/(.*)", "dest": "/Books/$1" },
+    { "src": "/styles.css", "dest": "/styles.css" },
     { "src": "/getbook.php", "dest": "/getbook.php" },
     { "src": "/getbook_english.php", "dest": "/getbook_english.php" },
     { "src": "/get_search_data.php", "dest": "/get_search_data.php" },
