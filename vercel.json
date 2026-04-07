@@ -1,10 +1,16 @@
 {
-  "functions": {
-    "*.php": {
-      "runtime": "vercel-php@0.7.1"
-    }
-  },
+  "builds": [
+    { "src": "*.php", "use": "vercel-php@0.7.1" },
+    { "src": "JS/(.*)", "use": "@vercel/static" },
+    { "src": "Books/(.*)", "use": "@vercel/static" },
+    { "src": "EngBooks/(.*)", "use": "@vercel/static" },
+    { "src": "styles.css", "use": "@vercel/static" }
+  ],
   "routes": [
+    { "src": "/JS/(.*)", "dest": "/JS/$1" },
+    { "src": "/Books/(.*)", "dest": "/Books/$1" },
+    { "src": "/EngBooks/(.*)", "dest": "/EngBooks/$1" },
+    { "src": "/styles.css", "dest": "/styles.css" },
     { "src": "/(.*).php", "dest": "/$1.php" },
     { "src": "/(.*)", "dest": "/index.php" }
   ]
