@@ -1,9 +1,4 @@
 {
-  "functions": {
-    "getbook.php": { "runtime": "vercel-php@0.7.1" },
-    "getbook_english.php": { "runtime": "vercel-php@0.7.1" },
-    "get_search_data.php": { "runtime": "vercel-php@0.7.1" }
-  },
   "routes": [
     { "src": "/getbook.php", "dest": "/getbook.php" },
     { "src": "/getbook_english.php", "dest": "/getbook_english.php" },
